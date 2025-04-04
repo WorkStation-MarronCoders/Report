@@ -21,9 +21,9 @@ Aplicaciones Web <br>
 
 | **Member**                           | **Code**     |
 |--------------------------------------|--------------|
-| Rodrigo Liberato Saldaña      | U202215623   |
-|Emilia Durán Santander        |U201914541    |
-|  |    |
+| Rodrigo Liberato Saldaña      | U202215623  |
+|Emilia Durán Santander         | U201914541  |
+|Jeremy Quijada Magro           | U202219657  |
 |      |    |
 |      |    |
 
