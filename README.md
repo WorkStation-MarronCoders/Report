@@ -141,9 +141,9 @@ TB1:
 
 ## 1.1 Start-Up Profile
 ### 1.1.1. Descripción de la Startup
-WorkStation es una aplicación que transformará la manera en la que las startups encuentran oficinas y espacios de coworking. Nuestra plataforma permite a las empresas encontrar espacios de oficina adptados a las necesidades de su equipo, ya sea para alquilar a corto o largo plazo. Además, si eres freelancer, puedes acceder a una variedad de espacios de trabajo que fomentan la productividad y la creatividad.
+WorkStation es una aplicación web innovadora diseñada para facilitar la reserva eficiente de espacios de trabajo en oficinas compartidas. Su propósito es conectar a freelancers, trabajadores remotos, startups y empresas de todos los tamaños con espacios de coworking disponibles en su ciudad o alrededor del mundo.
 
-WorkStation se destaca por su enfoque en la personalización y el mantenimiento de espacios, adepatándose a los cambios dinámicos del mercado de trabjao y proporcionando soluciones flexibles para emprendedores y propietarios de inmuebles. 
+La plataforma permitirá a los usuarios buscar, comparar y reservar escritorios, salas de reuniones, oficinas privadas y otros recursos disponibles en tiempo real. Cada espacio contará con información detallada como ubicación, precios, horarios, disponibilidad, fotos, servicios incluidos (Wi-Fi, café, impresoras, etc.), y valoraciones de otros usuarios
 
 Considerando la flexibildad y la adaptabilidad como puntos esenciales para el crecimiento de las startups y los trabajos freelance, WorkStation brinda una solución que compite con la rigidez de los contratos tradicionales, y propone una instancia mucho más moderna para este espacio de trabajo que las empresas necesitan.
 
