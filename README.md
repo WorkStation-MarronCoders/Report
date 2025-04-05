@@ -141,13 +141,11 @@ TB1:
 
 ## 1.1 Start-Up Profile
 ### 1.1.1. Descripción de la Startup
-<p align="justify">
   WorkStation es una aplicación web innovadora diseñada para facilitar la reserva eficiente de espacios de trabajo en oficinas compartidas. Su propósito es conectar a freelancers, trabajadores remotos, startups y empresas de todos los tamaños con espacios de coworking disponibles en su ciudad o alrededor del mundo.
 
   La plataforma permitirá a los usuarios buscar, comparar y reservar escritorios, salas de reuniones, oficinas privadas y otros recursos disponibles en tiempo real. Cada espacio contará con información detallada como ubicación, precios, horarios, disponibilidad, fotos, servicios incluidos (Wi-Fi, café, impresoras, etc.), y valoraciones de otros usuarios
 
   Considerando la flexibildad y la adaptabilidad como puntos esenciales para el crecimiento de las startups y los trabajos freelance, WorkStation brinda una solución que compite con la rigidez de los contratos tradicionales, y propone una instancia mucho más moderna para este espacio de trabajo que las empresas necesitan.
-</p>
 
 ### 1.1.2. Perfiles de integrantes del equipo
 | Foto                       | Alumno       | Descripción        |
@@ -182,8 +180,7 @@ TB1:
   Mediante el desarrollo de una aplicación web llamada WorkStation, que permita a los usuarios explorar una variedad de espacios de coworking, visualizar disponibilidad, leer reseñas, aplicar filtros, hacer reservas en tiempo real y pagar desde una sola interfaz.
 
 - **How Much (¿Cuánto costaría y cómo se monetiza?)**  
-  Los precios varían según ciudad, tipo de espacio, servicios y duración. La plataforma podrá mostrar precios claros y actualizados.  
-  El modelo de negocio se sustentará en comisiones por reserva, planes de suscripción para coworking o membresías premium para usuarios frecuentes.
+  Los precios varían según ciudad, tipo de espacio, servicios y duración. La plataforma podrá mostrar precios claros y actualizados. El modelo de negocio se sustentará en comisiones por reserva, planes de suscripción para coworking o membresías premium para usuarios frecuentes.
 
 ### 1.2.2 Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
@@ -191,6 +188,51 @@ TB1:
 #### 1.2.2.3. Lean UX Problem Hypothesis Statements
 #### 1.2.2.4. Lean UX Problem Canvas
 ## 1.3. Segmentos objetivo
+En el proyecto nos enfocamos en dos segmentos principales de usuarios, directamente relacionados con el dominio del problema: **los propietarios de espacios de coworking** y **los usuarios que buscan dichos espacios**, como freelancers y startups. A continuación, se describen en detalle ambos perfiles.
+---
+
+### Propietarios de Inmuebles (Coworkings)
+Corresponde a personas naturales o jurídicas que administran o alquilan espacios acondicionados para trabajo compartido, como oficinas, salas de reuniones, escritorios flexibles, entre otros.
+
+#### Características Demográficas
+- **Ubicación:** Principalmente zonas urbanas de alto flujo empresarial, como Miraflores, San Isidro, Surco (Lima).
+- **Edad promedio de los administradores:** 30 a 55 años.
+- **Nivel socioeconómico:** Medio-alto a alto.
+- **Tipo de propiedad:** Empresas formales, pymes inmobiliarias o propietarios individuales.
+
+#### Datos Relevantes
+- En Lima existen más de 150 espacios de coworking activos (Andina, 2023).
+- El 67% de estos espacios reporta dificultades para llenar su capacidad total, especialmente en horarios valle (CoworkIntel, 2022).
+- La mayoría carece de una plataforma de reservas centralizada, y operan mediante WhatsApp, redes sociales o formularios web.
+
+#### Necesidades Clave
+- Mayor visibilidad de su espacio.
+- Automatización del proceso de reservas.
+- Optimización de la ocupabilidad de sus ambientes.
+- Acceso a métricas sobre uso y satisfacción de clientes.
+---
+
+### Freelancers y Startups
+Este grupo está compuesto por trabajadores independientes, equipos pequeños de desarrollo, marketing, diseño, entre otros, así como emprendedores en etapa inicial.
+
+#### Características Demográficas
+- **Edad:** Entre 20 y 40 años.
+- **Ubicación:** Centros urbanos con alta conectividad.
+- **Nivel educativo:** Técnico o universitario completo.
+- **Ocupación:** Diseñadores, desarrolladores, consultores, creadores de contenido, equipos de startups.
+- **Ingreso promedio mensual:** S/ 2,000 – S/ 5,000 (varía por actividad y clientes).
+
+#### Datos Relevantes
+- Se estima que más de 500,000 peruanos trabajan como freelancers (Statista, 2022), y esta cifra crece con el auge del trabajo remoto postpandemia.
+- Según un estudio de WeWork (2021), el 78% de los trabajadores remotos en LATAM buscan espacios fuera de casa al menos una vez por semana.
+- El 60% de los freelancers jóvenes en Lima considera los coworkings como espacios que fomentan productividad y networking (PUCP, 2023).
+
+#### Necesidades Clave
+- Acceso flexible a espacios profesionales sin necesidad de contrato a largo plazo.
+- Precios accesibles, según uso (por horas o días).
+- Información clara sobre servicios incluidos (wifi, café, salas, etc.).
+- Reseñas de otros usuarios para tomar decisiones confiables.
+---
 
 # Capitulo 2
 
