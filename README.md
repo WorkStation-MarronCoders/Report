@@ -188,8 +188,7 @@ TB1:
 #### 1.2.2.3. Lean UX Problem Hypothesis Statements
 #### 1.2.2.4. Lean UX Problem Canvas
 ## 1.3. Segmentos objetivo
-En el proyecto nos enfocamos en dos segmentos principales de usuarios, directamente relacionados con el dominio del problema: **los propietarios de espacios de coworking** y **los usuarios que buscan dichos espacios**, como freelancers y startups. A continuación, se describen en detalle ambos perfiles.
----
+En el proyecto nos enfocamos en dos segmentos principales de usuarios, directamente relacionados con el dominio del problema: los propietarios de espacios de coworking y los usuarios que buscan dichos espacios, como freelancers y startups. A continuación, se describen en detalle ambos perfiles.
 
 ### Propietarios de Inmuebles (Coworkings)
 Corresponde a personas naturales o jurídicas que administran o alquilan espacios acondicionados para trabajo compartido, como oficinas, salas de reuniones, escritorios flexibles, entre otros.
@@ -210,7 +209,6 @@ Corresponde a personas naturales o jurídicas que administran o alquilan espacio
 - Automatización del proceso de reservas.
 - Optimización de la ocupabilidad de sus ambientes.
 - Acceso a métricas sobre uso y satisfacción de clientes.
----
 
 ### Freelancers y Startups
 Este grupo está compuesto por trabajadores independientes, equipos pequeños de desarrollo, marketing, diseño, entre otros, así como emprendedores en etapa inicial.
@@ -232,7 +230,6 @@ Este grupo está compuesto por trabajadores independientes, equipos pequeños de
 - Precios accesibles, según uso (por horas o días).
 - Información clara sobre servicios incluidos (wifi, café, salas, etc.).
 - Reseñas de otros usuarios para tomar decisiones confiables.
----
 
 # Capitulo 2
 
