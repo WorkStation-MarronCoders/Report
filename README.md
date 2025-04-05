@@ -241,8 +241,6 @@ Para validar la propuesta de valor de WorkStation, se priorizará un segmento es
 
 #### 1.2.2.3. Lean UX Problem Hypothesis Statements
 
-## 🧩 Hypothesis Statements - WorkStation
-
 - **Hipótesis 1: Si ofrecemos una plataforma centralizada y fácil de usar para reservar espacios de coworking, entonces los freelancers y pequeñas empresas preferirán utilizarla debido a la flexibilidad y la facilidad de acceso a diferentes opciones de trabajo.**
 
 - **Hipótesis 2: Si los propietarios de espacios de coworking obtienen mayor visibilidad y una herramienta para gestionar eficientemente las reservas, entonces experimentarán un aumento en la ocupación de sus espacios y en la satisfacción de sus clientes.**
