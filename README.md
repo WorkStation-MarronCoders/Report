@@ -182,7 +182,7 @@ TB1:
 - **How Much (¿Cuánto costaría y cómo se monetiza?)**  
   Los precios varían según ciudad, tipo de espacio, servicios y duración. La plataforma podrá mostrar precios claros y actualizados. El modelo de negocio se sustentará en comisiones por reserva, planes de suscripción para coworking o membresías premium para usuarios frecuentes.
 
-### Descripción del Problema
+### Descripción de la Problemática
 En los últimos años, el trabajo remoto y el modelo freelance han experimentado un crecimiento significativo en Perú y América Latina. Según Statista (2023), más del 20% de los trabajadores peruanos realiza actividades de forma independiente o remota, y esta tendencia continúa en aumento. Sin embargo, este cambio en la modalidad laboral no ha sido acompañado por soluciones tecnológicas que respondan de manera efectiva a las necesidades de espacio físico flexible, accesible y bien ubicado.
 
 Por otro lado, el mercado de espacios coworking también ha crecido rápidamente en Lima, con más de 300 centros operando actualmente, especialmente en distritos como Miraflores, San Isidro y Surco (Andina, 2023). A pesar de esta expansión, muchos de estos espacios enfrentan dificultades para ocupar sus instalaciones de forma constante, especialmente en horarios valle o días con baja demanda. La mayoría de propietarios aún dependen de canales informales (WhatsApp, redes sociales o referidos) para captar nuevos usuarios, lo que limita su visibilidad y su capacidad para escalar comercialmente.
@@ -191,12 +191,54 @@ Esta desconexión entre la **alta demanda de espacios temporales de trabajo** y 
 
 En este contexto, **WorkStation** surge como una solución tecnológica que busca cerrar esta brecha, permitiendo a freelancers, startups y profesionales acceder fácilmente a espacios de trabajo mediante una plataforma web intuitiva, al mismo tiempo que otorga a los propietarios herramientas de visibilidad, control de disponibilidad y generación de ingresos más eficientes.
 
-
 ### 1.2.2 Lean UX Process
+Es una metodología de gestión que busca eliminar el desperdicio y optimizar la eficiencia en los procesos, centrándose en satisfacer las necesidades del cliente y mejorar continuamente. Se basa en principios como la identificación y eliminación de actividades que no agregan valor y la promoción de la mejora continua en todas las etapas del proceso. 
+--
 #### 1.2.2.1. Lean UX Problem Statements
+##### Dominio del Problema
+El proyecto WorkStation se desarrolla en el dominio de los espacios de trabajo compartidos (coworking), una industria en expansión que responde a la evolución del trabajo remoto, el crecimiento del autoempleo y la economía de los servicios digitales. A pesar de esta expansión, la interacción entre la oferta (espacios disponibles) y la demanda (profesionales independientes o empresas en crecimiento) aún se encuentra fragmentada y desorganizada, especialmente en el mercado peruano, donde no existen plataformas digitales de gran alcance que faciliten esta conexión de manera eficiente.
+
+#### Segmentos de Cliente
+1. **Freelancers, startups y profesionales remotos**: Personas entre 22 y 40 años que requieren espacios de trabajo flexibles, temporales y bien ubicados. Este segmento prioriza la autonomía, la conectividad y la comodidad, y espera poder gestionar sus reservas de manera rápida y sencilla desde una plataforma digital.
+2. **Propietarios o administradores de espacios coworking**: Emprendedores o pequeñas empresas que buscan visibilidad, gestión automatizada de reservas y canales efectivos para ocupar sus instalaciones durante todo el día. Muchos de estos propietarios no cuentan con sistemas digitales propios y dependen de medios manuales o redes sociales para captar usuarios.
+
+#### Puntos de Dolor
+- **Freelancers y startups**:
+  - No encuentran una oferta centralizada y confiable de espacios disponibles.
+  - Carecen de filtros que les permitan comparar opciones según ubicación, precio o servicios.
+  - El proceso de reserva suele ser informal, poco transparente y lento.
+
+- **Propietarios de coworkings**:
+  - Alta dependencia de canales informales para captar clientes (WhatsApp, redes sociales).
+  - Ausencia de herramientas para gestionar disponibilidad en tiempo real.
+  - Pérdida de ingresos por falta de reservas constantes y baja visibilidad.
+
+
+#### Brecha Detectada
+En Perú, no existe actualmente una plataforma digital consolidada que conecte, en tiempo real, a freelancers y startups con espacios coworking disponibles. Esta brecha genera una experiencia ineficiente tanto para quienes buscan un lugar para trabajar como para quienes lo ofrecen. A diferencia de mercados como Estados Unidos o Europa —donde plataformas como LiquidSpace o Deskpass dominan el rubro, el ecosistema local aún carece de soluciones tecnológicas adaptadas al comportamiento y necesidades del mercado peruano.
+
+#### Visión y Estrategia
+**Visión**: Crear una plataforma web que actúe como un marketplace digital para espacios de coworking, brindando a los usuarios una experiencia de reserva ágil, confiable y personalizada, y a los propietarios una solución de gestión eficiente que maximice el uso de sus instalaciones.
+**Estrategia**:
+- Desarrollar un producto mínimo viable (MVP) que permita validar tempranamente la propuesta de valor.
+- Enfocarse en la usabilidad, accesibilidad y confiabilidad de la plataforma.
+- Establecer alianzas estratégicas con coworkings emergentes de Lima.
+- Implementar un modelo de monetización basado en comisión por reserva, con herramientas analíticas para los propietarios.
+
+
+#### Segmento Inicial
+
+Para validar la propuesta de valor de WorkStation, se priorizará un segmento específico en la etapa inicial del proyecto:
+
+- **Usuarios meta**: Freelancers y profesionales digitales entre 22 y 35 años, ubicados en Lima Metropolitana, que trabajan de forma remota o de manera independiente.
+- **Aliados estratégicos**: Coworkings de tamaño pequeño a mediano, ubicados en distritos céntricos como Miraflores, Barranco y San Isidro, que no cuentan con plataformas propias de gestión o marketing digital.
+
 #### 1.2.2.2. Lean UX Problem Assumptions
+
 #### 1.2.2.3. Lean UX Problem Hypothesis Statements
+
 #### 1.2.2.4. Lean UX Problem Canvas
+
 ## 1.3. Segmentos objetivo
 En el proyecto nos enfocamos en dos segmentos principales de usuarios, directamente relacionados con el dominio del problema: los propietarios de espacios de coworking y los usuarios que buscan dichos espacios, como freelancers y startups. A continuación, se describen en detalle ambos perfiles.
 
@@ -220,7 +262,7 @@ Corresponde a personas naturales o jurídicas que administran o alquilan espacio
 - Optimización de la ocupabilidad de sus ambientes.
 - Acceso a métricas sobre uso y satisfacción de clientes.
 
----
+--
 ### Freelancers y Startups
 Este grupo está compuesto por trabajadores independientes, equipos pequeños de desarrollo, marketing, diseño, entre otros, así como emprendedores en etapa inicial.
 
