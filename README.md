@@ -158,7 +158,9 @@ TB1:
 |    |    |     |
 
 ## 1.2. Solution Profile
+
 ### 1.2.1 Antecedentes y problemática
+
 - **Who (¿Quiénes son los involucrados?)**  
   Los principales usuarios son freelancers, trabajadores remotos, pequeñas empresas, startups y nómadas digitales que requieren espacios de trabajo profesionales, cómodos y flexibles sin necesidad de alquilar una oficina a largo plazo.  
   Además, los propietarios y administradores de espacios de coworking forman parte clave, ya que buscan visibilidad, gestión eficiente de sus reservas y captación de nuevos clientes.
@@ -192,8 +194,6 @@ Esta desconexión entre la **alta demanda de espacios temporales de trabajo** y 
 En este contexto, **WorkStation** surge como una solución tecnológica que busca cerrar esta brecha, permitiendo a freelancers, startups y profesionales acceder fácilmente a espacios de trabajo mediante una plataforma web intuitiva, al mismo tiempo que otorga a los propietarios herramientas de visibilidad, control de disponibilidad y generación de ingresos más eficientes.
 
 ### 1.2.2 Lean UX Process
-Es una metodología de gestión que busca eliminar el desperdicio y optimizar la eficiencia en los procesos, centrándose en satisfacer las necesidades del cliente y mejorar continuamente. Se basa en principios como la identificación y eliminación de actividades que no agregan valor y la promoción de la mejora continua en todas las etapas del proceso. 
---
 #### 1.2.2.1. Lean UX Problem Statements
 ##### Dominio del Problema
 El proyecto WorkStation se desarrolla en el dominio de los espacios de trabajo compartidos (coworking), una industria en expansión que responde a la evolución del trabajo remoto, el crecimiento del autoempleo y la economía de los servicios digitales. A pesar de esta expansión, la interacción entre la oferta (espacios disponibles) y la demanda (profesionales independientes o empresas en crecimiento) aún se encuentra fragmentada y desorganizada, especialmente en el mercado peruano, donde no existen plataformas digitales de gran alcance que faciliten esta conexión de manera eficiente.
@@ -225,9 +225,7 @@ En Perú, no existe actualmente una plataforma digital consolidada que conecte, 
 - Establecer alianzas estratégicas con coworkings emergentes de Lima.
 - Implementar un modelo de monetización basado en comisión por reserva, con herramientas analíticas para los propietarios.
 
-
 #### Segmento Inicial
-
 Para validar la propuesta de valor de WorkStation, se priorizará un segmento específico en la etapa inicial del proyecto:
 
 - **Usuarios meta**: Freelancers y profesionales digitales entre 22 y 35 años, ubicados en Lima Metropolitana, que trabajan de forma remota o de manera independiente.
@@ -235,7 +233,25 @@ Para validar la propuesta de valor de WorkStation, se priorizará un segmento es
 
 #### 1.2.2.2. Lean UX Problem Assumptions
 
+- **Asumimos que los usuarios requieren flexibilidad y comodidad en sus espacios de trabajo**
+- **Asumimos que los propietarios de espacios de coworking necesitan mayor visibilidad y eficiencia en la gestión de reservas**
+- **Asumimos que la búsqueda y reserva de espacios de coworking es un proceso fragmentado y poco confiable**
+- **Asumimos que los usuarios están dispuestos a pagar por una solución eficiente y confiable**
+- **Asumimos que la digitalización mejorará la eficiencia operativa de los espacios de coworking**
+
 #### 1.2.2.3. Lean UX Problem Hypothesis Statements
+
+## 🧩 Hypothesis Statements - WorkStation
+
+- **Hipótesis 1: Si ofrecemos una plataforma centralizada y fácil de usar para reservar espacios de coworking, entonces los freelancers y pequeñas empresas preferirán utilizarla debido a la flexibilidad y la facilidad de acceso a diferentes opciones de trabajo.**
+
+- **Hipótesis 2: Si los propietarios de espacios de coworking obtienen mayor visibilidad y una herramienta para gestionar eficientemente las reservas, entonces experimentarán un aumento en la ocupación de sus espacios y en la satisfacción de sus clientes.**
+
+- **Hipótesis 3: Si los usuarios pueden comparar precios, ver disponibilidad en tiempo real y leer reseñas de otros usuarios, entonces tomarán decisiones de reserva con mayor rapidez y precisión, mejorando la experiencia del cliente.**
+
+- **Hipótesis 4: Si la plataforma cobra una comisión por reserva o un modelo de membresía, entonces se generarán ingresos recurrentes tanto para los propietarios de los espacios como para la plataforma, incentivando la adopción de la herramienta.**
+
+- **Hipótesis 5: Si se digitaliza el proceso de gestión de reservas, entonces los propietarios de espacios de coworking podrán reducir sus costos operativos y mejorar su rentabilidad a largo plazo.**
 
 #### 1.2.2.4. Lean UX Problem Canvas
 
