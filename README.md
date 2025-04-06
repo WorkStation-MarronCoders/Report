@@ -44,8 +44,8 @@ TB1:
 # Student Outcome
 | Criterio específico                                                                                 | Acciones realizadas | Conclusiones |
 |------------------------------------------------------------------------------------------------------|---------------------|--------------|
-| **Comunica oralmente con efectividad a diferentes rangos de audiencia.**                                          |              |
-| **Comunica por escrito con efectividad a diferentes rangos de audiencia.**                           |                     |              |
+| **Trabaja en equipo para proporcionar liderazgo en forma conjunta**                                          |              |
+| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.**                           |                     |              |
 |                                                                                                      |                     |              |
 
 
@@ -313,6 +313,21 @@ Este grupo está compuesto por trabajadores independientes, equipos pequeños de
 ### 2.3.4. Empathy Mapping
 ### 2.3.5. As-is Scenario Mapping
 ## 2.4. Ubiquitous Language
+| Termino | Definición |
+| ---- | ----------|
+|Workspace|Un espacio físico disponible para alquiler como sitio de trabajo. |
+|Coworking | Una modalidad de trabajo donde personas de distintas empresas comparten un mismo workspace.|
+|Host | La persona que ofrece su propiedad en alquiler.|
+|Renter| La persona que alquila este espacio.|
+|Booking| Confirmación de un alquiler hecho por un Renter de un Workspace por un periodo de tiempo.|
+|Rate| La tarifa por día o por semana para alquilar el Workspace.|
+|Amenities| Adicionales que ofrezca el host como parte del Workspace. Por ejemplo, WiFi, café, aire acondicionado, etc.|
+|Listing| La publicación de un Workspace disponible incluyendo detalles como ubicación, fotos, Rates y Amenities.|
+|Check-in| El momento en que comienza el uso del Workspace|.
+|Check-out| El momento en el que finaliza el uso del Workspace.|
+|Cancellation| La anulación de una reserva, por parte de Host o Renter.|
+|Contract| El contrato que se realiza entre Renter y Host.|
+|Review| Las reseñas dadas del Renter al Host después del uso del Workspace, visibles para otros usuarios.|
 
 # Capitulo 3
 ## 3.1. To-Be Scenario Mapping
