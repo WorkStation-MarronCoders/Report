@@ -280,15 +280,15 @@ Para validar la propuesta de valor de WorkStation, se priorizará un segmento es
 
 ---
 #### 6. Hypotheses  
--Si centralizamos la oferta de coworkings, los usuarios ahorrarán tiempo y confiarán más en el proceso.
+- Si centralizamos la oferta de coworkings, los usuarios ahorrarán tiempo y confiarán más en el proceso.
 
--Si los propietarios digitalizan su gestión de reservas, incrementarán su ocupación y reducirán su carga operativa.
+- Si los propietarios digitalizan su gestión de reservas, incrementarán su ocupación y reducirán su carga operativa.
 
--Si los usuarios pueden ver disponibilidad, precios y reseñas en tiempo real, tomarán decisiones más informadas y rápidas.
+- Si los usuarios pueden ver disponibilidad, precios y reseñas en tiempo real, tomarán decisiones más informadas y rápidas.
 
--Si cobramos comisiones por reserva o membresías premium, el modelo será rentable y sostenible.
+- Si cobramos comisiones por reserva o membresías premium, el modelo será rentable y sostenible.
 
--Si la plataforma es ágil y confiable, se convertirá en el canal principal de reserva para usuarios frecuentes.
+- Si la plataforma es ágil y confiable, se convertirá en el canal principal de reserva para usuarios frecuentes.
 
 ---
 #### 7. What’s the most important thing we need to learn first?  
