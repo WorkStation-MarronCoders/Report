@@ -254,7 +254,7 @@ Para validar la propuesta de valor de WorkStation, se priorizará un segmento es
 #### 1.2.2.4. Lean UX Problem Canvas
 
 ## 1. Business Problem  
-La conexion entre las demandas crecientes de espacios trabajos flexibles y la oferta de coworkings está dividida. La mayoría de usuarios no cuentan con plataformas confiables así como los propietarios carecen de herramientas de gestión.
+-- La conexion entre las demandas crecientes de espacios trabajos flexibles y la oferta de coworkings está dividida. La mayoría de usuarios no cuentan con plataformas confiables así como los propietarios carecen de herramientas de gestión.
 ---
 ## 2. Business Outcomes  
 - Aumentar de los ingresos mediantes comisiones y membresías.
