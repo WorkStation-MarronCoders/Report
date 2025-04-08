@@ -24,7 +24,7 @@ Aplicaciones Web <br>
 | Rodrigo Liberato Saldaña      | U202215623  |
 |Emilia Durán Santander         | U201914541  |
 |Jeremy Quijada Magro           | U202219657  |
-|      |    |
+|Sandro Dinklange Arevalo       | U202313419  |
 |      |    |
 
 </div>
