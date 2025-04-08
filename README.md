@@ -253,26 +253,26 @@ Para validar la propuesta de valor de WorkStation, se priorizará un segmento es
 
 #### 1.2.2.4. Lean UX Problem Canvas
 
-## 1. Business Problem  
--- La conexion entre las demandas crecientes de espacios trabajos flexibles y la oferta de coworkings está dividida. La mayoría de usuarios no cuentan con plataformas confiables así como los propietarios carecen de herramientas de gestión.
+#### 1. Business Problem  
+- La conexion entre las demandas crecientes de espacios trabajos flexibles y la oferta de coworkings está dividida. La mayoría de usuarios no cuentan con plataformas confiables así como los propietarios carecen de herramientas de gestión.
 ---
-## 2. Business Outcomes  
+#### 2. Business Outcomes  
 - Aumentar de los ingresos mediantes comisiones y membresías.
 - Disminuir el tiempo promedio de búsqueda de reserva de espacios.
 - Ayudar a miles de peruanos a buscar un lugar para trabajar garantizando mejores resultados.
 ---
-## 3. Users  
+#### 3. Users  
 - Nustros clientes serán Freelancers y trabajadores remotos de entre 22 a 40 años que buscan habitaciones disponibles y acogedoras y con servicios como Wi-Fi, salas de reuniones.
 - Startups y equipos pequeños que buscan espacio temporal para trabajos de colaboración o reuniones.
 - Propietarios de coworking que desean captar más usuarios y administrar las reservas de manera efectiva.
 ---
-## 4. User Benefits  
+#### 4. User Benefits  
 - Los usuarios contarán con salas de trabajo para satisfacer sus necesidades especiales (precio, ubicación, servicios).
 - Los propietarios logran más actividad con menos esfuerzos de rendimiento y no tendrán incertidumbres.
 - Con respecto a los propietarios, se reservan con más frecuencia y recomendarán el servicio a otros.
 
 ---
-## 5. Solutions  
+#### 5. Solutions  
 - Motor de búsqueda y filtrado de coworkings por ciudad, precio, servicios.
 - Sistema de reservas con calendario en tiempo real.
 - Panel para propietarios con gestión de disponibilidad, estadísticas, reseñas.
