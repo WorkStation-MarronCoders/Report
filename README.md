@@ -279,7 +279,7 @@ Para validar la propuesta de valor de WorkStation, se priorizará un segmento es
 - Sistema de notificaciones (email, push) para recordatorios y confirmaciones.
 
 ---
-## 6. Hypotheses  
+#### 6. Hypotheses  
 -Si centralizamos la oferta de coworkings, los usuarios ahorrarán tiempo y confiarán más en el proceso.
 
 -Si los propietarios digitalizan su gestión de reservas, incrementarán su ocupación y reducirán su carga operativa.
@@ -291,11 +291,11 @@ Para validar la propuesta de valor de WorkStation, se priorizará un segmento es
 -Si la plataforma es ágil y confiable, se convertirá en el canal principal de reserva para usuarios frecuentes.
 
 ---
-## 7. What’s the most important thing we need to learn first?  
+#### 7. What’s the most important thing we need to learn first?  
 - Primero necesitamos entender si los usuarios finales desean una plataforma de reserva centralizada, sus preferencias y necesidades para implementarlo y mejorar la experiencia.
 - Necesitamos saber si les cómodo de usar ante otros métodos tradicionals.
 ---
-## 8. What’s the least amount of work we need to do to learn the next most important thing?  
+#### 8. What’s the least amount of work we need to do to learn the next most important thing?  
 - Realizar entrevistas, feedback además de pruebas de usabilidad para explorar la relevancia de las reservas de espacios de trabajo tanto para trabajadores como los propietarios.
 
 
