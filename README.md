@@ -253,6 +253,52 @@ Para validar la propuesta de valor de WorkStation, se priorizará un segmento es
 
 #### 1.2.2.4. Lean UX Problem Canvas
 
+## 1. Business Problem  
+La conexion entre las demandas crecientes de espacios trabajos flexibles y la oferta de coworkings está dividida. La mayoría de usuarios no cuentan con plataformas confiables así como los propietarios carecen de herramientas de gestión.
+---
+## 2. Business Outcomes  
+- Aumentar de los ingresos mediantes comisiones y membresías.
+- Disminuir el tiempo promedio de búsqueda de reserva de espacios.
+- Ayudar a miles de peruanos a buscar un lugar para trabajar garantizando mejores resultados.
+---
+## 3. Users  
+- Nustros clientes serán Freelancers y trabajadores remotos de entre 22 a 40 años que buscan habitaciones disponibles y acogedoras y con servicios como Wi-Fi, salas de reuniones.
+- Startups y equipos pequeños que buscan espacio temporal para trabajos de colaboración o reuniones.
+- Propietarios de coworking que desean captar más usuarios y administrar las reservas de manera efectiva.
+---
+## 4. User Benefits  
+- Los usuarios contarán con salas de trabajo para satisfacer sus necesidades especiales (precio, ubicación, servicios).
+- Los propietarios logran más actividad con menos esfuerzos de rendimiento y no tendrán incertidumbres.
+- Con respecto a los propietarios, se reservan con más frecuencia y recomendarán el servicio a otros.
+
+---
+## 5. Solutions  
+- Motor de búsqueda y filtrado de coworkings por ciudad, precio, servicios.
+- Sistema de reservas con calendario en tiempo real.
+- Panel para propietarios con gestión de disponibilidad, estadísticas, reseñas.
+- Sistema de notificaciones (email, push) para recordatorios y confirmaciones.
+
+---
+## 6. Hypotheses  
+-Si centralizamos la oferta de coworkings, los usuarios ahorrarán tiempo y confiarán más en el proceso.
+
+-Si los propietarios digitalizan su gestión de reservas, incrementarán su ocupación y reducirán su carga operativa.
+
+-Si los usuarios pueden ver disponibilidad, precios y reseñas en tiempo real, tomarán decisiones más informadas y rápidas.
+
+-Si cobramos comisiones por reserva o membresías premium, el modelo será rentable y sostenible.
+
+-Si la plataforma es ágil y confiable, se convertirá en el canal principal de reserva para usuarios frecuentes.
+
+---
+## 7. What’s the most important thing we need to learn first?  
+- Primero necesitamos entender si los usuarios finales desean una plataforma de reserva centralizada, sus preferencias y necesidades para implementarlo y mejorar la experiencia.
+- Necesitamos saber si les cómodo de usar ante otros métodos tradicionals.
+---
+## 8. What’s the least amount of work we need to do to learn the next most important thing?  
+- Realizar entrevistas, feedback además de pruebas de usabilidad para explorar la relevancia de las reservas de espacios de trabajo tanto para trabajadores como los propietarios.
+
+
 ## 1.3. Segmentos objetivo
 En el proyecto nos enfocamos en dos segmentos principales de usuarios, directamente relacionados con el dominio del problema: los propietarios de espacios de coworking y los usuarios que buscan dichos espacios, como freelancers y startups. A continuación, se describen en detalle ambos perfiles.
 
