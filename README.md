@@ -25,7 +25,7 @@ Aplicaciones Web <br>
 |Emilia Durán Santander         | U201914541  |
 |Jeremy Quijada Magro           | U202219657  |
 |Sandro Dinklange Arevalo       | U202313419  |
-|      |    |
+|Jorge Luis Díaz Fiestas      |  U20231D534  |
 
 </div>
 
