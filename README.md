@@ -434,6 +434,11 @@ Oficinas YA! es una plataforma líder en América Latina especializada en la�
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping
 ### 2.3.5. As-is Scenario Mapping
+**Freelancers**
+![As-Is Freelancer](Imagenes/as-is-freelancer.jpg)
+
+**Propietarios de Inmuebles**
+![As-Is-Propietario](Imagenes/as-is-propietario.jpg)
 ## 2.4. Ubiquitous Language
 | Termino | Definición |
 | ---- | ----------|
