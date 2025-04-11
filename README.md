@@ -433,6 +433,9 @@ Oficinas YA! es una plataforma líder en América Latina especializada en la�
 ### 2.3.2. User Task Matrix
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping
+<p align="center">
+  <img src="Imagenes/Empathy Map Brainstorm.png" alt="Empathy Map Brainstorm.png" />
+</p>
 ### 2.3.5. As-is Scenario Mapping
 **Freelancers**
 ![As-Is Freelancer](Imagenes/as-is-freelancer.jpg)
