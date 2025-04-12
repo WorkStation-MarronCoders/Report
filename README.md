@@ -428,7 +428,7 @@ Oficinas YA! es una plataforma líder en América Latina especializada en la�
 
 ### 2.2.2. Registro de entrevistas
 **Segmento 1**
-Enlace del video de la entrevista: (https://img.youtube.com/vi/1GPReTfneu4/0.jpg)](https://www.youtube.com/watch?v=1GPReTfneu4)
+Enlace del video de la entrevista: [![Demo en YouTube](https://img.youtube.com/vi/1GPReTfneu4/0.jpg)](https://www.youtube.com/watch?v=1GPReTfneu4)
 Entrevistada: Marjorie Luna Victoria                                               	Edad: 2w años 
 
 Ocupación: Diseñadora gráfica       	Ubicación: Lima – Miraflores 
