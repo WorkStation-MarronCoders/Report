@@ -427,6 +427,15 @@ Oficinas YA! es una plataforma líder en América Latina especializada en la�
 - 12. ¿De que manera buscaría hacer este espacio uno seguro para ambas partes?
 
 ### 2.2.2. Registro de entrevistas
+**Segmento 1**
+Enlace del video de la entrevista: (https://img.youtube.com/vi/1GPReTfneu4/0.jpg)](https://www.youtube.com/watch?v=1GPReTfneu4)
+Entrevistada: Marjorie Luna Victoria                                               	Edad: 2w años 
+
+Ocupación: Diseñadora gráfica       	Ubicación: Lima – Miraflores 
+
+Medio: Meet                                                                  		Entrevistador: Jorge Díaz
+
+Instante en el que inicia: 0:04		           	Duración: 3 minutos y 42 segundos 
 ### 2.2.3. Análisis de entrevistas
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
