@@ -26,6 +26,7 @@ Aplicaciones Web <br>
 |Jeremy Quijada Magro           | U202219657  |
 |Sandro Dinklange Arevalo       | U202313419  |
 |Jorge Luis Díaz Fiestas      |  U20231D534  |
+|Sebastián Gutarra Velapatiño   | U20241A314  |
 
 </div>
 
