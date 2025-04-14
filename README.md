@@ -413,6 +413,7 @@ Oficinas YA! es una plataforma líder en América Latina especializada en la�
 - 10. Que comportamientos o hábitos no estarían dispuesto(a) a aceptar de la compañía/startup que trabaje en su propiedad?
 - 11. Que funcionalidades le gustaría que tenga esta aplicación web?
 - 12. ¿De que manera buscaría hacer este espacio uno seguro para ambos?
+
 **FREELANCERS/STARTUPS**
 - 1. Nombre completo
 - 2. Edad
@@ -443,9 +444,32 @@ Enlace del video de la entrevista:
 🎬 **Inicio del video:** 0:04  
 ⏱️ **Duración:** 3 minutos y 42 segundos
 
+
+Enlace del video de la entrevista:
+
+ [![Demo en YouTube](https://img.youtube.com/vi/hwdyWXskYcs/0.jpg)](https://www.youtube.com/watch?v=hwdyWXskYcs&ab_channel=NPCbas)
+
+**Entrevistada:** Arlene Gutarra Velapatiño  
+**Edad:** 22 años  
+**Ocupación:** Estudiante de la carrera de Danza  
+**Ubicación:** Lima – San Juan de Lurigancho  
+**Medio:** Zoom  
+**Entrevistador:** Sebastián Gutarra  
+
+🎬 **Inicio del video:** 0:04  
+⏱️ **Duración:** 6 minutos y 23 segundos
+
+
 ### 2.2.3. Análisis de entrevistas
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
+
+Para esta sección hemos tomado en cuenta dos User Persona que corresponden a los dos segmentos objetivos nombrados anteriormente: los propietarios de inmuebles y los trabajadores independientes.
+
+![User Persona 1](Imagenes/Propietario%20de%20inmueble.png)
+
+![User Persona 2](Imagenes/Trabajador%20independiente%20_%20freelancer.png)
+
 ### 2.3.2. User Task Matrix
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping
