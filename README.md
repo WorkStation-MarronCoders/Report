@@ -471,6 +471,38 @@ Para esta sección hemos tomado en cuenta dos User Persona que corresponden a lo
 ![User Persona 2](Imagenes/Trabajador%20independiente%20_%20freelancer.png)
 
 ### 2.3.2. User Task Matrix
+
+Estamos considerando los segmentos objetivos "Propietario de Inmueble" y "Trabajador independiente" como fueron definidos anteriormente como User Persona
+
+
+|                                  | **Propietario de Inmueble**        |                            | **Trabajador independiente**            |                            |
+|----------------------------------|-------------------------------|----------------------------|------------------------------|----------------------------|
+|  Tarea                           | Importancia                   | Frecuencia                 | Importancia                  | Frecuencia                 |
+| Ofrecer su local                 | 🔴 Alta                       | 🔴 Frecuente              | ❌ N/A                       | ❌ N/A                    |
+| Buscar espacios de trabajo       | ❌ N/A                       | ❌ N/A                     | 🔴 Alta                      | 🔴 Frecuente               |
+| Comparar entre las opciones de espacios de trabajo   | 🟡 Media                     | 🔵 Rara              | 🔴 Alta                      | 🔴 Frecuente                    |
+| Contactarse el trabajador con el propietario         | 🔴 Alta                      | 🟡 Ocasional               | 🔴 Alta                    | 🟡 Ocasional                     |
+| Acordar precio y forma de pago           | 🔴 Alta                     | 🟡 Ocasional              | 🔴 Alta                      | 🟡 Ocasional                |
+| Observar situación final del local       | 🟡 Media                     | 🟡 Ocasional               | 🟡 Media                      | 🟡 Ocasional                   |
+| Recomendar la experiencia                | 🔵 Baja                       | 🔵 Rara                   | 🟡 Media                    | 🟡 Ocasional               |
+
+### Leyenda:
+
+Importancia
+🔴 Alta
+🟡 Media
+🔵 Baja
+
+Frecuencia
+🔴 Frecuente
+🟡 Ocasional
+🔵 Rara
+
+❌ N/A = No aplica para este usuario
+
+Entre las tareas encontradas, la que ambos User Persona coinciden en que es importante y frecuente son tanto el contactarse mutuamente como el acordar precio y forma de pago, se debe a que ambos buscan que el préstamo del servicio se concrete y bajo condiciones favorables para ambos. Además, cada User Persona tiene su tarea particular: para el propietario es importante ofrecer su local y para el freelancer es importante buscar espacios de trabajo. Por último tenemos un tarea particular frecuente para el freelancer la cual es comparar diferentes ofertas de espacios de trabajo para ver lo que más se ajuste a su presupuesto y cuente con las características necesarias. Mientras que para el propietario, esto lo hace rara vez cuando desee ver qué precios ponen sus competidores.
+
+
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping
 <p align="center">
