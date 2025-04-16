@@ -459,6 +459,18 @@ Enlace del video de la entrevista:
 🎬 **Inicio del video:** 0:04  
 ⏱️ **Duración:** 6 minutos y 23 segundos
 
+Entrevista a Propietario de inmuebles:
+
+![Img propietario1](Imagenes/Propietario1.png)
+
+**Entrevistada:** Carlos Alfredo Juarez Adanaque  
+**Link de la entrevista:** [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215623_upc_edu_pe/EdU9VOslalpKiKT-t0m66gMBmi1Xhl03H6JkroZCMl3Img?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=JREsKE) 
+
+![Img propietario2](Imagenes/Propietaria2.png)
+
+**Entrevistada:** Alejandra Izaguirre  
+**Link de la entrevista:** [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215623_upc_edu_pe/EZQz2DANI71MkOrpc1fJq3EBIRLd8PZ4sQAEEFybRm3YOg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=t6qB71) 
+
 
 ### 2.2.3. Análisis de entrevistas
 ## 2.3. Needfinding
