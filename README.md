@@ -518,7 +518,7 @@ Entre las tareas encontradas, la que ambos User Persona coinciden en que es impo
 ### 2.3.3. User Journey Mapping
 
 <p align="center">
-  <img src="Images/Customer Journey Map Brainstorm.png" alt="Customer Journey Map Brainstorm.png" />
+  <img src="Imagenes/Customer Journey Map Brainstorm.png" alt="Customer Journey Map Brainstorm.png" />
 </p>
 
 ### 2.3.4. Empathy Mapping
