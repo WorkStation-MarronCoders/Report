@@ -473,9 +473,9 @@ Entrevista a Propietario de inmuebles:
 
 **Segmento 2**
 
-![Img propietario2](Imagenes/Propietaria2.png)
+![Img propietario2](Imagenes/Entrevista-Miguel.png)
 
-**Link de la entrevista:** [Linl-Entrevista](https://youtu.be/SHj6_AyGAPc) 
+**Link de la entrevista:** [Link-Entrevista](https://youtu.be/SHj6_AyGAPc) 
 **Entrevistado:** Miguel Quijada 
 **Edad:** 43 años  
 **Ocupación:** Ingeniero de Software
