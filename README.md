@@ -471,6 +471,17 @@ Entrevista a Propietario de inmuebles:
 **Entrevistada:** Alejandra Izaguirre  
 **Link de la entrevista:** [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215623_upc_edu_pe/EZQz2DANI71MkOrpc1fJq3EBIRLd8PZ4sQAEEFybRm3YOg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=t6qB71) 
 
+**Segmento 2**
+
+![Img propietario2](Imagenes/Propietaria2.png)
+
+**Link de la entrevista:** [Linl-Entrevista](https://youtu.be/SHj6_AyGAPc) 
+**Entrevistado:** Miguel Quijada 
+**Edad:** 43 años  
+**Ocupación:** Ingeniero de Software
+**Ubicación:** Lima – Ate  
+**Medio:** Zoom  
+**Entrevistador:** Jeremy Quijada 
 
 ### 2.2.3. Análisis de entrevistas
 ## 2.3. Needfinding
