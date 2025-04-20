@@ -566,8 +566,59 @@ Entre las tareas encontradas, la que ambos User Persona coinciden en que es impo
 ## 3.4. Product Backlog
 # Capitulo 4
 ## 4.1. Style Guidelines
+
+En este capítulo se mostrará el desarrollo de las interfaces y procesos relacionados a la aplicación. Se tiene como objetivo ser llamativa y simple para el usuario. Para ello, se usaron colores atractivos, uso del espacio de manera dinámica independiente del dispositivo enfocado, uso de imágenes y texto que no sobrecarga de información al usuario y la separación de las herramientas según su grupo determinado.
+
 ### 4.1.1. General Style Guidelines
+
+#### Colors:
+Para los colores de la aplicacion buscamos identidad visual refleja estabilidad, claridad y creatividad, creando un ambiente digital acogedor y eficiente. Un diseño limpio y moderno que genera comodidas y profesionalismo.
+
+#### Logo:
+
+#### Tipografia:
+La tipografía debe transmitir claridad, calidez y profesionalismo. Por esa razón decidimos usar **Roboto Flex**, ya que tiene un diseño limpio y sencillo, lo que facilita la lectura en pantallas. Para ello, seguiremos las siguientes bases:
+- **Base:** 20 px
+- **Ratio:** 2,05
+- **Tipografía:** Roboto Flex
+- **Interlineado:** 1,1
+
+
+#### Spacing:
+Para nuestro proyecto, el espaciado es crucial para garantizar la legibilidad y accesibilidad, así que por eso tomamos estas decisiones:
+
+- **Espaciado entre párrafos:** Equivalente a al menos el tamaño de una línea completa
+- **Espaciado entre elementos interactivos:** 8-12 píxeles de espacio entre botones, enlaces o cualquier elemento clicable. 
+- **Márgenes y padding:**  16-24 píxeles alrededor del contenido.
+
+#### Tono de Comunicación:
+
+| Dimensión              | Nivel Adoptado    |
+|------------------------|-------------------|
+| Divertido/Serio        | Medio-Serio       |
+| Formal/Casual          | Semi-Formal       |
+| Respetuoso/Irreverente | Muy Respetuoso    |
+| Entusiasta/Sereno      | Sereno y Empático |
+
+Decidimos mantener una comunicación clara, cálida y profesional, porque este enfoque nos permite conectar de manera efectiva con el público, especialmente en un contexto tan profesional.
+
 ### 4.1.2. Web Style Guidelines
+
+#### Diseño de Página:
+La página contará con una barra de navegación, en donde se encontrarán los apartados. Así mismo, contará con un footer en donde habrán links a diferentes redes como por ejemplo instagram.
+Se emplearán animaciones simples y básicas para mostrar diferentes imágenes y texto que ayude al usuario a conocer más acerca del servicio. Si este se encuentra en una laptop o pc, bastará con scrollear para poder visualizar toda la página.
+
+#### Diseño Responsive:
+Para garantizar que la página se ajuste a distintos tamaños de pantalla o cuando el usuario modifique la ventana, se aplicará CSS3 junto con media queries. Esto permitirá que el contenido se mantenga accesible y correctamente visualizado en cualquier dispositivo. Elementos fundamentales como la barra de navegación y el pie de página se adaptarán de forma automática mediante unidades de medida relativas.
+#### Imágenes
+Los formatos de imagen sugeridos son JPEG y PNG para asegurar una alta calidad. Además, se definirán dimensiones óptimas y se implementarán técnicas de compresión para mejorar la velocidad de carga del sitio.
+
+#### Interacción del Usuario
+Se incorporarán animaciones sutiles para mostrar imágenes y textos que brinden información sobre el servicio. En computadoras portátiles y de escritorio, el usuario solo necesitará desplazarse para recorrer toda la página y disfrutar de estas interacciones dinámicas.
+
+#### Navegación:
+El menú de navegación y el pie de página contarán con márgenes y espaciado adecuados para garantizar una visualización óptima en cualquier tipo de pantalla. Se priorizará una experiencia intuitiva, incluyendo un menú tipo hamburguesa en dispositivos móviles. Además, los enlaces a redes sociales en el footer estarán bien posicionados y adaptados al diseño responsive.
+
 ## 4.2. Information Architecture
 ### 4.2.1. Organization Systems
 ### 4.2.2. Labeling Systems
