@@ -574,7 +574,11 @@ En este capítulo se mostrará el desarrollo de las interfaces y procesos relaci
 #### Colors:
 Para los colores de la aplicacion buscamos identidad visual refleja estabilidad, claridad y creatividad, creando un ambiente digital acogedor y eficiente. Un diseño limpio y moderno que genera comodidas y profesionalismo.
 
+![Img Colors](Imagenes/Colors-workStation.png)
+
 #### Logo:
+
+![Img Logo](Imagenes/logo-workstation.jpg)
 
 #### Tipografia:
 La tipografía debe transmitir claridad, calidez y profesionalismo. Por esa razón decidimos usar **Roboto Flex**, ya que tiene un diseño limpio y sencillo, lo que facilita la lectura en pantallas. Para ello, seguiremos las siguientes bases:
@@ -583,6 +587,7 @@ La tipografía debe transmitir claridad, calidez y profesionalismo. Por esa raz�
 - **Tipografía:** Roboto Flex
 - **Interlineado:** 1,1
 
+![Img Roboto](Imagenes/Roboto.png)
 
 #### Spacing:
 Para nuestro proyecto, el espaciado es crucial para garantizar la legibilidad y accesibilidad, así que por eso tomamos estas decisiones:
