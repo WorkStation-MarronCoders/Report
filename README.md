@@ -768,8 +768,23 @@ Tanto el landing page como la aplicación web cuentan con un sistema de navegaci
 ## 4.5. Web Applications Prototyping
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
+
+![DomainDrivenDesingContext](Imagenes/DDD_AP_1.png)
+
 ### 4.6.2. Software Architecture Container Diagrams
+![DomainDrivenDesingContainer1](Imagenes/DDD2_1AP.png)
+
+
+![DomainDrivenDesingContainer2](Imagenes/DDD2_2AP.png)
+
 ### 4.6.3. Software Architecture Components Diagrams
+
+User Context
+![DomainDrivenDesingComponentUser](Imagenes/DDD4_UserAP.png)
+
+Office Context
+![DomainDrivenDesingComponentOffice](Imagenes/DDD5_officeAP.png)
+
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 ### 4.7.2. Class Dictionary
