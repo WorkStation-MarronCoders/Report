@@ -639,9 +639,36 @@ El menú de navegación y el pie de página contarán con márgenes y espaciado 
 ### 4.2.2. Labeling Systems
 ### 4.2.3. SEO Tags and Meta Tags
 ### 4.2.4. Searching Systems
+Un Searching System, o sistema de búsqueda, es un componente diseñado para buscar y recuperar información relevante, basada en filtros o palabras clave, que se encuentren almacenados en una base de datos o en internet.
+En el caso de nuestra aplicación, se aplicará el sistema de búsqueda a través de una barra de búsqueda y un sistema de filtrado. Este sistema ayudará al usuario Renter a encontrar rápidamente workspaces que se adecúen a sus necesidades. Los datos de resultado se mostraran en una tabla de datos.
 ### 4.2.5. Navigation Systems
+Tanto el landing page como la aplicación web cuentan con un sistema de navegación. Para el landing page, este consiste de una barra de navegación superior, con enlaces a las secciones más importantes. Asimismo, se utilizarán los Call-to-action para guiar a los usuarios a través del Landing page. 
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
+**Desktop Web Browser**
+**Landing Page Home**
+![Navigation and Hero Section](Imagenes/Landing-Wireframe-Intro.png)
+**Rent with us**
+![Rent with us](Imagenes/Landing-Wireframe-Rent.png)
+**Host with us**
+![Host with us](Imagenes/Landing-Wireframe-Host.png)
+**Reviews**
+![Reviews](Imagenes/Landing-Wireframe-Reviews.png)
+**Contact**
+![Contact](Imagenes/Landing-Wireframe-Contact.png)
+
+**Mobile Web Browser**
+**Landing Page Home**
+![Navigation and Hero Section](Imagenes/Landing-Mobile-Wireframe-Intro.png)
+**Rent with us**
+![Rent with us](Imagenes/Landing-Mobile-Wireframe-Rent.png)
+**Host with us**
+![Host with us](Imagenes/Landing-Mobile-Wireframe-Host.png)
+**Reviews**
+![Reviews](Imagenes/Landing-Mobile-Wireframe-Reviews.png)
+**Contact**
+![Contact](Imagenes/Landing-Mobile-Wireframe-Contact.png)
+
 ### 4.3.2. Landing Page Mock-up
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
