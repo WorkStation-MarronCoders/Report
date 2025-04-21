@@ -153,7 +153,7 @@ TB1:
 |---------------------------|--------------|-------------------|
 |   | Quijada Magro Jeremy Alexander |  |
 |    | Liberato Saldana Rodrigo   | Estudiante de Ingenieria de software que planea en efocarse en Ciencia de datos y Ciberseguridad. Planeo dar apoyo en el grupo de manera activa y tomar el rol de lider para encaminar al equipo a cumplir la meta en comun, realizar un buen trabajo con nuestra propuesta.    |
-|    |    |     |
+|    |Emilia Durán Santander | Estudiante de la carrera de Ingenieria de Software, con interés en el area de ciberseguridad. Me considero una persona responsable y planeo apoyar al grupo demostrando las habilidades previamente aprendidas a lo largo de la carrera. Actualmente cuento con conocimientos tecnicos en C++, HTML yCSS. |
 |    |    |     |
 |    |    |     |
 |    |    |     |
@@ -458,6 +458,16 @@ Enlace del video de la entrevista:
 
 🎬 **Inicio del video:** 0:04  
 ⏱️ **Duración:** 6 minutos y 23 segundos
+
+
+Enlace del video de la entrevista:
+[![Entrevista Danithza del Pino](Imagenes/Entrevista-Freelancer-1.png)](https://youtu.be/F3gz5at9sc4)
+**Entrevistada:** Danithza del Pino 
+**Edad:** 28 años  
+**Ocupación:** Estudiante de la carrera de Danza  
+**Ubicación:** Lima – La Molina  
+**Medio:** Zoom  
+**Entrevistador:** Emilia Durán 
 
 Entrevista a Propietario de inmuebles:
 
