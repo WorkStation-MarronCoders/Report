@@ -494,6 +494,26 @@ Entrevista a Propietario de inmuebles:
 **Entrevistador:** Jeremy Quijada 
 
 ### 2.2.3. Análisis de entrevistas
+
+#### Freelancers
+
+En las entrevistas para este segmento objetivo, los usuarios han utilizado con anterioridad espacios coworking para trabajar en las empresas que trabajan o de forma independiente para sus propias necesidades. Con las preguntas hemos logrado identificar que ellos estarian interesados en una aplicacion como esta y añaden que las funcionalidades que se esperan son las siguientes:
+
+- Localicacion de espacios de trabajo
+- Filtros de busqueda personalizados (Filtros como, cantidad de aforo, funcionalidad del espacio y facilidades servicios incluidos (Wi-Fi, café, impresoras, etc.))
+- Valoraciones por otros usuarios
+- Fotos de los inmuebles
+- Calendario de disponibilidad para reservas 
+
+#### Propietarios de inmuebles 
+En las entrevistas de este segmento objetivo, recalcan que la aplicacion seria de mucha ayuda para encontrar a los inquilinos correctos de manera rapida, debido a que pueden decidir de una gran variedad de personas o empresas para que puedan usar estos lugares. Asimismo, Creen que la aplicacion web deberia ser de facil entendimiento para que puedan recibir los pagos adecuadamente. Algunas funcionalidades que agregaron para la aplicacion serian las siguientes:
+
+- Contrato flexible 
+- Que se pueda modificar las publicaciones de manera sencilla
+- Verificacion de perfiles para mas seguridad
+- Sistema de pago seguro
+- Chat para que haya una comunicacion activa
+
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
 
