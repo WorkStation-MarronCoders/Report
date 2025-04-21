@@ -592,6 +592,52 @@ Entre las tareas encontradas, la que ambos User Persona coinciden en que es impo
 # Capitulo 3
 ## 3.1. To-Be Scenario Mapping
 ## 3.2. User Stories
+| User Story ID | Título                  | Descripción                                                                                                           | Criterios de Aceptación                                                                                                                                                                                | Epic ID |
+|---------------|-------------------------|-----------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|
+| US-01         | Ubicacion de inmuebles      | Como freelancer, quiero encontrar la ubicacion de los inmuebles por localizacion para encontrar los lugares mas cercanos o convenientes                    | **Escenario 1**: Encontrar inmueble por ubicación <br><br> Dado que el freelancer busca un inmueble por ubicación <br><br> Entonces se muestra los inmuebles mas cercanos en la ubicacion <br><br> |   |
+| US-02         |  Disponibilidad de inmuebles      | Como freelancer, quiero saber la disponibilidad actual del inmueble para hacer una eleccion correcta del tiempo que necesito el local                      | **Escenario 1**: Ver disponibilidad <br><br> Dado que el freelancer quiere ver la disponibilidad actual del inmueble, <br><br> Entonces se muestra la disponibilidad del inmueble para el freelancer |  |
+| US-03         | Filtros de busqueda | Como freelancer quiero hacer una busqueda personalizada como cantidad de aforo, tipo de espacio y servicios disponibles para que pueda encontrar la mejor opcion para mi o mi equipo.                                               | **Escenario 1**: Busqueda de inmueble <br><br> Dado que el freelancer busca un tipo de espacio especifico <br><br> Entonces se muestran todas las opciones de los lugares con esas especificaciones |   |
+| US-04         | Valoraciones y opiniones | Como freelancer quiero ver las valoraciones y opiniones de inmuebles sobre los espacios de trabajo para tomar una decisión informada.                                               | **Escenario 1**: Review de un inmueble <br><br> Dado que el freelancer puede ver las valoraciones de otros usuarios de inmuebles. <br><br> Entonces puede tomar una mejor decision para encontrar el lugar adecuado  |   |
+| US-05         | Feeback constructivo | Como propietario de inmueble, quiero recibir las opiniones o un feedback para reconocer posibles nuevas mejoras para el espacio de trabajo                                                | **Escenario 1**: Recibe feedback <br><br> Dado que el propietario recibe recibir opiniones de los freelancers sobre su experiencia en el inmueble <br><br> Entonces puede hallar formas de mejorar su experiencia para futuros equipos o freelancers.|   |
+| US-06         | Perfiles de inmuebles | Como freelancer quiero encontrar la suficiente informacion para poder hacer una decision correcta detallada sobre cada inmueble, incluyendo fotos, ubicación, tarifas y servicios disponibles.                                             | **Escenario 1**: Encontrar publicacion <br><br> Dado que el freelancer encuentra detalles como fotos, ubicación, tarifas y servicios disponibles <br><br> Entonces tendra una decision mas informada y adecuada para sus necesidades |   |
+| US-07         | Sistema de pagos seguros  | Como freelancer quiero tener la certeza de que la aplicacion web tenga un sistema de pago seguro                                               | **Escenario 1**: Pago para la renta <br><br> Dado que el freelancer quiere pagar un mes adicional de renta <br><br> Entonces podra poder realizar el pago de manera segura a través de la aplicación  |   |
+| US-08         | Sistema de devolucion | Como freelancer, quiero tener la posibilidad de tener una devolucion de mi dinero si cancelo una reserva realizada antes del inicio de esta misma.                                               | **Escenario 1**: Devolucion de dinero dias antes de su uso registrado <br><br> Dado que el freelancer cancelo su reserva dias antes de su uso <br><br> Entonces el dinero que pago sera devuelto en los siguientes 15 dias. |   |
+| US-09         | Publicacion de inmueble  | Como propietario de inmueble, quiero tener la facilidad de publicar un inmueble de manera sencilla y atractiva para que los freelancers lo encuentren llamativo                                               | **Escenario 1**: Publicacion de inmueble <br><br> Dado que el propietario quiere publicar su inmueble con todos los datos necesarios <br><br> Entonces podra registrar toda la información necesaria, incluyendo fotos, descripción, ubicación, tarifas y servicios disponibles |   |
+| US-10         | Modificacion de inmueble  | Como propietario de inmueble quiero que se me permita actualizar la información de la publicación de manera sencilla y rápida para no arruinar la experiencia de freelancers.                                               | **Escenario 1**: Modificacion de inmuebles <br><br> Dado que el propietario ha hecho remodelaciones en el lugar <br><br> Entonces podra modificar la informacion necesaria y de forma facil en la aplicacion web |   |
+| US-11         |  |                                                | **Escenario 1**: **Escenario 2**:  |   |
+| US-12         |  |                                                | **Escenario 1**: **Escenario 2**:  |   |
+| US-13         |  |                                                | **Escenario 1**: **Escenario 2**:  |   |
+| US-14         |  |                                                | **Escenario 1**: **Escenario 2**:  |   |
+| US-15         |  |                                                | **Escenario 1**: **Escenario 2**:  |   |
+| US-16         |  |                                                | **Escenario 1**: **Escenario 2**:  |   |
+| US-17         |  |                                                | **Escenario 1**: **Escenario 2**:  |   |
+| US-18         |  |                                                | **Escenario 1**: **Escenario 2**:  |   |
+| US-19         |  |                                                | **Escenario 1**: **Escenario 2**:  |   |
+| US-20         |  |                                                | **Escenario 1**: **Escenario 2**:  |   |
+| US-21         |  |                                                | **Escenario 1**: **Escenario 2**:  |   |
+| US-22         |  |                                                | **Escenario 1**: **Escenario 2**:  |   |
+| US-23         |  |                                                | **Escenario 1**: **Escenario 2**:  |   |
+| US-24         |  |                                                | **Escenario 1**: **Escenario 2**:  |   |
+| US-25         |  |                                                | **Escenario 1**: **Escenario 2**:  |   |
+| US-26         |  |                                                | **Escenario 1**: **Escenario 2**:  |   |
+| US-27         |  |                                                | **Escenario 1**: **Escenario 2**:  |   |
+| US-28         |  |                                                | **Escenario 1**: **Escenario 2**:  |   |
+| US-29         |  |                                                | **Escenario 1**: **Escenario 2**:  |   |
+| US-30         |  |                                                | **Escenario 1**: **Escenario 2**:  |   |
+
+
+
+### Epics
+| Epic ID | Título                      | Descripción                                                                                                                                       |
+|---------|-----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
+| EP-01   | Desarrollo del Landing Page | Esta enfocado en la creacion de la pagina web inicial que se presentará al consumidor para luego ser redirigido a la aplicacion web |
+| EP-02   | Desarrollo del Backend      | Se enfoca en la lógica de negocio, estructuras de datos, endpoints y funcionalidades que permitirán las operaciones y servicios que la aplicacion web ofrece |
+| EP-03   | Desarrollo del Frontend | Es enfocado en la interfaz de usuario, la experiencia del cliente y la implementación de las funcionalidades visuales que permitirán la interacción con la aplicación. |
+| EP-04   | Experiencia del desarrollo | Esta enfocada en establecer las metas y la metodología de desarrollo, incluyendo las herramientas y procesos utilizados para asegurar la calidad y eficiencia del proyecto.  |
+| EP-05   | Seguridad de la aplicacion       | Esta enfocado en ofrecer un entorno seguro y confiable para los usuarios, garantizando la protección de datos y la privacidad en todas las transacciones.  |
+
+
+
 ## 3.3. Impact Mapping
 ## 3.4. Product Backlog
 # Capitulo 4
