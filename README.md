@@ -921,28 +921,48 @@ Dentro de la aplicación, la navegación se divide en dos experiencias **según 
 ![Contact](Imagenes/Landing-Mobile-Wireframe-Contact.png)
 
 ### 4.3.2. Landing Page Mock-up
-**Desktop Web Browser**
+### **Desktop Web Browser**
+
 **Landing Page Home**
+
 ![Navigation and Hero section](Imagenes/Landing-Intro.png)
+
 **Rent with us**
+
 ![Rent with us](Imagenes/Landing-Rent.png)
+
 **Host with us**
+
 ![Host with us](Imagenes/Landing-Host.png)
+
 **Reviews**
+
 ![Reviews](Imagenes/Landing-Reviews.png)
+
 **Contact**
+
 ![Contact](Imagenes/Landing-Contact.png)
 
-**Mobile Web Browser**
+### **Mobile Web Browser**
+
 **Landing Page Home**
+
 ![Navigation and Hero section](Imagenes/Landing-Mobile-Intro.png)
+
 **Rent with us**
+
 ![Rent with us](Imagenes/Landing-Mobile-Rent.png)
+
 **Host with us**
+
 ![Host with us](Imagenes/Landing-Mobile-Host.png)
+
 **Reviews**
+
 ![Reviews](Imagenes/Landing-Mobile-Reviews.png)
+
 **Contact**
+
 ![Contact](Imagenes/Landing-Mobile-Contact.png)
 
 ## 4.4. Web Applications UX/UI Design
