@@ -647,23 +647,29 @@ En este capítulo se mostrará el desarrollo de las interfaces y procesos relaci
 
 ### 4.1.1. General Style Guidelines
 
-#### Colors:
-Para los colores de la aplicacion buscamos identidad visual refleja estabilidad, claridad y creatividad, creando un ambiente digital acogedor y eficiente. Un diseño limpio y moderno que genera comodidas y profesionalismo.
+#### Branding:
 
-![Img Colors](Imagenes/Colors-workStation.png)
+**WorkStation** es una aplicación diseñada para conectar freelancers con espacios de trabajo adecuados a sus necesidades. Su objetivo es proporcionar opciones de alquiler flexibles, seguras y accesibles, permitiendo a los usuarios encontrar el lugar perfecto para desarrollar sus proyectos sin complicaciones. 
+
+### **Visión**  
+Ser la plataforma líder en la conexión entre freelancers y espacios de trabajo, facilitando el acceso a lugares ideales para potenciar la productividad.
+
+### **Misión**  
+Brindar a freelancers y emprendedores espacios flexibles de trabajo a través de un sistema de alquiler sencillo, confiable y eficiente.
 
 #### Logo:
 
 ![Img Logo](Imagenes/logo-workstation.jpg)
 
-#### Tipografia:
-La tipografía debe transmitir claridad, calidez y profesionalismo. Por esa razón decidimos usar **Roboto Flex**, ya que tiene un diseño limpio y sencillo, lo que facilita la lectura en pantallas. Para ello, seguiremos las siguientes bases:
-- **Base:** 20 px
-- **Ratio:** 2,05
-- **Tipografía:** Roboto Flex
-- **Interlineado:** 1,1
+#### Colors:
+Para los colores de la aplicacion buscamos identidad visual refleja estabilidad, claridad y creatividad, creando un ambiente digital acogedor y eficiente. Un diseño limpio y moderno que genera comodidas y profesionalismo.
 
-![Img Roboto](Imagenes/Roboto.png)
+![Img Colors](Imagenes/Colors-workStation.png)
+
+#### Tipografia:
+La tipografía debe transmitir claridad, calidez y profesionalismo. Por esa razón decidimos usar **Roboto Flex**, ya que tiene un diseño limpio y sencillo, lo que facilita la lectura en pantallas. 
+
+![Roboto](./Imagenes/Roboto-Flex.png)
 
 #### Spacing:
 Para nuestro proyecto, el espaciado es crucial para garantizar la legibilidad y accesibilidad, así que por eso tomamos estas decisiones:
@@ -685,30 +691,209 @@ Decidimos mantener una comunicación clara, cálida y profesional, porque este e
 
 ### 4.1.2. Web Style Guidelines
 
-#### Diseño de Página:
-La página contará con una barra de navegación, en donde se encontrarán los apartados. Así mismo, contará con un footer en donde habrán links a diferentes redes como por ejemplo instagram.
-Se emplearán animaciones simples y básicas para mostrar diferentes imágenes y texto que ayude al usuario a conocer más acerca del servicio. Si este se encuentra en una laptop o pc, bastará con scrollear para poder visualizar toda la página.
+#### **Diseño Responsive**
 
-#### Diseño Responsive:
-Para garantizar que la página se ajuste a distintos tamaños de pantalla o cuando el usuario modifique la ventana, se aplicará CSS3 junto con media queries. Esto permitirá que el contenido se mantenga accesible y correctamente visualizado en cualquier dispositivo. Elementos fundamentales como la barra de navegación y el pie de página se adaptarán de forma automática mediante unidades de medida relativas.
-#### Imágenes
-Los formatos de imagen sugeridos son JPEG y PNG para asegurar una alta calidad. Además, se definirán dimensiones óptimas y se implementarán técnicas de compresión para mejorar la velocidad de carga del sitio.
+Para asegurar que la página se ajuste correctamente a distintos tamaños de pantalla y que el contenido siga siendo comprensible y visualmente atractivo, se empleará  CSS junto con media queries. Estas herramientas permitirán definir estilos específicos según la resolución del dispositivo. Elementos fundamentales, como la barra de navegación y el pie de página, se adaptarán automáticamente para garantizar una experiencia óptima en diversos dispositivos. Siguiendo los siguientes breakpoints:
 
-#### Interacción del Usuario
-Se incorporarán animaciones sutiles para mostrar imágenes y textos que brinden información sobre el servicio. En computadoras portátiles y de escritorio, el usuario solo necesitará desplazarse para recorrer toda la página y disfrutar de estas interacciones dinámicas.
+| Dispositivo     | Ancho mínimo | Ejemplo de uso            |
+|-----------------|--------------|----------------------------|
+| Mobile          | ≥ 320px      | Teléfonos                  |
+| Tablet          | ≥ 768px      | iPad / tablets genéricas   |
+| Laptop  | ≥ 1024px     | Monitores y laptops        |
+| Wide Screen     | ≥ 1440px     | Pantallas grandes o TV     |
 
-#### Navegación:
-El menú de navegación y el pie de página contarán con márgenes y espaciado adecuados para garantizar una visualización óptima en cualquier tipo de pantalla. Se priorizará una experiencia intuitiva, incluyendo un menú tipo hamburguesa en dispositivos móviles. Además, los enlaces a redes sociales en el footer estarán bien posicionados y adaptados al diseño responsive.
+#### **Navegación**
+
+Usaremos un menú de hamburguesa en dispositivos móviles para optimizar el espacio disponible, mientras que el menú horizontal nos permitirá acceder de manera inmediata a las opciones principales, mejorando la navegación y la experiencia del usuario.
+
+#### **Imágenes**
+
+Emplearemos los formatos de imagen JPEG y PNG para garantizar una calidad visual óptima. Asimismo, se definirán tamaños específicos y se aplicarán técnicas de compresión para optimizar el rendimiento del sitio web sin afectar la nitidez de las imágenes.
+
+#### **Interacción del Usuario**
+
+Se implementarán animaciones sutiles para mostrar imágenes y textos informativos sobre el servicio. En computadoras portátiles y PCs, será suficiente desplazarse por la página para visualizar todo el contenido y disfrutar de estas interacciones dinámicas
+
 
 ## 4.2. Information Architecture
 ### 4.2.1. Organization Systems
+El sistema de organización de la aplicación WorkStation, diseñada para conectar freelancers con espacios de trabajo, se estructura de manera clara y eficiente para optimizar la experiencia tanto de los usuarios(freelancers) como de los propietarios que ofrecen sus locales en alquiler. A continuación, se detalla cómo se organiza la plataforma en términos de navegación, funcionalidades y flujos de usuario.
+
+![Diagrama](./Imagenes/Diagrama-WorkStation.png)
+
+El recorrido comienza en la Landing Page, donde los usuarios pueden explorar información general sobre la aplicación. Desde ahí, pueden acceder a la opción de Inicio, que los lleva a la pantalla principal.  
+
+Si el usuario es nuevo, puede seleccionar Registro, donde tiene dos opciones:  
+- **Crear Cuenta**: Completar un formulario con datos personales.  
+- **Registrarse con Google**: Opción rápida para vincular la cuenta de Google.  
+
+Una vez completado el registro, el usuario avanza a **Iniciar Sesión**, lo que le permite acceder a su perfil dentro de WorkStation.
+
+#### **Diferenciación de Usuarios**  
+Tras iniciar sesión, el sistema clasifica a los usuarios en **Freelancers** o **Propietarios**, mostrando la interfaz correspondiente según el rol seleccionado.  
+
+#### **Freelancers**  
+Los freelancers acceden a su Página Principal, donde tienen las siguientes opciones en la barra de navegación:  
+- **Explorar Espacios**: Búsqueda de locales de trabajo con filtros de precio, ubicación y características.  
+- **Reservas**: Historial y gestión de reservas activas o pasadas.  
+- **Favoritos**: Espacios guardados para futuras reservas.  
+- **Mensajes**: Comunicación con propietarios para coordinar detalles.  
+- **Perfil**: Configuración de cuenta, historial de pagos y preferencias.  
+
+#### **Propietarios**  
+Los propietarios, por su parte, acceden a su propia Página Principal, con opciones adaptadas a la gestión de locales:  
+- **Publicar Local**: Registro de espacios con fotos, tarifas y disponibilidad.  
+- **Gestión de Locales**: Administración de anuncios, reservas y comunicación con freelancers.  
+- **Mensajes**: Chat directo para resolver dudas o coordinar alquileres.  
+- **Perfil**: Información de cuenta y datos de pago.  
+
 ### 4.2.2. Labeling Systems
+Los sistemas de etiquetado seguirán la misma estructura presentada en Organization Systems. El usuario podrá seleccionar el encabezado de su interés y, al hacer clic, será dirigido automáticamente a la sección correspondiente dentro de la plataforma.
+
+#### **Secciones y contenido de la Landing Pagee**  
+
+| **Section**       | **Contenido**                                                             |
+|------------------|-------------------------------------------------------------------------|
+| **Rent With Us** | Explicación sobre cómo los freelancers pueden encontrar y alquilar espacios fácilmente. |
+| **Host With Us** | Información para propietarios interesados en publicar sus espacios en la plataforma. |
+| **Reviews**      | Opiniones y calificaciones de usuarios que han utilizado la aplicación. |
+| **Contact Us**   | Formulario de contacto, información de soporte y preguntas frecuentes. |
+
+#### **Secciones y contenido de la app para Freelancers** 
+
+| **Section**        | **Contenido**                                                           |
+|--------------------|---------------------------------------------------------------------|
+| **Home**          | Acceso a recomendaciones y espacios destacados.                |
+| **Explore Spaces** | Búsqueda con filtros (ubicación, precio, tipo de espacio). |
+| **My Bookings**   | Historial y gestión de reservas activas o pasadas.                |
+| **Favorites**     | Lista de espacios guardados por el usuario para futuras reservas.         |
+| **Messages**      | Chat con propietarios para consultas y coordinaciones.         |
+| **Profile**       | Configuración de cuenta, historial de pagos y ajustes personalizados.  |
+| **Help & Support**| Centro de asistencia, preguntas frecuentes y contacto con soporte. |
+
+#### **Secciones y contenido de la app para Propiestarios**  
+
+| **Section**        | **Contenido**                                                           |
+|--------------------|---------------------------------------------------------------------|
+| **Home**          | Vista general de actividad en locales y estadísticas de ingresos.                |
+| **Publish a Space** | Registro de espacios con fotos, tarifas y disponibilidad. |
+| **Manage Spaces**   | Administración de anuncios, reservas y actualización de precios.                |
+| **Messages**     | Comunicación con freelancers interesados en los espacios.         |
+| **Profile**       | Información de cuenta y datos de pago.  |
+| **Help & Support**| Recursos y guías sobre buenas prácticas en alquiler de espacios. |
+
+Este sistema de etiquetado permite una navegación clara y ordenada, asegurando que los usuarios encuentren rápidamente la información y funciones que necesitan dentro de WorkStation.
+
 ### 4.2.3. SEO Tags and Meta Tags
+
+Un sistema bien estructurado de SEO y Meta Tag es esencial para mejorar la visibilidad y los rankings de búsqueda de WorkStation. A continuación se presentan las etiquetas para las páginas principales:
+
+#### **Landing Page SEO & Meta Tags**  
+```html
+<title>WorkStation | Encuentra espacios de trabajo para freelancers</title>
+
+<meta name="description" content="WorkStation conecta freelancers con espacios de trabajo flexibles. Encuentra oficinas, coworkings y salas de reunión para potenciar tu productividad.">
+<meta name="keywords" content="coworking, alquiler oficinas, espacios de trabajo, freelancers, productividad">
+<meta name="author" content="WorkStation Team">
+<meta name="robots" content="index, follow">
+<meta property="og:title" content="WorkStation | Encuentra espacios de trabajo">
+<meta property="og:description" content="Encuentra oficinas y coworkings flexibles para freelancers y emprendedores.">
+<meta property="og:image" content="URL_DE_LA_IMAGEN">
+<meta property="og:url" content="https://www.workstation.com">
+```
+
+
+
+#### **Web Application SEO & Meta Tags**  
+```html
+<title>WorkStation | Plataforma de gestión de espacios de trabajo</title>
+
+<meta name="description" content="Administra reservas, pagos y comunicación entre freelancers y propietarios de espacios de trabajo con WorkStation.">
+<meta name="keywords" content="gestión de alquileres, reservas de espacios, freelancers, WorkStation, coworking">
+<meta name="author" content="WorkStation Team">
+<meta name="robots" content="index, follow">
+<meta property="og:title" content="WorkStation | Plataforma de gestión de espacios de trabajo">
+<meta property="og:description" content="Optimiza la administración de espacios y facilita el alquiler para freelancers.">
+<meta property="og:image" content="URL_DE_LA_IMAGEN">
+<meta property="og:url" content="https://app.workstation.com">
+```
+
 ### 4.2.4. Searching Systems
-Un Searching System, o sistema de búsqueda, es un componente diseñado para buscar y recuperar información relevante, basada en filtros o palabras clave, que se encuentren almacenados en una base de datos o en internet.
-En el caso de nuestra aplicación, se aplicará el sistema de búsqueda a través de una barra de búsqueda y un sistema de filtrado. Este sistema ayudará al usuario Renter a encontrar rápidamente workspaces que se adecúen a sus necesidades. Los datos de resultado se mostraran en una tabla de datos.
+
+El Searching System de WorkStation está diseñado para ayudar a los usuarios a encontrar fácilmente la información que necesitan dentro de la aplicación, evitando la sensación de desorientación ante el volumen de datos. Para ello, se implementan las siguientes herramientas:
+
+#### **Barra de Búsqueda Inteligente**  
+WorkStation contará con una barra de búsqueda global ubicada en la parte superior de la interfaz.  
+- Los **freelancers** podrán buscar espacios de trabajo por ubicación, precio, servicios, valoraciones y disponibilidad.  
+- Los **propietarios** podrán buscar estadísticas de ocupación, reservas y mensajes de clientes.  
+- Se implementará un sistema de **filtros avanzados** para refinar la búsqueda según necesidades específicas.  
+
+#### **Categorización de Contenido**  
+Para facilitar la exploración de información relevante, el contenido de WorkStation estará organizado en categorías predefinidas, permitiendo a los usuarios navegar sin necesidad de realizar búsquedas manuales.  
+- **Freelancers:** Categorías como “Coworking”, “Oficinas privadas”, “Salas de reuniones”, “Espacios creativos”.  
+- **Propietarios:** Categorías como “Mis Espacios”, “Reservas Pendientes”, “Historial de Transacciones”.  
+
+Además, se utilizará un sistema de etiquetas para agrupar espacios con características similares.
+
+## **Búsqueda con Filtros Avanzados**  
+Los filtros permiten una búsqueda más precisa y personalizada dentro de la plataforma.  
+- **Ubicación:** Posibilidad de buscar por ciudades, distritos o cercanía.  
+- **Precio:** Rango ajustable de costos de alquiler.  
+- **Tipo de espacio:** Desde oficinas privadas hasta coworkings abiertos.  
+- **Servicios adicionales:** Wi-Fi, cafetería, salas de reuniones, estacionamiento.  
+- **Valoraciones:** Espacios con mejores reseñas de otros freelancers.  
+
+Este sistema permitirá mostrar opciones relevantes sin que el usuario tenga que buscar activamente.
+
 ### 4.2.5. Navigation Systems
-Tanto el landing page como la aplicación web cuentan con un sistema de navegación. Para el landing page, este consiste de una barra de navegación superior, con enlaces a las secciones más importantes. Asimismo, se utilizarán los Call-to-action para guiar a los usuarios a través del Landing page. 
+Organizamos las secciones, permitiendo a los usuarios desplazarse sin dificultad entre distintas funcionalidades. La navegación está basada en una barra de menú principal, accesos rápidos y una estructura jerárquica clara que guía al usuario en su recorrido.
+
+#### **Landing Page Navigation**  
+La Landing Page de WorkStation se estructura con un diseño claro y accesible, facilitando la exploración para nuevos usuarios.  
+
+##### **Elementos de Navegación en la Landing Page**  
+- **Menú principal fijo** en la parte superior con accesos rápidos a secciones clave.  
+- **Botones de acción (CTA - Call to Action)** estratégicamente ubicados para dirigir a los usuarios hacia la Web Application.  
+- **Enlaces internos** dentro del contenido para conectar secciones relacionadas.  
+- **Scroll guiado** con transiciones suaves para facilitar la lectura y exploración.  
+
+##### **Flujo de Navegación en la Landing Page**  
+1. **Usuarios nuevos** llegan a la Landing Page y exploran la información sobre la plataforma.  
+2. **Botones CTA** permiten redirigirlos a la sección correspondiente:  
+   - *Rent With Us:* Para freelancers que buscan espacios.  
+   - *Host With Us:* Para propietarios que desean publicar locales.  
+3. **Sección de Reviews** con experiencias de usuarios ayuda a generar confianza.  
+4. **Contact Us** ofrece canales de asistencia directa.  
+5. **Registro/Iniciar Sesión** para acceder a la aplicación.  
+
+
+#### **Web Application Navigation**  
+Dentro de la aplicación, la navegación se divide en dos experiencias **según el tipo de usuario**:  
+1. **Freelancers** que buscan espacios.  
+2. **Propietarios** que administran locales.  
+
+##### **Tipos de Navegación en la Web Application**  
+- **Menú lateral dinámico** con secciones diferenciadas según el usuario.  
+- **Búsqueda global** con filtros avanzados para encontrar espacios específicos.  
+- **Navegación basada en tarjetas** con accesos rápidos a información relevante.  
+- **Atajos contextuales** que sugieren acciones según el comportamiento del usuario.  
+
+#### **Flujo de Navegación en la Web Application**  
+
+##### **Para Freelancers:**  
+1. Inician sesión y llegan al **Dashboard** con espacios recomendados.  
+2. Usan **Explorar Espacios** para buscar locales con filtros específicos.  
+3. Seleccionan un espacio y proceden con la **Reserva**.  
+4. Administran sus reservas desde **Mis Reservas**.  
+5. Se comunican con propietarios mediante **Mensajes**.  
+
+##### **Para Propietarios:**  
+1. Acceden al **Panel de Gestión de Locales**.  
+2. Publican nuevos espacios desde **Publicar un Local**.  
+3. Gestionan alquileres en **Gestión de Locales**.  
+4. Interactúan con freelancers mediante **Mensajes**.  
+5. Consultan ingresos y estadísticas desde **Perfil**.  
+
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
 **Desktop Web Browser**
