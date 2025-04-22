@@ -987,9 +987,16 @@ Dentro de la aplicación, la navegación se divide en dos experiencias **según 
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
+https://www.figma.com/design/2iLyXomEz1rx0qapfc839H/Untitled?node-id=0-1&t=RVXbWtONTCkdzQpK-1
+
 ### 4.4.2. Web Applications Wireflow Diagrams
-### 4.4.2. Web Applications Mock-ups
-### 4.4.3. Web Applications User Flow Diagrams
+https://www.figma.com/design/8lA3eYptPPVn0ZyE4Kkvt8/Untitled?node-id=0-1&t=SF4C56MADxJ8g2qh-1
+
+### 4.4.3. Web Applications Mock-ups
+https://www.figma.com/design/ixSPWMNtGRVZcSOOZQzbZE/Untitled?node-id=0-1&t=A7vSMKm9t6JRjbER-1
+
+### 4.4.4. Web Applications User Flow Diagrams
+
 ## 4.5. Web Applications Prototyping
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
