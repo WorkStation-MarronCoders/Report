@@ -896,28 +896,48 @@ Dentro de la aplicación, la navegación se divide en dos experiencias **según 
 
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
-**Desktop Web Browser**
+
+### **Desktop Web Browser**
 **Landing Page Home**
+
 ![Navigation and Hero Section](Imagenes/Landing-Wireframe-Intro.png)
+
 **Rent with us**
+
 ![Rent with us](Imagenes/Landing-Wireframe-Rent.png)
+
 **Host with us**
+
 ![Host with us](Imagenes/Landing-Wireframe-Host.png)
+
 **Reviews**
+
 ![Reviews](Imagenes/Landing-Wireframe-Reviews.png)
+
 **Contact**
+
 ![Contact](Imagenes/Landing-Wireframe-Contact.png)
 
-**Mobile Web Browser**
+### **Mobile Web Browser**
+
 **Landing Page Home**
+
 ![Navigation and Hero Section](Imagenes/Landing-Mobile-Wireframe-Intro.png)
+
 **Rent with us**
+
 ![Rent with us](Imagenes/Landing-Mobile-Wireframe-Rent.png)
+
 **Host with us**
+
 ![Host with us](Imagenes/Landing-Mobile-Wireframe-Host.png)
+
 **Reviews**
+
 ![Reviews](Imagenes/Landing-Mobile-Wireframe-Reviews.png)
+
 **Contact**
+
 ![Contact](Imagenes/Landing-Mobile-Wireframe-Contact.png)
 
 ### 4.3.2. Landing Page Mock-up
