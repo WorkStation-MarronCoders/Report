@@ -152,8 +152,8 @@ TB1:
 |---------------------------|--------------|-------------------|
 |   | Quijada Magro Jeremy Alexander |  |
 |    | Liberato Saldana Rodrigo   | Estudiante de Ingenieria de software que planea en efocarse en Ciencia de datos y Ciberseguridad. Planeo dar apoyo en el grupo de manera activa y tomar el rol de lider para encaminar al equipo a cumplir la meta en comun, realizar un buen trabajo con nuestra propuesta.    |
-|    |    |     |
- | ![Luis](images/Luisfoto.png)    |  |**Nombre:** Jorge Luis Díaz Fiestas , **Código de estudiante:** U20231D534,   **Carrera:** Ingeniería de Software,  **Rol:** Team member |  Soy estudiante de Ing. de Software, del 5° ciclo. Destacado en el trabajo en grupo y apto para dar retroalimentación. Con conocimientos básicos en Arduino, programación web (HTML, CSS, JS, React, TypeScript, Firebase), bases de datos (SQL, Firebase, Supabase, MongoDB, MariaDB) y lenguajes C/C++.   
+|    |    
+| ![Luis](images/Luisfoto.png) |  |**Nombre:** Jorge Luis Díaz Fiestas , **Código de estudiante:** U20231D534,   **Carrera:** Ingeniería de Software,  **Rol:** Team member |  Soy estudiante de Ing. de Software, del 5° ciclo. Destacado en el trabajo en grupo y apto para dar retroalimentación. Con conocimientos básicos en Arduino, programación web (HTML, CSS, JS, React, TypeScript, Firebase), bases de datos (SQL, Firebase, Supabase, MongoDB, MariaDB) y lenguajes C/C++.   
 |    |    |     |
 |    |    |     |
 
