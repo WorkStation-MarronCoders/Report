@@ -987,6 +987,42 @@ Dentro de la aplicación, la navegación se divide en dos experiencias **según 
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
+
+Esta sección muestra los wireframes de nuestra Startup, desarrollados bajo los principios de diseño centrado en el usuario, accesibilidad e inclusión. Se ha dado énfasis a una arquitectura de información clara y al uso de herramientas especializadas para asegurar una experiencia de usuario intuitiva y eficiente.
+
+**Main**
+![Main](./Imagenes/Menú.png)
+
+**Recuperar Cuenta**
+![Recuperar Cuent](<./Imagenes/Recuperar cuenta.png>)
+
+**Cambiar Contraseña**
+![Cambiar Contraseña](<./Imagenes/Cambiar contraseña.png>)
+
+**Registrar**
+![Registrar](<./Imagenes/Registrar.png>)
+
+**Menú**
+![Menu](./Imagenes/Menu.png)
+
+**Buscar**
+![Buscar](./Imagenes/Buscar.png)
+
+**Reservar**
+![Reservar](./Imagenes/Reservar.png)
+
+**Plan**
+![Plan](./Imagenes/Plan.png)
+
+**Perfil**
+![Perfil](./Imagenes/Perfil.png)
+
+**Editar Perfil**
+![Editar Perfil](<./Imagenes/Editar Perfil.png>)
+
+**Comparar**
+![Comparar](./Imagenes/Comparar.png)
+
 https://www.figma.com/design/2iLyXomEz1rx0qapfc839H/Untitled?node-id=0-1&t=RVXbWtONTCkdzQpK-1
 
 ### 4.4.2. Web Applications Wireflow Diagrams
