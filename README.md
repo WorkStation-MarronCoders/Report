@@ -1056,9 +1056,35 @@ Office Context
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
+<p align="center">
+  <img src="Imagenes/Software Object-Oriented Design.png" alt="Diagram" />
+</p>
 ### 4.7.2. Class Dictionary
+
+Este documento describe las principales clases del modelo de datos para la aplicación, junto con sus atributos y una breve descripción de su propósito.
+
+## 📦 Clases del Modelo
+
+| Clase           | Atributos                                                   | Descripción                                                  |
+|------------------|--------------------------------------------------------------|--------------------------------------------------------------|
+| `Usuario`        | `id`, `nombre`, `email`, `teléfono`, `contraseña`, `tipo`   | Representa a un usuario del sistema, ya sea cliente o anfitrión. |
+| `Espacio`        | `id`, `título`, `capacidad`, `precio`, `dirección_id`, etc. | Representa un espacio físico como una oficina o coworking.   |
+| `Reserva`        | `id`, `usuario_id`, `espacio_id`, `fecha_inicio`, `fecha_fin` | Registra una reserva realizada por un usuario para un espacio. |
+| `Disponibilidad` | `id`, `espacio_id`, `fecha`, `disponible`                   | Define si un espacio está disponible en una fecha específica. |
+
+## 🧩 Relaciones entre Clases
+
+- Un `Usuario` puede realizar muchas `Reservas`.
+- Un `Espacio` puede tener muchas `Reservas`.
+- Un `Espacio` puede tener múltiples registros de `Disponibilidad`.
+
+---
+
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
+<p align="center">
+  <img src="Imagenes/Database Diagram.png" alt="DiagramSQL" />
+</p>
 
 # Capítulo 5
 ## 5.1 Software Configuration Management
