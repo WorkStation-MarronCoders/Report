@@ -154,7 +154,7 @@ TB1:
 |   | Quijada Magro Jeremy Alexander |  |
 |    | Liberato Saldana Rodrigo   | Estudiante de Ingenieria de software que planea en efocarse en Ciencia de datos y Ciberseguridad. Planeo dar apoyo en el grupo de manera activa y tomar el rol de lider para encaminar al equipo a cumplir la meta en comun, realizar un buen trabajo con nuestra propuesta.    |
 |    |   | | | | 
-| ![Luis](images/Luisfoto.png) |  Jorge Luis Díaz Fiestas   | Estudiante de Ing. de Software, del 5° ciclo. Destacado en el trabajo en grupo y apto para dar retroalimentación. Con conocimientos básicos en Arduino, programación web (HTML, CSS, JS, React, TypeScript, Firebase), bases de datos (SQL, Firebase, Supabase, MongoDB, MariaDB) y lenguajes C/C++.   |
+| ![Luis](Imagenes/Luisfoto.png) |  Jorge Luis Díaz Fiestas   | Estudiante de Ing. de Software, del 5° ciclo. Destacado en el trabajo en grupo y apto para dar retroalimentación. Con conocimientos básicos en Arduino, programación web (HTML, CSS, JS, React, TypeScript, Firebase), bases de datos (SQL, Firebase, Supabase, MongoDB, MariaDB) y lenguajes C/C++.   |
 |    |Emilia Durán Santander | Estudiante de la carrera de Ingenieria de Software, con interés en el area de ciberseguridad. Me considero una persona responsable y planeo apoyar al grupo demostrando las habilidades previamente aprendidas a lo largo de la carrera. Actualmente cuento con conocimientos tecnicos en C++, HTML yCSS. |
 |    |    |     |
 
@@ -1056,6 +1056,9 @@ Office Context
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
+<p align="center">
+  <img src="Imagenes/Software Object-Oriented Design.png" alt="Diagram" />
+</p>
 ### 4.7.2. Class Dictionary
 
 Este documento describe las principales clases del modelo de datos para la aplicación, junto con sus atributos y una breve descripción de su propósito.
@@ -1079,6 +1082,9 @@ Este documento describe las principales clases del modelo de datos para la aplic
 
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
+<p align="center">
+  <img src="Imagenes/Database Diagram.png" alt="DiagramSQL" />
+</p>
 
 # Capítulo 5
 ## 5.1 Software Configuration Management
