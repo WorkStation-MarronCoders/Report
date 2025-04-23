@@ -1081,6 +1081,7 @@ Este documento describe las principales clases del modelo de datos para la aplic
 ---
 
 ## 4.8. Database Design
+El diseño de la base de datos sigue una estructura relacional normalizada (3FN), optimizada para mantener la integridad de los datos y facilitar la escalabilidad.
 ### 4.8.1. Database Diagram
 <p align="center">
   <img src="Imagenes/Database Diagram.png" alt="DiagramSQL" />
