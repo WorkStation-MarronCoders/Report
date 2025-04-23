@@ -1082,12 +1082,28 @@ Este documento describe las principales clases del modelo de datos para la aplic
 
 ## 4.8. Database Design
 El diseño de la base de datos sigue una estructura relacional normalizada (3FN), optimizada para mantener la integridad de los datos y facilitar la escalabilidad.
-|  CREATE DATABASE WorkSpaces;
+
+# Base de Datos: WorkSpaces
+
+Este script crea la base de datos `WorkSpaces` junto con sus respectivas tablas para gestionar usuarios, espacios de trabajo, reservas, pagos, reseñas y más.
+
+## 📦 Estructura de la Base de Datos
+
+### Crear Base de Datos y Seleccionar Uso
+
+```sql
+CREATE DATABASE WorkSpaces;
 GO
 USE WorkSpaces;
 GO
+```
 
--- Tabla de usuarios
+---
+
+### 🧑 Tabla: `users`
+Registra los usuarios del sistema (clientes y anfitriones).
+
+```sql
 CREATE TABLE users (
     user_id INT IDENTITY(1,1) PRIMARY KEY,
     full_name NVARCHAR(100) NOT NULL,
@@ -1097,9 +1113,14 @@ CREATE TABLE users (
     user_type VARCHAR(10) NOT NULL CHECK (user_type IN ('client', 'host')),
     created_at DATETIME2 DEFAULT GETDATE()
 );
-GO
+```
 
--- Tabla de direcciones
+---
+
+### 📍 Tabla: `addresses`
+Guarda la dirección física de los espacios.
+
+```sql
 CREATE TABLE addresses (
     address_id INT IDENTITY(1,1) PRIMARY KEY,
     country NVARCHAR(100),
@@ -1110,9 +1131,14 @@ CREATE TABLE addresses (
     latitude DECIMAL(10,8),
     longitude DECIMAL(11,8)
 );
-GO
+```
 
--- Tabla de espacios/oficinas
+---
+
+### 🏢 Tabla: `spaces`
+Define los espacios de trabajo que los anfitriones publican.
+
+```sql
 CREATE TABLE spaces (
     space_id INT IDENTITY(1,1) PRIMARY KEY,
     host_id INT NOT NULL,
@@ -1128,9 +1154,14 @@ CREATE TABLE spaces (
     FOREIGN KEY (host_id) REFERENCES users(user_id),
     FOREIGN KEY (address_id) REFERENCES addresses(address_id)
 );
-GO
+```
 
--- Tabla de disponibilidad
+---
+
+### 📅 Tabla: `availability`
+Registra la disponibilidad por día de cada espacio.
+
+```sql
 CREATE TABLE availability (
     availability_id INT IDENTITY(1,1) PRIMARY KEY,
     space_id INT NOT NULL,
@@ -1139,9 +1170,14 @@ CREATE TABLE availability (
     FOREIGN KEY (space_id) REFERENCES spaces(space_id),
     CONSTRAINT uq_space_date UNIQUE (space_id, available_date)
 );
-GO
+```
 
--- Tabla de reservas
+---
+
+### 📆 Tabla: `bookings`
+Contiene las reservas hechas por los clientes.
+
+```sql
 CREATE TABLE bookings (
     booking_id INT IDENTITY(1,1) PRIMARY KEY,
     client_id INT NOT NULL,
@@ -1154,9 +1190,14 @@ CREATE TABLE bookings (
     FOREIGN KEY (client_id) REFERENCES users(user_id),
     FOREIGN KEY (space_id) REFERENCES spaces(space_id)
 );
-GO
+```
 
--- Tabla de pagos
+---
+
+### 💳 Tabla: `payments`
+Gestiona los pagos realizados por las reservas.
+
+```sql
 CREATE TABLE payments (
     payment_id INT IDENTITY(1,1) PRIMARY KEY,
     booking_id INT NOT NULL,
@@ -1166,9 +1207,14 @@ CREATE TABLE payments (
     payment_status VARCHAR(20) DEFAULT 'pending' CHECK (payment_status IN ('pending', 'completed', 'failed')),
     FOREIGN KEY (booking_id) REFERENCES bookings(booking_id)
 );
-GO
+```
 
--- Tabla de reseñas
+---
+
+### 🌟 Tabla: `reviews`
+Permite a los usuarios dejar comentarios y puntuaciones.
+
+```sql
 CREATE TABLE reviews (
     review_id INT IDENTITY(1,1) PRIMARY KEY,
     booking_id INT NOT NULL,
@@ -1177,9 +1223,14 @@ CREATE TABLE reviews (
     created_at DATETIME2 DEFAULT GETDATE(),
     FOREIGN KEY (booking_id) REFERENCES bookings(booking_id)
 );
-GO
+```
 
--- Tabla de imágenes de espacios
+---
+
+### 🖼️ Tabla: `space_images`
+Almacena URLs de imágenes de cada espacio.
+
+```sql
 CREATE TABLE space_images (
     image_id INT IDENTITY(1,1) PRIMARY KEY,
     space_id INT NOT NULL,
@@ -1187,7 +1238,11 @@ CREATE TABLE space_images (
     uploaded_at DATETIME2 DEFAULT GETDATE(),
     FOREIGN KEY (space_id) REFERENCES spaces(space_id)
 );
-GO  |
+```
+
+---
+
+
 ### 4.8.1. Database Diagram
 <p align="center">
   <img src="Imagenes/Database Diagram.png" alt="DiagramSQL" />
