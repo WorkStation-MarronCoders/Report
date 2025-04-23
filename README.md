@@ -1056,7 +1056,9 @@ Office Context
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
- ![Diagram](Imagenes/Software Object-Oriented Design.png)
+<p align="center">
+  <img src="Imagenes/Software Object-Oriented Design.png" alt="Diagram" />
+</p>
 ### 4.7.2. Class Dictionary
 
 Este documento describe las principales clases del modelo de datos para la aplicación, junto con sus atributos y una breve descripción de su propósito.
@@ -1080,7 +1082,9 @@ Este documento describe las principales clases del modelo de datos para la aplic
 
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
- ![Diagram](Imagenes/Database Diagram.png)
+<p align="center">
+  <img src="Imagenes/Database Diagram.png" alt="DiagramSQL" />
+</p>
 
 # Capítulo 5
 ## 5.1 Software Configuration Management
