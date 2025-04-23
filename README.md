@@ -1082,6 +1082,112 @@ Este documento describe las principales clases del modelo de datos para la aplic
 
 ## 4.8. Database Design
 El diseño de la base de datos sigue una estructura relacional normalizada (3FN), optimizada para mantener la integridad de los datos y facilitar la escalabilidad.
+|  CREATE DATABASE WorkSpaces;
+GO
+USE WorkSpaces;
+GO
+
+-- Tabla de usuarios
+CREATE TABLE users (
+    user_id INT IDENTITY(1,1) PRIMARY KEY,
+    full_name NVARCHAR(100) NOT NULL,
+    email NVARCHAR(100) UNIQUE NOT NULL,
+    phone NVARCHAR(20),
+    password_hash NVARCHAR(255) NOT NULL,
+    user_type VARCHAR(10) NOT NULL CHECK (user_type IN ('client', 'host')),
+    created_at DATETIME2 DEFAULT GETDATE()
+);
+GO
+
+-- Tabla de direcciones
+CREATE TABLE addresses (
+    address_id INT IDENTITY(1,1) PRIMARY KEY,
+    country NVARCHAR(100),
+    state NVARCHAR(100),
+    city NVARCHAR(100),
+    street NVARCHAR(150),
+    postal_code NVARCHAR(20),
+    latitude DECIMAL(10,8),
+    longitude DECIMAL(11,8)
+);
+GO
+
+-- Tabla de espacios/oficinas
+CREATE TABLE spaces (
+    space_id INT IDENTITY(1,1) PRIMARY KEY,
+    host_id INT NOT NULL,
+    address_id INT NOT NULL,
+    title NVARCHAR(150) NOT NULL,
+    description NVARCHAR(MAX),
+    capacity INT NOT NULL,
+    price_per_day DECIMAL(10,2) NOT NULL,
+    has_wifi BIT DEFAULT 1,
+    has_parking BIT DEFAULT 0,
+    has_air_conditioning BIT DEFAULT 0,
+    created_at DATETIME2 DEFAULT GETDATE(),
+    FOREIGN KEY (host_id) REFERENCES users(user_id),
+    FOREIGN KEY (address_id) REFERENCES addresses(address_id)
+);
+GO
+
+-- Tabla de disponibilidad
+CREATE TABLE availability (
+    availability_id INT IDENTITY(1,1) PRIMARY KEY,
+    space_id INT NOT NULL,
+    available_date DATE NOT NULL,
+    is_available BIT DEFAULT 1,
+    FOREIGN KEY (space_id) REFERENCES spaces(space_id),
+    CONSTRAINT uq_space_date UNIQUE (space_id, available_date)
+);
+GO
+
+-- Tabla de reservas
+CREATE TABLE bookings (
+    booking_id INT IDENTITY(1,1) PRIMARY KEY,
+    client_id INT NOT NULL,
+    space_id INT NOT NULL,
+    start_date DATE NOT NULL,
+    end_date DATE NOT NULL,
+    total_price DECIMAL(10,2) NOT NULL,
+    status VARCHAR(20) DEFAULT 'pending' CHECK (status IN ('pending', 'confirmed', 'cancelled')),
+    created_at DATETIME2 DEFAULT GETDATE(),
+    FOREIGN KEY (client_id) REFERENCES users(user_id),
+    FOREIGN KEY (space_id) REFERENCES spaces(space_id)
+);
+GO
+
+-- Tabla de pagos
+CREATE TABLE payments (
+    payment_id INT IDENTITY(1,1) PRIMARY KEY,
+    booking_id INT NOT NULL,
+    payment_date DATETIME2 DEFAULT GETDATE(),
+    amount DECIMAL(10,2) NOT NULL,
+    payment_method VARCHAR(20) NOT NULL CHECK (payment_method IN ('credit_card', 'paypal', 'bank_transfer')),
+    payment_status VARCHAR(20) DEFAULT 'pending' CHECK (payment_status IN ('pending', 'completed', 'failed')),
+    FOREIGN KEY (booking_id) REFERENCES bookings(booking_id)
+);
+GO
+
+-- Tabla de reseñas
+CREATE TABLE reviews (
+    review_id INT IDENTITY(1,1) PRIMARY KEY,
+    booking_id INT NOT NULL,
+    rating INT NOT NULL CHECK (rating BETWEEN 1 AND 5),
+    comment NVARCHAR(MAX),
+    created_at DATETIME2 DEFAULT GETDATE(),
+    FOREIGN KEY (booking_id) REFERENCES bookings(booking_id)
+);
+GO
+
+-- Tabla de imágenes de espacios
+CREATE TABLE space_images (
+    image_id INT IDENTITY(1,1) PRIMARY KEY,
+    space_id INT NOT NULL,
+    image_url NVARCHAR(255) NOT NULL,
+    uploaded_at DATETIME2 DEFAULT GETDATE(),
+    FOREIGN KEY (space_id) REFERENCES spaces(space_id)
+);
+GO  |
 ### 4.8.1. Database Diagram
 <p align="center">
   <img src="Imagenes/Database Diagram.png" alt="DiagramSQL" />
