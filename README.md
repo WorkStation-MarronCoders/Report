@@ -1025,7 +1025,7 @@ Esta sección muestra los wireframes de nuestra Startup, desarrollados bajo los 
 ![Comparar](./Imagenes/Comparar.png)
 
 ### 4.4.2. Web Applications Wireflow Diagrams
-![Diagramas](<./Imagenes/Wireflow Diagrams.png>)
+![Diagramas](<./Imagenes/App -Mock Up IMG/Wireflow Diagrams.png>)
 https://www.figma.com/design/8lA3eYptPPVn0ZyE4Kkvt8/Untitled?node-id=0-1&t=SF4C56MADxJ8g2qh-1
 
 ### 4.4.3. Web Applications Mock-ups
