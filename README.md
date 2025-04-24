@@ -1024,17 +1024,36 @@ Esta sección muestra los wireframes de nuestra Startup, desarrollados bajo los 
 **Comparar**
 ![Comparar](./Imagenes/Comparar.png)
 
-https://www.figma.com/design/2iLyXomEz1rx0qapfc839H/Untitled?node-id=0-1&t=RVXbWtONTCkdzQpK-1
-
 ### 4.4.2. Web Applications Wireflow Diagrams
+![Diagramas](<./Imagenes/Wireflow Diagrams.png>)
 https://www.figma.com/design/8lA3eYptPPVn0ZyE4Kkvt8/Untitled?node-id=0-1&t=SF4C56MADxJ8g2qh-1
 
 ### 4.4.3. Web Applications Mock-ups
-https://www.figma.com/design/ixSPWMNtGRVZcSOOZQzbZE/Untitled?node-id=0-1&t=A7vSMKm9t6JRjbER-1
+Los siguientes mockups representan una visión más cercana al diseño final de WorkSatation Cada pantalla ha sido cuidadosamente diseñada para reflejar una interfaz moderna, amigable e intuitiva.
+
+![Log In](./Imagenes/App%20-Mock%20Up%20IMG/Log-In.png)
+
+![Menu](./Imagenes/App%20-Mock%20Up%20IMG/Menu2.png)
+
+![Perfil](./Imagenes/App%20-Mock%20Up%20IMG/Perfil.png)
+
+![Plan](./Imagenes/App%20-Mock%20Up%20IMG/Plan.png)
+
+![Registrar](./Imagenes/App%20-Mock%20Up%20IMG/Registrar.png)
+
+![Reservar](./Imagenes/App%20-Mock%20Up%20IMG/Reservar.png)
+
+![Comparar](./Imagenes/App%20-Mock%20Up%20IMG/F7F6FF.png)
+
+![Propietario](./Imagenes/App%20-Mock%20Up%20IMG/Comparar.png)
+
+![Buscar](./Imagenes/App%20-Mock%20Up%20IMG/Buscar.png)
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
 ## 4.5. Web Applications Prototyping
+
+
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
 
