@@ -1129,9 +1129,9 @@ Aqui se explicara las desiciones tecnicas que se tuvo para el desarrollo del rep
 
 Para la gestion de codigo, realizamos nuestros avances en una plataforma que sea posible de rastrear y facil de manejar como lo seria **GitHub**. Asimismo, se uso **Git** para tener facilidad editar nuestros documentos. A continuacion los repositorios utilizados para este sprint:
 
-- Organizacion: 
-- Reporte: 
-- Landing page: 
+- Organizacion: [https://github.com/WorkStation-MarronCoders](https://github.com/WorkStation-MarronCoders)
+- Reporte: [https://github.com/WorkStation-MarronCoders/work_station_markdown.git](https://github.com/WorkStation-MarronCoders/work_station_markdown.git)
+- Landing page: [https://github.com/WorkStation-MarronCoders/landing-page-workstation.git](https://github.com/WorkStation-MarronCoders/landing-page-workstation.git)
 
 #### Gitflow
 Gitflow es una estrategia de ramificación (branching) en Git que define un separa el flujo de trabajo para una mejor organizacion, esto para que los trabajos colaborativos se puedan desarrollar de la mejor manera. Separa las diferentes fases del desarrollo (nuevas funcionalidades, pruebas, correcciones) en distintas branches. Las branches permiten trabajar en paralelo en diferentes aspectos del proyecto sin afectar el código principal. En Gitflow, cada tipo de rama tiene una función específica. 
@@ -1240,7 +1240,17 @@ function fetchUserData(userId) {
 ```
 
 ### 5.1.4. Software Deployment Configuration.
+En este punto se describen los pasos para hacer el despliegue de la Landing Page utilizando GitHub Pages utilizando el repositorio anteriormente mencionado.
 
+Primero en la seccion de configuraciones del repositorio, se abre la seccion de Pages.
+![deployment1](Imagenes/deployment1.png)
+
+Se selecciona la main branch donde se encuentra la ultima actualizacion del codigo en HTML, CSS y JS. Por ultimo se guardan las configuraciones
+![deployment2](Imagenes/deployment2.png)
+Luego de unos segundos la aplicacion se ha desplegado, siendo el simbolo de confirmacion el check al lado del nombre del repositorio
+![deployment3](Imagenes/deployment3.png)
+A continuacion, un vistazo de la landing page:
+![deployment4](Imagenes/deployment4.png)
 
 
 ## 5.2. Landing Page, Services & Applications Implementation.
