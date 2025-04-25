@@ -153,7 +153,8 @@ TB1:
 |---------------------------|--------------|-------------------|
 |   | Quijada Magro Jeremy Alexander |  |
 |    | Liberato Saldana Rodrigo   | Estudiante de Ingenieria de software que planea en efocarse en Ciencia de datos y Ciberseguridad. Planeo dar apoyo en el grupo de manera activa y tomar el rol de lider para encaminar al equipo a cumplir la meta en comun, realizar un buen trabajo con nuestra propuesta.    |
-|    |   | | | | 
+|    | Sebastián Gutarra Velapatiño  | Soy un estudiante de 6to ciclo de la carrera de ingeniería de software en la UPC, me caracterizo por la perseverancia, la responsabilidad, la empatía y trabajo en equipo. Entre mis conocimientos puedo manejar lenguajes como C, C++, SQL y Python, y software tales como Visual Studio Code, Google Collab, Word, Excel.
+ || 
 | ![Luis](Imagenes/Luisfoto.png) |  Jorge Luis Díaz Fiestas   | Estudiante de Ing. de Software, del 5° ciclo. Destacado en el trabajo en grupo y apto para dar retroalimentación. Con conocimientos básicos en Arduino, programación web (HTML, CSS, JS, React, TypeScript, Firebase), bases de datos (SQL, Firebase, Supabase, MongoDB, MariaDB) y lenguajes C/C++.   |
 |    |Emilia Durán Santander | Estudiante de la carrera de Ingenieria de Software, con interés en el area de ciberseguridad. Me considero una persona responsable y planeo apoyar al grupo demostrando las habilidades previamente aprendidas a lo largo de la carrera. Actualmente cuento con conocimientos tecnicos en C++, HTML yCSS. |
 | ![yo](https://github.com/user-attachments/assets/3bf44175-f92b-40e4-a346-8c5a61ec71f8)|  Sandro Dinklange Arévalo  |Soy un estudiante de 18 años que cursa la carrera de Ingeniería de Software, en cuarto ciclo, en la Universidad Peruana de Ciencias Aplicadas (UPC). Me considero una persona trabajadora en equipo, y suelo leer libros en mis tiempos libres. Cuento con conocimientos en C++.|
@@ -640,6 +641,17 @@ Entre las tareas encontradas, la que ambos User Persona coinciden en que es impo
 
 ## 3.3. Impact Mapping
 ## 3.4. Product Backlog
+
+
+| ID  | Historia de Usuario                                           | Prioridad |
+|-----|---------------------------------------------------------------|-----------|
+| 1   | Como freelancer, quiero encontrar la ubicacion de los inmuebles por localizacion para encontrar los lugares mas cercanos o convenientes     | Alta      |
+| 2   | Como freelancer, quiero saber la disponibilidad actual del inmueble para hacer una eleccion correcta del tiempo que necesito el local              | Alta     |
+| 8   | Como freelancer, quiero tener la posibilidad de tener una devolucion de mi dinero si cancelo una reserva realizada antes del inicio de esta misma.       | Media      |
+| 7   | Como freelancer quiero tener la certeza de que la aplicacion web tenga un sistema de pago seguro                       | Alta      |
+
+
+
 # Capitulo 4
 ## 4.1. Style Guidelines
 
