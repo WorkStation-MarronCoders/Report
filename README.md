@@ -151,7 +151,7 @@ TB1:
 ### 1.1.2. Perfiles de integrantes del equipo
 | Foto                       | Alumno       | Descripción        |
 |---------------------------|--------------|-------------------|
-|   | Quijada Magro Jeremy Alexander |  |
+|   | Quijada Magro Jeremy Alexander | Estudiante de Ingenieria de software que plenae en enfocar en la gestion de proyectos. Con conocimientos basicos en programacion web y base de datos. |
 |    | Liberato Saldana Rodrigo   | Estudiante de Ingenieria de software que planea en efocarse en Ciencia de datos y Ciberseguridad. Planeo dar apoyo en el grupo de manera activa y tomar el rol de lider para encaminar al equipo a cumplir la meta en comun, realizar un buen trabajo con nuestra propuesta.    |
 |    | Sebastián Gutarra Velapatiño  | Soy un estudiante de 6to ciclo de la carrera de ingeniería de software en la UPC, me caracterizo por la perseverancia, la responsabilidad, la empatía y trabajo en equipo. Entre mis conocimientos puedo manejar lenguajes como C, C++, SQL y Python, y software tales como Visual Studio Code, Google Collab, Word, Excel.
  || 
@@ -324,7 +324,7 @@ Corresponde a personas naturales o jurídicas que administran o alquilan espacio
 - Optimización de la ocupabilidad de sus ambientes.
 - Acceso a métricas sobre uso y satisfacción de clientes.
 
---
+---
 ### Freelancers y Startups
 Este grupo está compuesto por trabajadores independientes, equipos pequeños de desarrollo, marketing, diseño, entre otros, así como emprendedores en etapa inicial.
 
@@ -1061,9 +1061,27 @@ Los siguientes mockups representan una visión más cercana al diseño final de 
 ![Buscar](./Imagenes/App%20-Mock%20Up%20IMG/Buscar.png)
 
 ### 4.4.4. Web Applications User Flow Diagrams
+Los diagramas de flujo de usuario (User Flow Diagrams) son herramientas visuales fundamentales para comprender y mejorar la experiencia de usuario en aplicaciones web. Representan el recorrido que realiza un usuario al interactuar con una aplicación, desde el inicio hasta el logro de un objetivo específico, destacando decisiones, acciones y puntos clave. Estos diagramas nos ayudaran a simplificar los procesos:
+
+![User Goal 1](./Imagenes/User-Goals/US1.jpg)
+
+![User Goal 2](./Imagenes/User-Goals/US2.jpg)
+
+![User Goal 3](./Imagenes/User-Goals/US3.jpg)
+
+![User Goal 4](./Imagenes/User-Goals/US4.jpg)
+
+![User Goal 5](./Imagenes/User-Goals/US5.jpg)
+
+![User Goal 6](./Imagenes/User-Goals/US6.jpg)
+
+![User Goal 7](./Imagenes/User-Goals/US7.jpg)
+
+![User Goal 8](./Imagenes/User-Goals/US8.jpg)
 
 ## 4.5. Web Applications Prototyping
 
+![Prototyping](./Imagenes/prototyping.png)
 
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
@@ -1267,6 +1285,22 @@ A continuacion, un vistazo de la landing page:
 ## 5.2. Landing Page, Services & Applications Implementation.
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1.
+
+El Sprint Planning 1 es una reunión esencial para iniciar el primer sprint de un proyecto, donde el equipo define los objetivos y la estrategia para cumplirlos. En este caso, nuestro objetivo principal es implementar la landing page de la aplicación, asegurando una presentación efectiva del producto.
+
+| Sprint #                             | Sprint 1                                                                                               |
+|--------------------------------|--------------------------------------------------------------------------------------------------------|
+| **Date**       |     2025-04-22        |
+| Time           | 1:00 PM                      |
+| Location       | Virtual - Meet               |
+| Prepared By    | Jeremy Quijada               |
+| Attendees (to planning meeting)| Jeremy Quijada, Rodrigo Liberato, Emilia Duran, Sandro Arevalo, Jorge Diaz, Sebastian Gutarra                   |
+| Sprint n - 1 Review Summary    | Este es el primer Sprint, por lo que este campo no aplica.                                            |
+| Sprint n - 1 Retrospective Summary | Este es el primer Sprint, por lo que este campo no aplica.                                       |
+| Sprint 1 Goal                  | Nuestra prioridad en este sprint es implementar la landing page de nuestra aplicación. Creemos que esto brindará una presentación satisfactoria de nuestro producto a los posibles usuarios. Esto se confirmará cuando las visitas a nuestra landing page superen un cierto índice. |
+| Sprint 1 Velocity              | Nuestro equipo puede aceptar hasta x Story Points.                                                  |
+| Sum of Story Points            | La suma de Story Points atendidos es de  x.                                            |
+
 #### 5.2.1.2. Aspect Leaders and Collaborators.
 Durante este sprint, nuestro objetivo fue definir nuestros puntos base para realizar una solucion acertada a lo que el usuario necesite. La investigacion, entrevistas y datos recolectados ayudaron a que se pueda generar una vision mas clara del objetivo en el grupo. Por ello aqui se presentan los roles que cada uno de los participantes tuvo a lo largo de este sprint.
 
@@ -1283,5 +1317,10 @@ Durante este sprint, nuestro objetivo fue definir nuestros puntos base para real
 #### 5.2.1.4. Development Evidence for Sprint Review.
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+
+Durante este Sprint, nos enfocamos exclusivamente en el desarrollo del frontend estático de la Landing Page del proyecto AgeCare. En consecuencia, no se implementaron endpoints ni funcionalidades relacionadas con servicios web o APIs RESTful.
+
+La creación de la documentación de Web Services mediante OpenAPI/Swagger se programará para Sprints futuros, una vez que comience la implementación del backend del sistema.
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
