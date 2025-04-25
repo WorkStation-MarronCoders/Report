@@ -36,7 +36,7 @@ Aplicaciones Web <br>
 
 | Versión | Fecha       | Autor(es)                                                                                                  | Descripción de la modificación                                                                                                                                                       |
 |---------|-------------|------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| TB1     |   |  | |                                                                                     |
+| TB1     | 25-04-2025  |Liberato Rodrigo, Duran Emilia, QUijada Jeremy, Dinklange Sandro, Diaz Jorge y Gutarra Sebastian  |Se Completaron los 5 capitulos del reporte. |                                                                                     |
 
 # Project Report Collaboration Insights
 
@@ -47,7 +47,7 @@ TB1:
 |------------------------------------------------------------------------------------------------------|---------------------|--------------|
 | **Trabaja en equipo para proporcionar liderazgo en forma conjunta**                                          |              |
 | **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.**                           |                     |              |
-|                                                                                                      |                     |              |
+
 
 
 # Contenido
@@ -1331,7 +1331,21 @@ Durante este sprint, nuestro objetivo fue definir nuestros puntos base para real
 
 #### 5.2.1.3. Sprint Backlog 1.
 #### 5.2.1.4. Development Evidence for Sprint Review.
+
+En este punto evidenciaremos el desarrollo y el apoyo por parte de los participantes del equipo en el desarrollo del frontend estático de la Landing Page de nuestro proyecto.
+
+![Development-evidence](Imagenes/developmentevidence.png)
+
 #### 5.2.1.5. Execution Evidence for Sprint Review.
+
+En este punto presentamos la evidencia de ejecución de la Landing Page desarrollada en el Sprint 1.
+
+![Execution-evidence](Imagenes/executionevidence1.png)
+
+![Execution-evidence2](Imagenes/executionevidence2.png)
+
+![Execution-evidence3](Imagenes/executionevidence3.png)
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
 Durante este Sprint, nos enfocamos exclusivamente en el desarrollo del frontend estático de la Landing Page del proyecto AgeCare. En consecuencia, no se implementaron endpoints ni funcionalidades relacionadas con servicios web o APIs RESTful.
@@ -1339,4 +1353,12 @@ Durante este Sprint, nos enfocamos exclusivamente en el desarrollo del frontend 
 La creación de la documentación de Web Services mediante OpenAPI/Swagger se programará para Sprints futuros, una vez que comience la implementación del backend del sistema.
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+
+En este punto, presentamos la evidencia del despliegue de la Landing Page en GitHub Pages.
+
+![Deployment-evidence](Imagenes/softwaredeploymentevidence.png)
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
+
+En este punto se describira las colaboraciones de cada uno de los integrantes del equipo durante el reporte.
+
