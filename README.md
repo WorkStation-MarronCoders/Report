@@ -1330,6 +1330,22 @@ Durante este sprint, nuestro objetivo fue definir nuestros puntos base para real
 | Sebastián Gutarra Velapatiño             | SebastianGutarra| C                   |  
 
 #### 5.2.1.3. Sprint Backlog 1.
+
+Para el primer sprint, desarrollamos la estructura y las funcionalidades básicas de la landing page, así como el diseño visual y la barra de navegación.
+
+
+| **Sprint #**   | Sprint 1   |             |             |             |             |             |             |
+|----------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|
+| **User Story** |             | **Work-Item/task** |             |             |             |             |             |
+| **ID**         | **Título**  | **ID**             | **Título**   | **Descripción**                                    | **Estimación (hrs)** | **Assigned to**    | **Status** |
+| US-31          | Conocer los servicios                  | T01          | Crear una página para que se puedan conocer los servicios.            | Permitir a los usuarios explorar los servicios que ofrece el proyecto. | 1                   | Rodrigo Liberato  | Done |
+| US-32          | Revisar Reseñas sobre la aplicación    | T02          | Crear una sección para poder conocer la misión y visión del proyecto. | Proporcionar una visión clara de los objetivos y valores fundamentales. | 1.5                 | Luiz Díaz         | Done |
+| US-33          | Cambiar Lenguaje entre Español e Inglés | T03          | Crear una sección para ver las preguntas frecuentes                   | Simplificar las consultas de los usuarios mediante preguntas frecuentes. | 2                   | Rodrigo Liberato  | Done |
+| US-34          | Navegación por el landing page         | T04          | Crear una sección para ver los equipos profesionales de los asilos    | Destacar la experiencia y especialización del equipo profesional.   | 1                   | Luiz Díaz         | Done |
+| US-35          | Ver información del startup            | T05          | Crear un formulario para solicitar más información del proyecto.      | Facilitar la comunicación directa entre los usuarios y el proyecto. | 1.5                 | Rodrigo Liberato  | Done |
+| US-36          | Conocer los servicios                  | T06          | Crear una sección para mostrar testimonios y casos exitosos.          | Presentar historias inspiradoras para ganar confianza en el proyecto. | 2                 | Luiz Díaz         | Done |
+| US-37          | Contactar al equipo de soporte         | T07          | Crear una opción para descargar un folleto con información relevante. | Ofrecer a los usuarios información detallada del proyecto en formato PDF. | 1                 | Rodrigo Liberato  | Done |
+
 #### 5.2.1.4. Development Evidence for Sprint Review.
 
 En este punto evidenciaremos el desarrollo y el apoyo por parte de los participantes del equipo en el desarrollo del frontend estático de la Landing Page de nuestro proyecto.
@@ -1337,8 +1353,16 @@ En este punto evidenciaremos el desarrollo y el apoyo por parte de los participa
 ![Development-evidence](Imagenes/developmentevidence.png)
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
+| **Epic / Story ID** | **Título**                    | **Criterios de Aceptación**                                                                                     |
+|----------------------|------------------------------|----------------------------------------------------------------------------------------------------------------|
+| US31                | Navegación por el landing page | Dado que el usuario está en la página principal, cuando haga clic en cualquier ítem del menú, entonces va redirigido a la sección correspondiente. |
+| US32                | Ver información del startup   | Dado que voy a "Sobre Nosotros", cuando hago scroll, entonces veo informacion sobre la startup como misión y visión.                    |
+| US33                | Conocer los servicios |Dado que voy a "Nuestros Servicios", cuando hago scroll, entonces veo informacion sobre los servicos que ofrece la aplicación. |
+| US34                | Contactar al equipo de soporte | Dado que completo el formulario, cuando hago clic en "Enviar", entonces recibo un email de confirmación.       |
 
 En este punto presentamos la evidencia de ejecución de la Landing Page desarrollada en el Sprint 1.
+
+Enlace de la Landing Page: https://workstation-marroncoders.github.io/landing-page-workstation/
 
 ![Execution-evidence](Imagenes/executionevidence1.png)
 
@@ -1354,9 +1378,39 @@ La creación de la documentación de Web Services mediante OpenAPI/Swagger se pr
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
-En este punto, presentamos la evidencia del despliegue de la Landing Page en GitHub Pages.
+Se realizó el despliegue de la landing page del proyecto WorkStation, marcando el primer paso hacia la publicación progresiva de los productos del sistema. Este trabajo tuvo como objetivo validar visualmente los avances en diseño e interacción con el cliente y el equipo docente.
 
-![Deployment-evidence](Imagenes/softwaredeploymentevidence.png)
+**Actividades Realizadas**
+- Configuración del repositorio GitHub y definición de la estructura inicial de carpetas.
+- Activación de GitHub Pages como servicio de despliegue estático, apuntando al contenido de la rama main.
+- Publicación exitosa de la landing page, accesible mediante una URL pública.
+
+**Evidencias Visuales**
+* Configuración del repositorio GitHub y estructura inicial de carpetas.
+
+  * Creamos un repositorio para la landing page dentro de la organizacion.  La configuramos para que sea de tipo publico:
+
+  ![Repositorio](./Imagenes/repositorio.png)
+
+  * Una vez dentro copiamos la direccion HTTPS del repositorio y la clonamos en nuestro entorno local con el comando git clone. Preparamos una estructura de carpetas similar a la siguiente en nuestra maquina:
+
+  ![carpetas](./Imagenes/carpetas.png)
+
+* Activación de GitHub Pages como servicio de despliegue estático, apuntando al contenido de la rama main.
+
+  * En la configuración del repositorio, se seleccionó la rama main como fuente para GitHub Pages. Esto se realizó desde la pestaña "Settings" > "Pages" en GitHub.
+
+  *  Se verificó que la URL generada por GitHub Pages estuviera activa y mostrara correctamente el contenido de la landing page.
+
+  ![Deployment-evidence](Imagenes/softwaredeploymentevidence.png)
+
+* Publicacion exitosa de la Landing Page
+
+  ![Execution-evidence](Imagenes/executionevidence1.png)
+
+  ![Execution-evidence2](Imagenes/executionevidence2.png)
+
+  ![Execution-evidence3](Imagenes/executionevidence3.png)
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
