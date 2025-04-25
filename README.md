@@ -156,8 +156,7 @@ TB1:
 |    |   | | | | 
 | ![Luis](Imagenes/Luisfoto.png) |  Jorge Luis Díaz Fiestas   | Estudiante de Ing. de Software, del 5° ciclo. Destacado en el trabajo en grupo y apto para dar retroalimentación. Con conocimientos básicos en Arduino, programación web (HTML, CSS, JS, React, TypeScript, Firebase), bases de datos (SQL, Firebase, Supabase, MongoDB, MariaDB) y lenguajes C/C++.   |
 |    |Emilia Durán Santander | Estudiante de la carrera de Ingenieria de Software, con interés en el area de ciberseguridad. Me considero una persona responsable y planeo apoyar al grupo demostrando las habilidades previamente aprendidas a lo largo de la carrera. Actualmente cuento con conocimientos tecnicos en C++, HTML yCSS. |
-|![Sandro](![yo](https://github.com/user-attachments/assets/ce84f2cb-e5c4-499a-9ebd-ede59a1b13bc)| Sandro Dinklange <br>Soy un estudiante de 18 años que cursa la carrera de Ingeniería de Software, en cuarto ciclo, en la Universidad Peruana de Ciencias Aplicadas (UPC). Me considero una persona trabajadora en equipo, y suelo leer libros en mis tiempos libres. Cuento con conocimientos en C++.
-
+| ![yo](https://github.com/user-attachments/assets/3bf44175-f92b-40e4-a346-8c5a61ec71f8)|  Sandro Dinklange Arévalo  |Soy un estudiante de 18 años que cursa la carrera de Ingeniería de Software, en cuarto ciclo, en la Universidad Peruana de Ciencias Aplicadas (UPC). Me considero una persona trabajadora en equipo, y suelo leer libros en mis tiempos libres. Cuento con conocimientos en C++.|
 
 ## 1.2. Solution Profile
 
