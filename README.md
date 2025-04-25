@@ -1420,5 +1420,7 @@ Se realizó el despliegue de la landing page del proyecto WorkStation, marcando 
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
-En este punto se describira las colaboraciones de cada uno de los integrantes del equipo durante el reporte.
+Para este sprint, las tareas de diseño, implementación y documentación de la landing page se distribuyó entre los integrantes del equipo. La implementación y despliegue de la landing page fue llevado a cabo principalmente por Luis Diaz.
+
+![Pulse](./Imagenes/pulse.png)
 
