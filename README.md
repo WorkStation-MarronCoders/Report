@@ -13,7 +13,7 @@ Aplicaciones Web <br>
 <h2 align="center">INFORME</h2>
 
 <h3 align="center">Startup: WorkStation</h3>
-<p align="center"><strong>Producto:</strong></p>
+<p align="center"><strong>Producto: Worstation</strong></p>
 
 <h3 align="center">Team Members:</h3>
 
@@ -40,13 +40,13 @@ Aplicaciones Web <br>
 
 # Project Report Collaboration Insights
 
-TB1: 
+TB1: ![insights](Imagenes/insights.png)
 
 # Student Outcome
 | Criterio específico                                                                                 | Acciones realizadas | Conclusiones |
 |------------------------------------------------------------------------------------------------------|---------------------|--------------|
-| **Trabaja en equipo para proporcionar liderazgo en forma conjunta**                                          |              |
-| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.**                           |                     |              |
+| **Trabaja en equipo para proporcionar liderazgo en forma conjunta**                                          |       **TB1:** Para completar el trabajo en equipo, el lider separo el contenido del reporte y las actividades que hacer semanalmente para mantener un avance continuo. De esta manera, comunicabamos nuestros avanaces semanalmente para no perder el ritmo ni la cohesion de nuestro trabajo       | **TB1:** Trabajar de esta manera es eficiente, creemos que si seguimos de esta manera, seguiremos haciendo el trabajo de manera mas eficiente y eficaz. |
+| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.**| **TB1:** Establecimos las metas semanales y planificamos las tareas de una manera justa para todos, donde no solo nos centrabamos en lo que sabiamos, sino en cosas por aprender conjuntamente.                     | **TB1:** Creemos que el trabajo resulto como esperabamos y esperamos mantener el mismo nivel para la entrega parcial.              |
 
 
 
@@ -152,11 +152,10 @@ TB1:
 | Foto                       | Alumno       | Descripción        |
 |---------------------------|--------------|-------------------|
 | ![Luis](Imagenes/perfil-integrante-jeremy.png)  | Quijada Magro Jeremy Alexander | Estudiante de Ingenieria de software que plenae en enfocar en la gestion de proyectos. Con conocimientos basicos en programacion web y base de datos. |
-|    | Liberato Saldana Rodrigo   | Estudiante de Ingenieria de software que planea en efocarse en Ciencia de datos y Ciberseguridad. Planeo dar apoyo en el grupo de manera activa y tomar el rol de lider para encaminar al equipo a cumplir la meta en comun, realizar un buen trabajo con nuestra propuesta.    |
-|    | Sebastián Gutarra Velapatiño  | Soy un estudiante de 6to ciclo de la carrera de ingeniería de software en la UPC, me caracterizo por la perseverancia, la responsabilidad, la empatía y trabajo en equipo. Entre mis conocimientos puedo manejar lenguajes como C, C++, SQL y Python, y software tales como Visual Studio Code, Google Collab, Word, Excel.
- || 
+| ![Rodrigo](Imagenes/rodrigo.png)   | Liberato Saldana Rodrigo   | Estudiante de Ingenieria de software que planea en efocarse en Ciencia de datos y Ciberseguridad. Planeo dar apoyo en el grupo de manera activa y tomar el rol de lider para encaminar al equipo a cumplir la meta en comun, realizar un buen trabajo con nuestra propuesta.    |
+|  ![Sebastian](Imagenes/sebastian.png)  | Sebastián Gutarra Velapatiño  | Soy un estudiante de 6to ciclo de la carrera de ingeniería de software en la UPC, me caracterizo por la perseverancia, la responsabilidad, la empatía y trabajo en equipo. Entre mis conocimientos puedo manejar lenguajes como C, C++, SQL y Python, y software tales como Visual Studio Code, Google Collab, Word, Excel.| | 
 | ![Luis](Imagenes/Luisfoto.png) |  Jorge Luis Díaz Fiestas   | Estudiante de Ing. de Software, del 5° ciclo. Destacado en el trabajo en grupo y apto para dar retroalimentación. Con conocimientos básicos en Arduino, programación web (HTML, CSS, JS, React, TypeScript, Firebase), bases de datos (SQL, Firebase, Supabase, MongoDB, MariaDB) y lenguajes C/C++.   |
-|    |Emilia Durán Santander | Estudiante de la carrera de Ingenieria de Software, con interés en el area de ciberseguridad. Me considero una persona responsable y planeo apoyar al grupo demostrando las habilidades previamente aprendidas a lo largo de la carrera. Actualmente cuento con conocimientos tecnicos en C++, HTML yCSS. |
+| ![Emilia](Imagenes/emilia.png)   |Emilia Durán Santander | Estudiante de la carrera de Ingenieria de Software, con interés en el area de ciberseguridad. Me considero una persona responsable y planeo apoyar al grupo demostrando las habilidades previamente aprendidas a lo largo de la carrera. Actualmente cuento con conocimientos tecnicos en C++, HTML yCSS. |
 | ![yo](https://github.com/user-attachments/assets/3bf44175-f92b-40e4-a346-8c5a61ec71f8)|  Sandro Dinklange Arévalo  |Soy un estudiante de 18 años que cursa la carrera de Ingeniería de Software, en cuarto ciclo, en la Universidad Peruana de Ciencias Aplicadas (UPC). Me considero una persona trabajadora en equipo, y suelo leer libros en mis tiempos libres. Cuento con conocimientos en C++.|
 
 ## 1.2. Solution Profile
