@@ -592,6 +592,19 @@ Entre las tareas encontradas, la que ambos User Persona coinciden en que es impo
 
 # Capitulo 3
 ## 3.1. To-Be Scenario Mapping
+
+# 🗺️ To-Be Scenario Mapping
+
+| Actor           | Acción Deseada                                       | Resultado Esperado                              | Valor para el Negocio         |
+|------------------|------------------------------------------------------|--------------------------------------------------|-------------------------------|
+| Propietario    | Responde mensajes de freelancers        |Coordinan pago       | Mejor experiencia de usuario  |
+| Freelancer    | Compara precios y lugares                  | Obtiene una mejor elección             | Ese cliente seguirá usando nuestro aplicativo    |
+| Propietario  | Obtiene fotos de cómo están dejando el local                     | Siente seguridad del freelancer al que alquiló               | Mayor confianza en el aplicativo     |
+| Freelancer  | Lee reseñas del local y de su propietario    | Tiene la confianza de que será una experiencia sin incomodidades          | Usuarios más confiados en volver a usarlo         |
+|
+
+
+
 ## 3.2. User Stories
 | User Story ID | Título                  | Descripción                                                                                                           | Criterios de Aceptación                                                                                                                                                                                | Epic ID |
 |---------------|-------------------------|-----------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|
@@ -640,6 +653,9 @@ Entre las tareas encontradas, la que ambos User Persona coinciden en que es impo
 
 
 ## 3.3. Impact Mapping
+
+![ImpactMap](Imagenes/Plantilla%20de%20mapa%20de%20impacto.jpg)
+
 ## 3.4. Product Backlog
 
 
