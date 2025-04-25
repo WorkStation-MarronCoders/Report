@@ -151,7 +151,7 @@ TB1:
 ### 1.1.2. Perfiles de integrantes del equipo
 | Foto                       | Alumno       | Descripción        |
 |---------------------------|--------------|-------------------|
-|   | Quijada Magro Jeremy Alexander |  |
+|   | Quijada Magro Jeremy Alexander | Estudiante de Ingenieria de software que plenae en enfocar en la gestion de proyectos. Con conocimientos basicos en programacion web y base de datos. |
 |    | Liberato Saldana Rodrigo   | Estudiante de Ingenieria de software que planea en efocarse en Ciencia de datos y Ciberseguridad. Planeo dar apoyo en el grupo de manera activa y tomar el rol de lider para encaminar al equipo a cumplir la meta en comun, realizar un buen trabajo con nuestra propuesta.    |
 |    |   | | | | 
 | ![Luis](Imagenes/Luisfoto.png) |  Jorge Luis Díaz Fiestas   | Estudiante de Ing. de Software, del 5° ciclo. Destacado en el trabajo en grupo y apto para dar retroalimentación. Con conocimientos básicos en Arduino, programación web (HTML, CSS, JS, React, TypeScript, Firebase), bases de datos (SQL, Firebase, Supabase, MongoDB, MariaDB) y lenguajes C/C++.   |
@@ -323,7 +323,7 @@ Corresponde a personas naturales o jurídicas que administran o alquilan espacio
 - Optimización de la ocupabilidad de sus ambientes.
 - Acceso a métricas sobre uso y satisfacción de clientes.
 
---
+---
 ### Freelancers y Startups
 Este grupo está compuesto por trabajadores independientes, equipos pequeños de desarrollo, marketing, diseño, entre otros, así como emprendedores en etapa inicial.
 
@@ -1069,6 +1069,7 @@ Los diagramas de flujo de usuario (User Flow Diagrams) son herramientas visuales
 
 ## 4.5. Web Applications Prototyping
 
+![Prototyping](./Imagenes/prototyping.png)
 
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
