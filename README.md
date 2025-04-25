@@ -1050,6 +1050,23 @@ Los siguientes mockups representan una visión más cercana al diseño final de 
 ![Buscar](./Imagenes/App%20-Mock%20Up%20IMG/Buscar.png)
 
 ### 4.4.4. Web Applications User Flow Diagrams
+Los diagramas de flujo de usuario (User Flow Diagrams) son herramientas visuales fundamentales para comprender y mejorar la experiencia de usuario en aplicaciones web. Representan el recorrido que realiza un usuario al interactuar con una aplicación, desde el inicio hasta el logro de un objetivo específico, destacando decisiones, acciones y puntos clave. Estos diagramas nos ayudaran a simplificar los procesos:
+
+![User Goal 1](./Imagenes/User-Goals/US1.jpg)
+
+![User Goal 2](./Imagenes/User-Goals/US2.jpg)
+
+![User Goal 3](./Imagenes/User-Goals/US3.jpg)
+
+![User Goal 4](./Imagenes/User-Goals/US4.jpg)
+
+![User Goal 5](./Imagenes/User-Goals/US5.jpg)
+
+![User Goal 6](./Imagenes/User-Goals/US6.jpg)
+
+![User Goal 7](./Imagenes/User-Goals/US7.jpg)
+
+![User Goal 8](./Imagenes/User-Goals/US8.jpg)
 
 ## 4.5. Web Applications Prototyping
 
