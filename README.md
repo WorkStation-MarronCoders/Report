@@ -1112,14 +1112,29 @@ Los diagramas de flujo de usuario (User Flow Diagrams) son herramientas visuales
 ### 4.6.2. Software Architecture Container Diagrams
 ![DomainDrivenDesingContainer1](/Imagenes/DDD2_mejora.png)
 
-
 ### 4.6.3. Software Architecture Components Diagrams
 
-User Context
+#### User Context
 ![DomainDrivenDesingComponentUser](Imagenes/DDD4_UserAP.png)
 
-Office Context
+#### Property Owner Context
+![DomainDrivenDesingComponentPropertyOwner](Imagenes/DDD_propertyowner.png)
+
+#### Office Context
 ![DomainDrivenDesingComponentOffice](Imagenes/DDD5_officeAP.png)
+
+#### Messaging Context
+![DomainDrivenDesingComponentPropertyOwner](Imagenes/DDD_messaging.png)
+
+#### Search Context
+![DomainDrivenDesingComponentPropertyOwner](Imagenes/DDD_search.png)
+
+#### Rating Context
+![DomainDrivenDesingComponentPropertyOwner](Imagenes/DDD_rating.png)
+
+
+
+
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
