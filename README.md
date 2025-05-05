@@ -1113,8 +1113,6 @@ Los diagramas de flujo de usuario (User Flow Diagrams) son herramientas visuales
 ![DomainDrivenDesingContainer1](/Imagenes/DDD2_mejora.png)
 
 
-![DomainDrivenDesingContainer2](/Imagenes/DDD3_mejora.png)
-
 ### 4.6.3. Software Architecture Components Diagrams
 
 User Context
