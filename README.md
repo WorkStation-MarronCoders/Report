@@ -1436,3 +1436,65 @@ Para este sprint, las tareas de diseño, implementación y documentación de la 
 
 ![Pulse](./Imagenes/pulse.png)
 
+### 5.2.2. Sprint 2
+
+#### 5.2.2.1. Sprint Planning 2.
+El Sprint Planning 2 fue una reunion inicial y una al finalizar para mantener la constacia del trabajo para este entregable, donde se definieron los nuevos objetivos a lograr para la creacion del Frontend, anadir todas las funcionalidades y que sea desplegada utilizando alguno de los servicios Cloud.
+
+| Sprint #                             | Sprint 2                                                                                               |
+|--------------------------------|--------------------------------------------------------------------------------------------------------|
+| **Date**       |     2025-05-12        |
+| Time           | 3:00 PM                      |
+| Location       | Virtual - Meet               |
+| Prepared By    | Rodrigo Liberato               |
+| Attendees (to planning meeting)| Jeremy Quijada, Rodrigo Liberato, Emilia Duran, Sandro Arevalo, Jorge Diaz, Sebastian Gutarra                   |
+| Sprint n - 2 Review Summary    | Durante este sprint se propuso de objetivo seguir las historias de usuario para crear el Frontend de la aplicacion web Workstation. Asimismo desplegarla y brindar una FAKE API para que se demuestren algunas funcionalidades.                                            |
+| Sprint n - 2 Retrospective Summary | La ejeciccion del Sprint fue efectiva, logrando completar todas las tareas planificadas del frontend y desplegarlo.                                       |
+| Sprint 2 Goal                  | Nuestra prioridad en este sprint es desplegar el Frontend de nuestra aplicación. Esto dara una mejor visualizacion de nuestra solucion y confirmará que una solucion como esta sera tendencia en estos ultimos años. |
+| Sprint 2 Velocity              | Nuestro equipo puede aceptar hasta 10 Story Points.                                                  |
+| Sum of Story Points            | La suma de Story Points atendidos es de  10.                                            |
+#### 5.2.2.2. Aspect Leaders and Collaborators.
+
+Para este sprint se mantivieron los todos los colaboradores del equipo y los mismos cargos.
+
+| Team Member (Last Name, First Name)       | GitHub Username   | Aspect Name 1 (L/C) 
+|------------------------------------------|-------------------|---------------------|
+| Liberato Saldaña Rodrigo          | Libeman10     | L                   | 
+| Emilia Durán Santander            |  emiliadurans            | C                   |  
+| Jeremy Quijada Magro          | jhonson2021     | C                   | 
+| Sandro Dinklange Arevalo            | Sandro0406            | C                   |  
+| Jorge Luis Díaz Fiestas          | LuisDiazpe     | C                   | 
+| Sebastián Gutarra Velapatiño             | SebastianGutarra| C                   |  
+
+#### 5.2.2.3. Sprint Backlog 2.
+
+| **Sprint #**   | Sprint 2   |             |             |             |             |             |             |
+|----------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|
+| **User Story** |             |             |             |             |             |             |             |
+| **ID**         | **Título**                  | **ID**   | **Título**                                         | **Descripción**                                                                                          | **Estimación (hrs)** | **Assigned to**    | **Status** |
+| US-02          | Disponibilidad de inmuebles | T08      | Ver disponibilidad del inmueble                    | Como freelancer, quiero saber la disponibilidad actual del inmueble para hacer una elección correcta del tiempo que necesito el local. |                      |                    | Done      |
+| US-03          | Filtros de búsqueda         | T09      | Implementar filtros personalizados                 | Como freelancer quiero hacer una búsqueda personalizada como cantidad de aforo, tipo de espacio y servicios disponibles para que pueda encontrar la mejor opción para mí o mi equipo. |                      |                    | Done      |
+| US-04          | Valoraciones y opiniones    | T10      | Mostrar valoraciones y opiniones                   | Como freelancer quiero ver las valoraciones y opiniones de inmuebles sobre los espacios de trabajo para tomar una decisión informada. |                      |                    | Done      |
+| US-06          | Perfiles de inmuebles       | T11      | Crear perfil detallado de inmueble                 | Como freelancer quiero encontrar la suficiente información para poder hacer una decisión correcta detallada sobre cada inmueble, incluyendo fotos, ubicación, tarifas y servicios disponibles. |                      |                    | Done      |
+| US-09          | Publicación de inmueble     | T12      | Publicar inmueble fácilmente                       | Como propietario de inmueble, quiero tener la facilidad de publicar un inmueble de manera sencilla y atractiva para que los freelancers lo encuentren llamativo. |                      |                    | Done      |
+| US-10          | Modificación de inmueble    | T13      | Modificar datos del inmueble                       | Como propietario de inmueble quiero que se me permita actualizar la información de la publicación de manera sencilla y rápida para no arruinar la experiencia de freelancers. |                      |                    | Done      |
+| US-12          | Precio altos                | T14      | Comparar precios entre inmuebles                   | Como freelancer, quiero comparar precios entre diferentes locales, para evitar precios altos. |                      |                    | Done      |
+| US-20          | Un mapa para visualizar lugares | T15  | Mostrar mapa interactivo                           | Como freelancer quiero un mapa para navegar a través de este y así elegir el distrito que más me convenga. |                      |                    | Done      |
+| US-22          | Fotos reales                | T16      | Visualizar imágenes reales del inmueble            | Como freelancer quiero ver imágenes de cómo se ve el local que voy a rentar para saber que es de mi agrado. |                      |                    | Done      |
+| US-25          | Sistema fácil de entender e intuitivo | T17 | Interfaz fácil e intuitiva                         | Como propietario de inmuebles, quiero que esta propuesta de aplicación sea fácil de entender para poder usarla a largo plazo. |                      |                    | Done      |
+| US-26          | Reserva rápida              | T18      | Optimizar tiempos de carga                         | Como freelancer quiero que la aplicación tenga una carga rápida y esté actualizada para tener información precisa. |                      |                    | Done      |
+| US-27          | Chat directo propietario y cliente | T19  | Activar chat entre propietario y usuario           | Como propietario quiero contactarme directamente con el usuario interesado para tener la certeza de que se concrete el acuerdo. |                      |                    | Done      |
+| US-28          | Calendario para ver la disponibilidad del espacio | T20 | Mostrar disponibilidad en formato calendario       | Como freelancer quiero ver en formato de calendario para navegar mejor a través de los días disponibles del inmueble. |                      |                    | Done      |
+| US-29          | Sistema de reseñas para ambas partes | T21 | Implementar reseñas para propietarios              | Como propietario, quiero saber opiniones de otros propietarios para estar más convencido de alquilar mi local a ciertos usuarios. |                      |                    | Done      |
+| US-30          | Usuarios verificados con LinkedIn o DNI | T22 | Verificar usuarios con LinkedIn o DNI              | Como propietario quiero una forma de verificar la información del freelancer para estar informado de que su trabajo es serio y va con mis criterios. |                      |                    | Done      |
+
+#### 5.2.2.4. Development Evidence for Sprint Review.
+
+#### 5.2.2.5. Execution Evidence for Sprint Review.
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint.
+
