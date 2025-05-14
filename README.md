@@ -1585,6 +1585,8 @@ Para desplegar la aplicacion.
 
 ![frontend-deploy2](/Imagenes/frontend-deploy2.png)
 
+Link: [frontend-workstation.web.app](frontend-workstation.web.app)
+
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
 
 Para este trabajo, se hicieron tanto mejoras en el documento README, como en el diseño de la landing page y en el codigo del frontend. Aqui los insights.
