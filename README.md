@@ -1528,13 +1528,63 @@ En este punto se evidencian los commits hechos para el lado de Frontend de la ap
 |                                                                                                        | develop | b8d684d   | feat: added dashboard and images                                                                                       | -                    | 10/05/25             |
 |                                                                                                        | develop | 91f6d2c   | feat: added login, register, change password and recover account pages                                                 | -                    | 07/05/25             |
 
-
-
 #### 5.2.2.5. Execution Evidence for Sprint Review.
+
+Aqui se encuentran los avances que se tuvo para esta entrega acerca del Frontend de la aplicacion.
+
+![Execution-evidence](Imagenes/execution-frontend1.png)
+
+![Execution-evidence2](Imagenes/execution-frontend2.png)
+
+![Execution-evidence3](Imagenes/execution-frontend3.png)
+
+![Execution-evidence4](Imagenes/execution-frontend4.png)
+
+![Execution-evidence5](Imagenes/execution-frontend5.png)
+
+![Execution-evidence6](Imagenes/execution-frontend6.png)
+
+![Execution-evidence7](Imagenes/execution-frontend7.png)
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
+| Nombre de Endpoint                   | Acciones Implementadas | Sintaxis de llamada                                                       | Especificación de parámetros                                | Ejemplo de llamada                                                                                                                                         | Explicación del Response                                                                                      |
+|--------------------------------------|-------------------------|----------------------------------------------------------------------------|--------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
+| properties       | GET                     | ``` var response = await axios.get(`${PropertiesAPI}`)  ```      | Se necesita la creacion de .env con la URL de la API   | ```const response = await axios.post(`${PropertiesAPI}`, property); return response;``` | Se retorna toda la informacion de la API.                         |
+
+
+
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
+Para este entregable se hizo el uso de Firebase para desplegar la aplicacion. Aqui se muestra como se hizo.
+
+![frontend-github](/Imagenes/frontend-github.png)
+
+Se creo el repositorio de Github donde se almacenaran y se veran todos los cambios del proyecto a medida del tiempo.
+
+Asimismo, se intalo la dependencia de Firebase para desplegar la aplicacion y se configuro el proyecto.
+
+![frontend-firebase](/Imagenes/firebase-frontend.png)
+
+Por ultimo se utilizo:
+
+```firebase deploy```
+
+Para desplegar la aplicacion.
+
+![frontend-deploy](/Imagenes/frontend-deploy.png)
+
+![frontend-deploy2](/Imagenes/frontend-deploy2.png)
+
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
+
+Para este trabajo, se hicieron tanto mejoras en el documento README, como en el diseño de la landing page y en el codigo del frontend. Aqui los insights.
+
+![sprint2-insights-markdown](/Imagenes/sprint2-insights-markdown.png)
+
+![sprint2-insights-landing-page](/Imagenes/sprint2-insights-landing-page.png)
+
+![sprint2-insights-frontend](/Imagenes/sprint2-insights-frontend.png)
+
+
 
