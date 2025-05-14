@@ -1585,7 +1585,7 @@ Para desplegar la aplicacion.
 
 ![frontend-deploy2](/Imagenes/frontend-deploy2.png)
 
-Link: [frontend-workstation.web.app](frontend-workstation.web.app)
+Link: [https://frontend-workstation.web.app](https://frontend-workstation.web.app)
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
 
