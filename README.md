@@ -126,15 +126,25 @@ TB1: ![insights](Imagenes/insights.png)
   - [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
   - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
 - [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
-  - [5.2.1. Sprint ](#52x-sprint)
-    - [5.2.1.1. Sprint Planning n](#5211-sprint-planning-n)
-    - [5.2.1.2. Sprint Backlog n](#52x2-sprint-backlog-n)
+  - [5.2.1. Sprint 1 ](#52x-sprint)
+    - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-n)
+    - [5.2.1.2. Sprint Backlog 1](#52x2-sprint-backlog-n)
     - [5.2.1.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
     - [5.2.1.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
     - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
     - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
     - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
     - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+  - [5.2.2. Sprint 2 ](#52x-sprint)
+    - [5.2.2.1. Sprint Planning 2](#5211-sprint-planning-n)
+    - [5.2.2.2. Sprint Backlog 2](#52x2-sprint-backlog-n)
+    - [5.2.2.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
+    - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
+    - [5.2.2.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
+    - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
+    - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
+    - [5.2.2.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+
 
 # Introduccion
 
@@ -1485,7 +1495,7 @@ Para este sprint se mantivieron los todos los colaboradores del equipo y los mis
 | US-26          | Reserva rápida              | T18      | Optimizar tiempos de carga                         | Como freelancer quiero que la aplicación tenga una carga rápida y esté actualizada para tener información precisa. |2|Rodrigo Liberato| Done      |
 | US-27          | Chat directo propietario y cliente | T19  | Activar chat entre propietario y usuario           | Como propietario quiero contactarme directamente con el usuario interesado para tener la certeza de que se concrete el acuerdo. |2|Rodrigo Liberato| Pendant      |
 | US-28          | Calendario para ver la disponibilidad del espacio | T20 | Mostrar disponibilidad en formato calendario       | Como freelancer quiero ver en formato de calendario para navegar mejor a través de los días disponibles del inmueble. |2|Jeremy Quijada Magro| Pendant      |
-| US-29          | Sistema de reseñas para ambas partes | T21 | Implementar reseñas para propietarios              | Como propietario, quiero saber opiniones de otros propietarios para estar más convencido de alquilar mi local a ciertos usuarios. |Jeremy Quijada Magro|                    | Done      |
+| US-29          | Sistema de reseñas para ambas partes | T21 | Implementar reseñas para propietarios              | Como propietario, quiero saber opiniones de otros propietarios para estar más convencido de alquilar mi local a ciertos usuarios. |2|Jeremy Quijada Magro| Done      |
 
 #### 5.2.2.4. Development Evidence for Sprint Review.
 En este punto se evidencian los commits hechos para el lado de Frontend de la aplicación y las mejoras que se tuvieron para la Landing Page.
