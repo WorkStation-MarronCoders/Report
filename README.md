@@ -1472,21 +1472,20 @@ Para este sprint se mantivieron los todos los colaboradores del equipo y los mis
 |----------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|
 | **User Story** |             |             |             |             |             |             |             |
 | **ID**         | **Título**                  | **ID**   | **Título**                                         | **Descripción**                                                                                          | **Estimación (hrs)** | **Assigned to**    | **Status** |
-| US-02          | Disponibilidad de inmuebles | T08      | Ver disponibilidad del inmueble                    | Como freelancer, quiero saber la disponibilidad actual del inmueble para hacer una elección correcta del tiempo que necesito el local. |                      |                    | Done      |
-| US-03          | Filtros de búsqueda         | T09      | Implementar filtros personalizados                 | Como freelancer quiero hacer una búsqueda personalizada como cantidad de aforo, tipo de espacio y servicios disponibles para que pueda encontrar la mejor opción para mí o mi equipo. |                      |                    | Done      |
-| US-04          | Valoraciones y opiniones    | T10      | Mostrar valoraciones y opiniones                   | Como freelancer quiero ver las valoraciones y opiniones de inmuebles sobre los espacios de trabajo para tomar una decisión informada. |                      |                    | Done      |
-| US-06          | Perfiles de inmuebles       | T11      | Crear perfil detallado de inmueble                 | Como freelancer quiero encontrar la suficiente información para poder hacer una decisión correcta detallada sobre cada inmueble, incluyendo fotos, ubicación, tarifas y servicios disponibles. |                      |                    | Done      |
-| US-09          | Publicación de inmueble     | T12      | Publicar inmueble fácilmente                       | Como propietario de inmueble, quiero tener la facilidad de publicar un inmueble de manera sencilla y atractiva para que los freelancers lo encuentren llamativo. |                      |                    | Done      |
-| US-10          | Modificación de inmueble    | T13      | Modificar datos del inmueble                       | Como propietario de inmueble quiero que se me permita actualizar la información de la publicación de manera sencilla y rápida para no arruinar la experiencia de freelancers. |                      |                    | Done      |
-| US-12          | Precio altos                | T14      | Comparar precios entre inmuebles                   | Como freelancer, quiero comparar precios entre diferentes locales, para evitar precios altos. |                      |                    | Done      |
-| US-20          | Un mapa para visualizar lugares | T15  | Mostrar mapa interactivo                           | Como freelancer quiero un mapa para navegar a través de este y así elegir el distrito que más me convenga. |                      |                    | Done      |
-| US-22          | Fotos reales                | T16      | Visualizar imágenes reales del inmueble            | Como freelancer quiero ver imágenes de cómo se ve el local que voy a rentar para saber que es de mi agrado. |                      |                    | Done      |
-| US-25          | Sistema fácil de entender e intuitivo | T17 | Interfaz fácil e intuitiva                         | Como propietario de inmuebles, quiero que esta propuesta de aplicación sea fácil de entender para poder usarla a largo plazo. |                      |                    | Done      |
-| US-26          | Reserva rápida              | T18      | Optimizar tiempos de carga                         | Como freelancer quiero que la aplicación tenga una carga rápida y esté actualizada para tener información precisa. |                      |                    | Done      |
-| US-27          | Chat directo propietario y cliente | T19  | Activar chat entre propietario y usuario           | Como propietario quiero contactarme directamente con el usuario interesado para tener la certeza de que se concrete el acuerdo. |                      |                    | Done      |
-| US-28          | Calendario para ver la disponibilidad del espacio | T20 | Mostrar disponibilidad en formato calendario       | Como freelancer quiero ver en formato de calendario para navegar mejor a través de los días disponibles del inmueble. |                      |                    | Done      |
-| US-29          | Sistema de reseñas para ambas partes | T21 | Implementar reseñas para propietarios              | Como propietario, quiero saber opiniones de otros propietarios para estar más convencido de alquilar mi local a ciertos usuarios. |                      |                    | Done      |
-| US-30          | Usuarios verificados con LinkedIn o DNI | T22 | Verificar usuarios con LinkedIn o DNI              | Como propietario quiero una forma de verificar la información del freelancer para estar informado de que su trabajo es serio y va con mis criterios. |                      |                    | Done      |
+| US-02          | Disponibilidad de inmuebles | T08      | Ver disponibilidad del inmueble                    | Como freelancer, quiero saber la disponibilidad actual del inmueble para hacer una elección correcta del tiempo que necesito el local. |3|Rodrigo Liberato| Pendant      |
+| US-03          | Filtros de búsqueda         | T09      | Implementar filtros personalizados                 | Como freelancer quiero hacer una búsqueda personalizada como cantidad de aforo, tipo de espacio y servicios disponibles para que pueda encontrar la mejor opción para mí o mi equipo. |2|Sandro Dinklange| Done      |
+| US-04          | Valoraciones y opiniones    | T10      | Mostrar valoraciones y opiniones                   | Como freelancer quiero ver las valoraciones y opiniones de inmuebles sobre los espacios de trabajo para tomar una decisión informada. |2|Sandro Dinklange| Pendant      |
+| US-06          | Perfiles de inmuebles       | T11      | Crear perfil detallado de inmueble                 | Como freelancer quiero encontrar la suficiente información para poder hacer una decisión correcta detallada sobre cada inmueble, incluyendo fotos, ubicación, tarifas y servicios disponibles. |2|Emilia Duran| Done      |
+| US-09          | Publicación de inmueble     | T12      | Publicar inmueble fácilmente                       | Como propietario de inmueble, quiero tener la facilidad de publicar un inmueble de manera sencilla y atractiva para que los freelancers lo encuentren llamativo. |2|Jorge Luis Díaz | Done      |
+| US-10          | Modificación de inmueble    | T13      | Modificar datos del inmueble                       | Como propietario de inmueble quiero que se me permita actualizar la información de la publicación de manera sencilla y rápida para no arruinar la experiencia de freelancers. |2|Jorge Luis Díaz| Pendant      |
+| US-12          | Precio altos                | T14      | Comparar precios entre inmuebles                   | Como freelancer, quiero comparar precios entre diferentes locales, para evitar precios altos. |2|Jorge Luis Díaz| Done      |
+| US-20          | Un mapa para visualizar lugares | T15  | Mostrar mapa interactivo                           | Como freelancer quiero un mapa para navegar a través de este y así elegir el distrito que más me convenga. |3|Sebastián Gutarra Velapatiño | Pendant      |
+| US-22          | Fotos reales                | T16      | Visualizar imágenes reales del inmueble            | Como freelancer quiero ver imágenes de cómo se ve el local que voy a rentar para saber que es de mi agrado. |3|Sebastián Gutarra Velapatiño | Pendant      |
+| US-25          | Sistema fácil de entender e intuitivo | T17 | Interfaz fácil e intuitiva                         | Como propietario de inmuebles, quiero que esta propuesta de aplicación sea fácil de entender para poder usarla a largo plazo. |2|Jeremy Quijada| Done      |
+| US-26          | Reserva rápida              | T18      | Optimizar tiempos de carga                         | Como freelancer quiero que la aplicación tenga una carga rápida y esté actualizada para tener información precisa. |2|Rodrigo Liberato| Done      |
+| US-27          | Chat directo propietario y cliente | T19  | Activar chat entre propietario y usuario           | Como propietario quiero contactarme directamente con el usuario interesado para tener la certeza de que se concrete el acuerdo. |2|Rodrigo Liberato| Pendant      |
+| US-28          | Calendario para ver la disponibilidad del espacio | T20 | Mostrar disponibilidad en formato calendario       | Como freelancer quiero ver en formato de calendario para navegar mejor a través de los días disponibles del inmueble. |2|Jeremy Quijada Magro| Pendant      |
+| US-29          | Sistema de reseñas para ambas partes | T21 | Implementar reseñas para propietarios              | Como propietario, quiero saber opiniones de otros propietarios para estar más convencido de alquilar mi local a ciertos usuarios. |Jeremy Quijada Magro|                    | Done      |
 
 #### 5.2.2.4. Development Evidence for Sprint Review.
 En este punto se evidencian los commits hechos para el lado de Frontend de la aplicación y las mejoras que se tuvieron para la Landing Page.
@@ -1580,9 +1579,15 @@ Para desplegar la aplicacion.
 
 Para este trabajo, se hicieron tanto mejoras en el documento README, como en el diseño de la landing page y en el codigo del frontend. Aqui los insights.
 
+##### README
+
 ![sprint2-insights-markdown](/Imagenes/sprint2-insights-markdown.png)
 
+##### Landing Page
+
 ![sprint2-insights-landing-page](/Imagenes/sprint2-insights-landing-page.png)
+
+##### Frontend
 
 ![sprint2-insights-frontend](/Imagenes/sprint2-insights-frontend.png)
 
