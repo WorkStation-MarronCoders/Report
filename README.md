@@ -118,7 +118,6 @@ TB1: ![insights](Imagenes/insights.png)
   - [4.7.2. Class Dictionary](#472-class-dictionary)
 - [4.8. Database Design](#48-database-design)
   - [4.8.1. Database Diagram](#481-database-diagram)
-
   ## Capítulo V: Product Implementation, Validation & Deployment
 - [5.1. Software Configuration Management](#51-software-configuration-management)
   - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
@@ -126,24 +125,42 @@ TB1: ![insights](Imagenes/insights.png)
   - [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
   - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
 - [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
-  - [5.2.1. Sprint 1 ](#52x-sprint)
-    - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-n)
-    - [5.2.1.2. Sprint Backlog 1](#52x2-sprint-backlog-n)
-    - [5.2.1.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
-    - [5.2.1.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
+  - [5.2.1. Sprint 1 ](#521-sprint)
+    - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
+    - [5.2.1.2. Aspect Leaders and Collaborators.](#5212-aspect-leaders-and-collaborators)
+    - [5.2.1.3. Sprint Backlog 1](#5213-sprint-backlog-1)
+    - [5.2.1.4. Development Evidence for Sprint Review](#5214-development-evidence-for-sprint-review)
     - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
     - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
     - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
     - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
-  - [5.2.2. Sprint 2 ](#52x-sprint)
-    - [5.2.2.1. Sprint Planning 2](#5211-sprint-planning-n)
-    - [5.2.2.2. Sprint Backlog 2](#52x2-sprint-backlog-n)
-    - [5.2.2.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
-    - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
-    - [5.2.2.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
-    - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
-    - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
-    - [5.2.2.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+
+  - [5.2.2. Sprint 2 ](#522-sprint-2)
+    - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+    - [5.2.2.2. Aspect Leaders and Collaborators.](#5222-aspect-leaders-and-collaborators)
+    - [5.2.2.3. Sprint Backlog 2](#5223-sprint-backlog-2)
+    - [5.2.2.4. Development Evidence for Sprint Review](#5224-development-evidence-for-sprint-review)
+    - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+    - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+    - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+    - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+
+- [5.2.3. Sprint 3](#523-sprint-3)
+  - [5.2.3.1. Spring Planning 3](#5231-spring-planning-3)
+  - [5.2.3.2. Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)
+  - [5.2.3.3. Sprint Backlog 3](#5233-sprint-backlog-3)
+  - [5.2.3.4. Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review)
+  - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+  - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+  - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+  - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+
+- [5.3. Validation Interviews.](#53-validation-interviews)
+  - [5.3.1. Diseño de Entrevistas.](#531-diseño-de-entrevistas)
+  - [5.3.2. Registro de Entrevistas.](#532-registro-de-entrevistas)
+  - [5.3.3. Evaluaciones según heurísticas.](#533-evaluaciones-según-heurísticas)
+- [5.4. Video About-the-Product.](#54-video-about-the-product)
+    
 
 
 # Introduccion
@@ -654,6 +671,11 @@ Entre las tareas encontradas, la que ambos User Persona coinciden en que es impo
 | US-35  | Cambiar lenguaje entre Español e Inglés | Como usuario quiero la opción de cambiar el idioma de la plataforma para utilizar el idioma con el que me sienta más cómodo.                           | **Escenario 1**: Cambio de idioma<br><br> Dado que algunos usuarios prefieren otro idioma<br><br> Entonces se incluirá un selector de idioma en la plataforma. | EP-05    |
 | US-36  | Mostrar testimonios y casos de éxito | Como usuario quiero leer experiencias reales para ganar confianza en el proyecto.                                                                     | **Escenario 1**: Testimonios visibles<br><br> Dado que los usuarios buscan referencias confiables<br><br> Entonces se incluirán testimonios destacados en una sección dedicada. | EP-05    |
 | US-37  | Descargar información del proyecto | Como usuario quiero una opción para descargar un folleto informativo sobre el proyecto en formato digital.                                           | **Escenario 1**: Folleto descargable<br><br> Dado que los usuarios prefieren tener información detallada<br><br> Entonces se incluirá una opción de descarga en la plataforma. | EP-05    |
+| US-38         | Registro de Propietarios         | Como propietario, quiero registrar mis datos para poder publicar oficinas y administrar mis espacios                                                    | **Escenario 1**: Registro exitoso de propietario <br><br> Dado que un nuevo propietario ingresa sus datos <br><br> Cuando envía el formulario <br><br> Entonces el sistema guarda los datos y retorna confirmación                               | EP-02   |
+| US-39         | Publicación de Oficinas          | Como propietario, quiero publicar detalles de mis oficinas disponibles para que los freelancers puedan verlas y reservarlas                            | **Escenario 1**: Publicar una nueva oficina <br><br> Dado que el propietario tiene acceso al panel de oficinas <br><br> Cuando ingresa la información requerida <br><br> Entonces se publica la oficina con disponibilidad                        | EP-02   |
+| US-40         | Mensajes entre usuarios          | Como usuario, quiero enviar y recibir mensajes para poder comunicarme con el propietario o el freelancer relacionado a una oficina                      | **Escenario 1**: Enviar un mensaje <br><br> Dado que un usuario accede a la conversación <br><br> Cuando redacta y envía un mensaje <br><br> Entonces el mensaje es visible para el receptor en tiempo real                                       | EP-02   |
+| US-41         | Búsqueda avanzada de oficinas    | Como freelancer, quiero filtrar oficinas por servicios, precio, capacidad y ubicación para encontrar la opción ideal                                   | **Escenario 1**: Búsqueda con filtros <br><br> Dado que el usuario ingresa criterios de búsqueda <br><br> Cuando ejecuta la búsqueda <br><br> Entonces el sistema retorna solo las oficinas que cumplen con los filtros seleccionados               | EP-02   |
+| US-42         | Calificar experiencia de oficina | Como freelancer, quiero calificar la oficina y al propietario para ayudar a otros usuarios a tomar decisiones informadas                               | **Escenario 1**: Enviar calificación <br><br> Dado que un freelancer finalizó su estancia <br><br> Cuando envía una calificación y comentario <br><br> Entonces esta se guarda y se refleja en el perfil del propietario y de la oficina           | EP-02   |
 
 
 ### Epics
@@ -1567,13 +1589,13 @@ Aqui se encuentran los avances que se tuvo para esta entrega acerca del Frontend
 
 Para este entregable se hizo el uso de Firebase para desplegar la aplicacion. Aqui se muestra como se hizo.
 
-![frontend-github](/Imagenes/frontend-github.png)
+![frontend-github](Imagenes/frontend-github.png)
 
 Se creo el repositorio de Github donde se almacenaran y se veran todos los cambios del proyecto a medida del tiempo.
 
 Asimismo, se intalo la dependencia de Firebase para desplegar la aplicacion y se configuro el proyecto.
 
-![frontend-firebase](/Imagenes/firebase-frontend.png)
+![frontend-firebase](Imagenes/firebase-frontend.png)
 
 Por ultimo se utilizo:
 
@@ -1581,9 +1603,9 @@ Por ultimo se utilizo:
 
 Para desplegar la aplicacion.
 
-![frontend-deploy](/Imagenes/frontend-deploy.png)
+![frontend-deploy](Imagenes/frontend-deploy.png)
 
-![frontend-deploy2](/Imagenes/frontend-deploy2.png)
+![frontend-deploy2](Imagenes/frontend-deploy2.png)
 
 Link: [https://frontend-workstation.web.app](https://frontend-workstation.web.app)
 
@@ -1593,15 +1615,116 @@ Para este trabajo, se hicieron tanto mejoras en el documento README, como en el 
 
 ##### README
 
-![sprint2-insights-markdown](/Imagenes/sprint2-insights-markdown.png)
+![sprint2-insights-markdown](Imagenes/sprint2-insights-markdown.png)
 
 ##### Landing Page
 
-![sprint2-insights-landing-page](/Imagenes/sprint2-insights-landing-page.png)
+![sprint2-insights-landing-page](Imagenes/sprint2-insights-landing-page.png)
 
 ##### Frontend
 
-![sprint2-insights-frontend](/Imagenes/sprint2-insights-frontend.png)
+![sprint2-insights-frontend](Imagenes/sprint2-insights-frontend.png)
+
+### 5.2.3. Sprint 3
+#### 5.2.3.1. Spring Planning 3
+El Sprint Planning 2 fue una reunion inicial y una al finalizar para mantener la constacia del trabajo para este entregable, donde se definieron los nuevos objetivos a lograr para la creacion del Frontend, anadir todas las funcionalidades y que sea desplegada utilizando alguno de los servicios Cloud.
+
+| Sprint #                             | Sprint 2                                                                                               |
+|--------------------------------|--------------------------------------------------------------------------------------------------------|
+| **Date**       |     2025-06-16        |
+| Time           | 6:00 PM                      |
+| Location       | Virtual - Meet               |
+| Prepared By    | Rodrigo Liberato               |
+| Attendees (to planning meeting)| Jeremy Quijada, Rodrigo Liberato, Emilia Duran, Sandro Arevalo, Jorge Diaz, Sebastian Gutarra                   |
+| Sprint n - 3 Review Summary    | Durante la reunion se vieron los errores de la entrega pasada y los nuevos objetivos para la siguiente entrega. Asimismo se dividieron las responsabilidades para la creacion del backend.                                            |
+| Sprint n - 3 Retrospective Summary | La ejecucion del Sprint fue exitosa, debido a que se logro desplegar el Backend en Azure y adaptarlo a nuestras necesidades del Frontend.                                       |
+| Sprint 3 Goal                  | Nuestra prioridad en este sprint es desplegar el Backend de nuestra aplicación para poder tener una conexion con la base de datos. |
+| Sprint 3 Velocity              | Nuestro equipo puede aceptar hasta 5 Story Points.                                                  |
+| Sum of Story Points            | La suma de Story Points atendidos es de  5.                                            |
+#### 5.2.3.2. Aspect Leaders and Collaborators
+
+Para este sprint se mantivieron los todos los colaboradores del equipo y los mismos cargos.
+
+| Team Member (Last Name, First Name)       | GitHub Username   | Aspect Name 1 (L/C) 
+|------------------------------------------|-------------------|---------------------|
+| Liberato Saldaña Rodrigo          | Libeman10     | L                   | 
+| Emilia Durán Santander            |  emiliadurans            | C                   |  
+| Jeremy Quijada Magro          | jhonson2021     | C                   | 
+| Sandro Dinklange Arevalo            | Sandro0406            | C                   |  
+| Jorge Luis Díaz Fiestas          | LuisDiazpe     | C                   | 
+| Sebastián Gutarra Velapatiño             | SebastianGutarra| C                   |  
+
+#### 5.2.3.3. Sprint Backlog 3
+
+| **Sprint #**   | Sprint 3   |             |             |             |             |             |             |
+|----------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|
+| **User Story** |             |             |             |             |             |             |             |
+| **ID**         | **Título**                           | **ID**   | **Título**                        | **Descripción**                                                                                                               | **Estimación (hrs)** | **Assigned to** | **Status** |
+| US-38          | Registro de Propietarios             | T22      | Registrar nuevo propietario       | Como propietario, quiero registrar mis datos para poder publicar oficinas y administrar mis espacios                         | 4                     |                 | Done       |
+| US-39          | Publicación de Oficinas              | T23      | Publicar oficina disponible       | Como propietario, quiero publicar detalles de mis oficinas disponibles para que los freelancers puedan verlas y reservarlas  | 5                     |                 | Done       |
+| US-40          | Mensajes entre usuarios              | T24      | Comunicación entre usuarios       | Como usuario, quiero enviar y recibir mensajes para poder comunicarme con el propietario o el freelancer                     | 6                     |                 | Done       |
+| US-41          | Búsqueda avanzada de oficinas        | T25      | Filtros de búsqueda de oficina    | Como freelancer, quiero filtrar oficinas por servicios, precio, capacidad y ubicación para encontrar la opción ideal         | 6                     |                 | Done       |
+| US-42          | Calificar experiencia de oficina     | T26      | Enviar calificación de oficina    | Como freelancer, quiero calificar la oficina y al propietario para ayudar a otros usuarios a tomar decisiones informadas     | 4                     |                 | Done       |
+
+#### 5.2.3.4. Development Evidence for Sprint Review
+
+En este punto se evidenciaran los commits hechos en los repositorios del Backend y las mejoras que se agregaron al Frontend con respecto a la ultima entrega
 
 
+#### 5.2.3.5. Execution Evidence for Sprint Review
+
+
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+| Nombre de Endpoint         | Acciones Implementadas      | Sintaxis de llamada                                                           | Especificación de parámetros                                        | Ejemplo de llamada                                                                                                                  | Explicación del Response                                                                 |
+|----------------------------|-----------------------------|--------------------------------------------------------------------------------|----------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+| users                      | GET                         | ```const response = await axios.get(`${UsersAPI}`);```                        | Se requiere token de autenticación                                   | ```const response = await axios.get(`${UsersAPI}`);```                                                                              | Retorna lista de todos los usuarios registrados                                          |
+| users                      | POST                        | ```const response = await axios.post(`${UsersAPI}`, newUser);```              | newUser debe contener nombre, email, contraseña                      | ```const response = await axios.post(`${UsersAPI}`, { name: "Ana", email: "ana@x.com", password: "1234" });```                      | Retorna el nuevo usuario creado                                                          |
+| users                      | PUT                         | ```const response = await axios.put(`${UsersAPI}/${userId}`, updatedData);``` | userId requerido, updatedData con campos válidos                     | ```const response = await axios.put(`${UsersAPI}/123`, { name: "Ana María" });```                                                   | Retorna el usuario actualizado                                                           |
+| users                      | DELETE                      | ```const response = await axios.delete(`${UsersAPI}/${userId}`);```           | userId es requerido                                                  | ```const response = await axios.delete(`${UsersAPI}/123`);```                                                                       | Elimina el usuario correspondiente                                                       |
+| offices                    | GET                         | ```const response = await axios.get(`${OfficesAPI}`);```                      | Ninguno                                                              | ```const response = await axios.get(`${OfficesAPI}`);```                                                                            | Retorna lista de oficinas                                                               |
+| offices                    | POST                        | ```const response = await axios.post(`${OfficesAPI}`, newOffice);```          | newOffice con ubicación, capacidad, costo, servicios                 | ```const response = await axios.post(`${OfficesAPI}`, { ubicacion: "Lima", capacidad: 4 });```                                     | Retorna la oficina creada                                                               |
+| offices                    | PUT                         | ```const response = await axios.put(`${OfficesAPI}/${officeId}`, update);```  | officeId, y objeto con cambios                                       | ```const response = await axios.put(`${OfficesAPI}/10`, { capacidad: 5 });```                                                       | Retorna la oficina modificada                                                           |
+| offices                    | DELETE                      | ```const response = await axios.delete(`${OfficesAPI}/${officeId}`);```       | officeId                                                             | ```const response = await axios.delete(`${OfficesAPI}/10`);```                                                                      | Confirma eliminación de la oficina                                                      |
+| messages                   | GET                         | ```const response = await axios.get(`${MessagesAPI}`);```                     | Se recomienda autenticación                                          | ```const response = await axios.get(`${MessagesAPI}`);```                                                                           | Retorna todos los mensajes disponibles                                                  |
+| messages                   | POST                        | ```const response = await axios.post(`${MessagesAPI}`, message);```           | message debe incluir remitente, destinatario y contenido             | ```const response = await axios.post(`${MessagesAPI}`, { from: 1, to: 2, text: "Hola" });```                                       | Retorna el mensaje enviado                                                              |
+| messages                   | PUT                         | ```const response = await axios.put(`${MessagesAPI}/${msgId}`, edit);```      | msgId requerido, edit con nuevos valores                             | ```const response = await axios.put(`${MessagesAPI}/3`, { text: "Hola de nuevo" });```                                             | Retorna el mensaje actualizado                                                          |
+| messages                   | DELETE                      | ```const response = await axios.delete(`${MessagesAPI}/${msgId}`);```         | msgId requerido                                                      | ```const response = await axios.delete(`${MessagesAPI}/3`);```                                                                      | Confirma eliminación del mensaje                                                        |
+| ratings                    | GET                         | ```const response = await axios.get(`${RatingsAPI}`);```                      | Ninguno                                                              | ```const response = await axios.get(`${RatingsAPI}`);```                                                                            | Retorna todas las calificaciones registradas                                            |
+| ratings/byId               | GET                         | ```const response = await axios.get(`${RatingsAPI}/${ratingId}`);```          | ratingId requerido                                                   | ```const response = await axios.get(`${RatingsAPI}/15`);```                                                                         | Retorna calificación específica por ID                                                  |
+| ratings/byOfficeName       | GET                         | ```const response = await axios.get(`${RatingsAPI}/office/${name}`);```       | name = nombre de oficina                                             | ```const response = await axios.get(`${RatingsAPI}/office/OficinaA`);```                                                            | Retorna todas las calificaciones asociadas a esa oficina                                |
+| ratings                    | POST                        | ```const response = await axios.post(`${RatingsAPI}`, newRating);```          | newRating con puntaje, comentario, ID de oficina y usuario           | ```const response = await axios.post(`${RatingsAPI}`, { score: 5, comment: "Excelente", officeId: 3 });```                         | Retorna la calificación creada                                                          |
+| ratings                    | PUT                         | ```const response = await axios.put(`${RatingsAPI}/${ratingId}`, update);```  | ratingId requerido, objeto de actualización                          | ```const response = await axios.put(`${RatingsAPI}/5`, { score: 4 });```                                                            | Retorna la calificación modificada                                                      |
+| ratings                    | DELETE                      | ```const response = await axios.delete(`${RatingsAPI}/${ratingId}`);```       | ratingId requerido                                                   | ```const response = await axios.delete(`${RatingsAPI}/5`);```                                                                       | Confirma la eliminación de la calificación                                              |
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+
+
+## 5.3. Validation Interviews.
+### 5.3.1. Diseño de Entrevistas.
+
+##### Freelancer
+
+- Que aspectos de mejora puedes encontrar en la aplicacion?
+- ¿La información mostrada sobre cada oficina (capacidad, servicios, costo) fue suficiente para tomar una decisión?
+- ¿Hubo algún paso en la navegación que te resultó confuso o poco intuitivo?
+- Que otra funcionalidad o algo visible deberiamos agregar?
+
+##### Propietarios de Oficinas
+
+- ¿Que aspectos de mejora puedes encontrar en la aplicacion?
+- ¿La información mostrada sobre cada perfil fue suficiente para tomar una decisión?
+- ¿Hubo algún paso en la navegación que te resultó confuso o poco intuitivo?
+- ¿Que otra funcionalidad o algo visible deberiamos agregar?
+
+
+### 5.3.2. Registro de Entrevistas.
+
+### 5.3.3. Evaluaciones según heurísticas.
+
+## 5.4. Video About-the-Product.
 
