@@ -1724,6 +1724,12 @@ En este punto se evidenciaran los commits hechos en los repositorios del Backend
 
 ### 5.3.2. Registro de Entrevistas.
 
+Entrevista numero 1: Arturo Salinas
+
+URL: [https://drive.google.com/file/d/1tQVEzQA0bKnk3Igxv8KGGKIu3StNXdt2/view?usp=sharing](https://drive.google.com/file/d/1tQVEzQA0bKnk3Igxv8KGGKIu3StNXdt2/view?usp=sharing)
+
+Para esta entrevista, se eligio a un propietario de oficina, se mostro las funcionalidades y las deficiencias de la aplicacion para que asi se puedan realizar las preguntas. Gracias a esta entrevista se logro hallar valiosa informacion que utilizaremos para mejorar nuestro producto para que llege a ser funcional en un entorno real.
+
 ### 5.3.3. Evaluaciones según heurísticas.
 
 ## 5.4. Video About-the-Product.
