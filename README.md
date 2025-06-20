@@ -1637,7 +1637,7 @@ El Sprint Planning 2 fue una reunion inicial y una al finalizar para mantener la
 | Prepared By    | Rodrigo Liberato               |
 | Attendees (to planning meeting)| Jeremy Quijada, Rodrigo Liberato, Emilia Duran, Sandro Arevalo, Jorge Diaz, Sebastian Gutarra                   |
 | Sprint n - 3 Review Summary    | Durante la reunion se vieron los errores de la entrega pasada y los nuevos objetivos para la siguiente entrega. Asimismo se dividieron las responsabilidades para la creacion del backend.                                            |
-| Sprint n - 3 Retrospective Summary | La ejecucion del Sprint fue exitosa, debido a que se logro desplegar el Backend en Azure y adaptarlo a nuestras necesidades del Frontend.                                       |
+| Sprint n - 3 Retrospective Summary | La ejecucion del Sprint fue semi exitosa, debido a que se logro desplegar el Backend en Azure y adaptarlo a nuestras necesidades del Frontend. Sin embargo, muchos de los endpoints no fueron terminados a tiempo y ni siquiera tuvieron tiempo para verificarse.                                       |
 | Sprint 3 Goal                  | Nuestra prioridad en este sprint es desplegar el Backend de nuestra aplicación para poder tener una conexion con la base de datos. |
 | Sprint 3 Velocity              | Nuestro equipo puede aceptar hasta 5 Story Points.                                                  |
 | Sum of Story Points            | La suma de Story Points atendidos es de  5.                                            |
@@ -1670,9 +1670,40 @@ Para este sprint se mantivieron los todos los colaboradores del equipo y los mis
 
 En este punto se evidenciaran los commits hechos en los repositorios del Backend y las mejoras que se agregaron al Frontend con respecto a la ultima entrega
 
+Backend:
+| Repository                                                                                             | Branch  | Commit ID | Commit Message                                                                                                         | Commit Message Body | Committed on (Date) |
+|--------------------------------------------------------------------------------------------------------|---------|-----------|------------------------------------------------------------------------------------------------------------------------|----------------------|----------------------|
+| [https://github.com/WorkStation-MarronCoders/backeend.git](https://github.com/WorkStation-MarronCoders/backeend.git) | Main      | 1646596   | fix(OfficeController): swapped int for Guid                                                                            | -                    | ~Jun 14, 2025        |
+| [https://github.com/WorkStation-MarronCoders/backeend.git](https://github.com/WorkStation-MarronCoders/backeend.git) | Main     | 7798169   | feat(OfficeContext): fix commands and swapped id from int to guid. Added validators                                    | -                    | ~Jun 14, 2025        |
+| [https://github.com/WorkStation-MarronCoders/backeend.git](https://github.com/WorkStation-MarronCoders/backeend.git) | Main    | 976b969   | Merge pull request #4 from WorkStation-MarronCoders/hot-fix                                                            | Verified             | ~Jun 14, 2025        |
+| [https://github.com/WorkStation-MarronCoders/backeend.git](https://github.com/WorkStation-MarronCoders/backeend.git) | Main      | 826d816   | Merge pull request #3 from WorkStation-MarronCoders/develop                                                            | Verified             | ~Jun 14, 2025        |
+| [https://github.com/WorkStation-MarronCoders/backeend.git](https://github.com/WorkStation-MarronCoders/backeend.git) | Main      | e181344   | Merge pull request #2 from WorkStation-MarronCoders/develop                                                            | Verified             | ~Jun 14, 2025        |
+| [https://github.com/WorkStation-MarronCoders/backeend.git](https://github.com/WorkStation-MarronCoders/backeend.git) | Main       | a15e487   | Merge pull request #1 from WorkStation-MarronCoders/feature/Rating-Context                                             | Verified             | ~Jun 14, 2025        |
+| [https://github.com/WorkStation-MarronCoders/backeend.git](https://github.com/WorkStation-MarronCoders/backeend.git) | Main       | 789b631   | Add Rating context: model, repository, service, controller and API endpoints                                           | -                    | Jun 11, 2025         |
+| [https://github.com/WorkStation-MarronCoders/backeend.git](https://github.com/WorkStation-MarronCoders/backeend.git) | Main       | 4ber459   | feat(Shared): added dbset to Office entity and OfficeService entity                                                    | -                    | Jun 10, 2025         |
+| [https://github.com/WorkStation-MarronCoders/backeend.git](https://github.com/WorkStation-MarronCoders/backeend.git) | Main       | 68a9380   | feat(OfficeContext): added added relations to OfficeService entity                                                     | -                    | Jun 10, 2025         |
+| [https://github.com/WorkStation-MarronCoders/backeend.git](https://github.com/WorkStation-MarronCoders/backeend.git) | Main       | ced4157   | feat: added Office Context                                                                                             | -                    | Jun 7, 2025          |
+| [https://github.com/WorkStation-MarronCoders/backeend.git](https://github.com/WorkStation-MarronCoders/backeend.git) | Main       | 49er498   | feat: added Shared Context and configuration                                                                           | -                    | ~Jun 3, 2025         |
+| [https://github.com/WorkStation-MarronCoders/backeend.git](https://github.com/WorkStation-MarronCoders/backeend.git) | Main      | 4776714   | Fix: Adding Controller                                                                                                 | -                    | Jun 20, 2025         |
+| [https://github.com/WorkStation-MarronCoders/backeend.git](https://github.com/WorkStation-MarronCoders/backeend.git) | Main       | 419995c   | fix: builders                                                                                                          | -                    | Jun 20, 2025         |
+| [https://github.com/WorkStation-MarronCoders/backeend.git](https://github.com/WorkStation-MarronCoders/backeend.git) | Main      | 486e883   | Fast: Adding User Context                                                                                              | -                    | Jun 20, 2025         |
+| [https://github.com/WorkStation-MarronCoders/backeend.git](https://github.com/WorkStation-MarronCoders/backeend.git) | Main       | eccbdae   | fix(OfficeContext): Fixed Context to be able to be shown in Postman                                                    | -                    | Jun 19, 2025         |
+| [https://github.com/WorkStation-MarronCoders/backeend.git](https://github.com/WorkStation-MarronCoders/backeend.git) | Main      | 7984249   | fix(Shared): fixed FindByIdAsync function to work with Guid instead of int                                             | -                    | Jun 19, 2025         |
+
+
+Frontend:
+
+| Repository                                                                                             | Branch | Commit ID | Commit Message                                                                                      | Commit Message Body | Committed on (Date) |
+|--------------------------------------------------------------------------------------------------------|--------|-----------|-----------------------------------------------------------------------------------------------------|---------------------|---------------------|
+| [https://github.com/WorkStation-MarronCoders/frontend.git](https://github.com/WorkStation-MarronCoders/frontend.git) | -      | (no mostrado) | feat: added responsive and aria-label to every page                                               | -                   | Jun 19, 2025        |
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
+![sprint3-execution](Imagenes/sprint3-execution-3.png)
+
+![sprint3-execution](Imagenes/sprint3-execution-2.png)
+
+![sprint3-execution](Imagenes/sprint3-execution-1.png)
 
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
@@ -1700,9 +1731,21 @@ En este punto se evidenciaran los commits hechos en los repositorios del Backend
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
+Se utilizo Azure para el deploy del backend. Se hizo de la siguiente manera:
+
+![sprint-3-1](Imagenes/sprint3-deployment.jpg)
+
+![sprint-3-2](Imagenes/sprint3-deployment-2.jpg)
+
+![sprint-3-3](Imagenes/sprint3-deployment-3.jpg)
+
+Aqui el URL del Backend.
+
+[http://workstation-webapi-f6h3e4aqgxa6d5e7.canadacentral-01.azurewebsites.net](http://workstation-webapi-f6h3e4aqgxa6d5e7.canadacentral-01.azurewebsites.net)
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
+![sprint-3-insights](Imagenes/sprint3-insights.png)
 
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
