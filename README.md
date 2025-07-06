@@ -2172,3 +2172,38 @@ Para esta entrevista, se eligio a una persona que busca y compara precios de ofi
 URL: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215623_upc_edu_pe/EVfUi4DHyEpFsWcHz8GyzFEB328mZOCqOwOKGFY6itsIgA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=kmGgp6](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215623_upc_edu_pe/EVfUi4DHyEpFsWcHz8GyzFEB328mZOCqOwOKGFY6itsIgA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=kmGgp6)
 
 # Conclusiones y recomendaciones
+
+## Conclusiones
+
+1. **Integración efectiva entre backend y frontend**  
+   Se logró una conexión estable entre ambas capas del sistema, permitiendo la comunicación fluida a través de API REST. Esto facilitó operaciones fundamentales como el registro de usuarios, búsquedas filtradas de oficinas, reservas y gestión de propiedades.
+
+2. **Evolución y robustez del backend**  
+   A través de la implementación de contextos como Office, User y Rating, y la incorporación de validaciones complejas, se fortaleció la lógica del servidor. Esto asegura una base sólida para futuras escalas funcionales y técnicas.
+
+3. **Despliegue completo y funcional**  
+   La aplicación fue desplegada exitosamente en la nube, lo que permite su disponibilidad pública y uso desde múltiples dispositivos. El proceso incluyó la automatización del flujo de integración y despliegue continuo.
+
+4. **Colaboración y liderazgo bien distribuidos**  
+   La asignación clara de líderes y colaboradores por cada aspecto del proyecto permitió una mayor eficiencia en el trabajo en equipo. Esto redujo los tiempos de resolución de tareas y mejoró la coordinación general.
+
+5. **Implementación de funcionalidades clave**  
+   Se implementaron satisfactoriamente características esenciales como autenticación de usuarios, filtros de búsqueda, sistema de publicaciones, valoraciones, sistema de reservas y visualización de oficinas. Esto representa un avance tangible hacia el producto final.
+
+## Recomendaciones
+
+1. **Realizar pruebas de usabilidad con usuarios finales**  
+   Se recomienda validar el comportamiento de la aplicación desde la perspectiva de los usuarios reales, a fin de identificar mejoras en usabilidad, tiempos de respuesta y flujos de navegación.
+
+2. **Documentar la API y estructura del sistema**  
+   Es indispensable contar con documentación técnica clara, incluyendo la definición de endpoints, estructuras de datos, modelos, casos de uso y configuraciones de despliegue.
+
+3. **Optimizar el rendimiento y reforzar la seguridad**  
+   Se sugiere aplicar técnicas de compresión de datos, gestión adecuada de errores, validación de entradas, cifrado de credenciales y uso de encabezados seguros para reforzar la seguridad del sistema.
+
+4. **Implementar herramientas de monitoreo y métricas**  
+   La integración de soluciones de monitoreo permitirá observar el estado del sistema en tiempo real, detectar errores y evaluar el uso del sistema por parte de los usuarios.
+
+5. **Planificar nuevos sprints enfocados en crecimiento funcional**  
+   A partir del feedback obtenido, se recomienda definir próximos sprints orientados a funcionalidades adicionales como notificaciones, gestión avanzada de pagos, alertas de disponibilidad, y mejoras en la experiencia de usuario.
+
