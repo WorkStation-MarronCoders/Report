@@ -650,8 +650,8 @@ Entre las tareas encontradas, la que ambos User Persona coinciden en que es impo
 
 ## 2.4. Ubiquitous Language
 
-| Termino      | Definición                                                                                                  |
-| ------------ | ----------------------------------------------------------------------------------------------------------- | --- |
+| Término      | Definición                                                                                                  |
+| ------------ | ----------------------------------------------------------------------------------------------------------- |
 | Workspace    | Un espacio físico disponible para alquiler como sitio de trabajo.                                           |
 | Coworking    | Una modalidad de trabajo donde personas de distintas empresas comparten un mismo workspace.                 |
 | Host         | La persona que ofrece su propiedad en alquiler.                                                             |
@@ -660,11 +660,12 @@ Entre las tareas encontradas, la que ambos User Persona coinciden en que es impo
 | Rate         | La tarifa por día o por semana para alquilar el Workspace.                                                  |
 | Amenities    | Adicionales que ofrezca el host como parte del Workspace. Por ejemplo, WiFi, café, aire acondicionado, etc. |
 | Listing      | La publicación de un Workspace disponible incluyendo detalles como ubicación, fotos, Rates y Amenities.     |
-| Check-in     | El momento en que comienza el uso del Workspace                                                             | .   |
+| Check-in     | El momento en que comienza el uso del Workspace.                                                            |
 | Check-out    | El momento en el que finaliza el uso del Workspace.                                                         |
 | Cancellation | La anulación de una reserva, por parte de Host o Renter.                                                    |
 | Contract     | El contrato que se realiza entre Renter y Host.                                                             |
 | Review       | Las reseñas dadas del Renter al Host después del uso del Workspace, visibles para otros usuarios.           |
+
 
 # Capitulo 3
 
@@ -2065,22 +2066,56 @@ Aqui el URL del Backend.
 | **Sprint #**   | Sprint 4   |        |            |                 |                      |                 |            |
 | -------------- | ---------- | ------ | ---------- | --------------- | -------------------- | --------------- | ---------- |
 | **User Story** |            |        |            |                 |                      |                 |            |
-| **ID**         | **Título** | **ID** | **Título** | **Descripción** | **Estimación (hrs)** | **Assigned to** | **Status** |
-|                |            |        |            |                 |                      |                 |            |
+| **ID**         | **Título**                     | **ID**   | **Título**                         | **Descripción**                                                                                         | **Estimación (hrs)** | **Assigned to**             | **Status**   |
+| US-01          | Ubicación de inmuebles         | T4-1.1  | Mostrar oficinas por ubicación     | Implementar endpoint para filtrar oficinas por ubicación y mostrar resultados en frontend.             | 6 hrs                 | Jorge Luis Díaz Fiestas     | Hecho        |
+|                |                                | T4-1.2  | Mapa interactivo                   | Mostrar ubicación geográfica usando mapa en el frontend (ej. Leaflet o Google Maps).                   | 6 hrs                 | Sandro Dinklange            | En progreso  |
+| US-02          | Disponibilidad de inmuebles    | T4-2.1  | Verificar disponibilidad           | Crear lógica backend para retornar horarios disponibles de una oficina.                               | 5 hrs                 | Rodrigo Liberato            | Hecho        |
+|                |                                | T4-2.2  | Visualizar calendario              | Mostrar calendario con disponibilidad en el frontend.                                                  | 6 hrs                 | Emilia Durán                | Pendiente    |
+| US-06          | Perfiles de inmuebles          | T4-3.1  | Detalles de inmueble               | Mostrar información completa de un inmueble (fotos, precio, aforo, etc.).                             | 7 hrs                 | Jorge Luis Díaz Fiestas     | En progreso  |
+| US-38          | Registro de Propietarios       | T4-4.1  | Crear formulario de registro       | Formulario en frontend para registrar propietarios y conexión con backend.                             | 5 hrs                 | Sebastián Gutarra           | Hecho        |
+| US-39          | Publicación de oficinas        | T4-5.1  | Backend para nueva oficina         | Endpoint para publicar una oficina con fotos, tarifas y descripción.                                  | 6 hrs                 | Jeremy Quijada              | Hecho        |
+|                |                                | T4-5.2  | UI para publicación                | Crear vista en frontend para que el propietario publique su oficina.                                  | 6 hrs                 | Sandro Dinklange            | Pendiente    |
+| US-42          | Calificar experiencia de oficina| T4-6.1 | Enviar calificación desde frontend | Crear formulario de calificación (puntuación y comentario).                                            | 4 hrs                 | Emilia Durán                | En progreso  |
+|                |                                | T4-6.2 | Guardar y mostrar reseñas          | Backend para almacenar reseñas y frontend para visualizarlas.                                          | 5 hrs                 | Rodrigo Liberato            | Pendiente    |
+
 
 #### 5.2.4.4. Development Evidence for Sprint Review
 
 Backend:
 
-| Repository | Branch | Commit ID | Commit Message | Commit Message Body | Committed on (Date) |
-| ---------- | ------ | --------- | -------------- | ------------------- | ------------------- |
-|            |        |           |                |                     |                     |
+| Repository        | Branch   | Commit ID | Commit Message                          | Commit Message Body                                                                                      | Committed on (Date) |
+| ----------------- | -------- | ----------| ---------------------------------------- | --------------------------------------------------------------------------------------------------------- | ------------------- |
+| workstation-app   | develop  | f7a8c9d   | Merge pull request #2 from develop       | Se fusionó la rama `develop` al main consolidando los cambios de contexto Rating y Office.                | 2025-06-12          |
+| workstation-app   | feature/Rating-Context | d9c3e0a   | Add Rating context                      | Se agregó el modelo, repositorio, servicio, controlador y endpoints del contexto Rating.                  | 2025-06-12          |
+| workstation-app   | develop  | a2b1f6c   | feat(Shared): added dbset to Office     | Se añadió el `DbSet` de Office y se conectó con `OfficeService`.                                         | 2025-06-11          |
+| workstation-app   | develop  | b5e2d7f   | feat(OfficeContext): add relations      | Se agregaron relaciones entre Office y OfficeService.                                                    | 2025-06-11          |
+| workstation-app   | develop  | 4f9c01a   | feat: added Office Context              | Implementación inicial del contexto de oficinas.                                                          | 2025-06-10          |
+| workstation-app   | develop  | 1c3d9e8   | feat: added Shared Context              | Se agregó contexto compartido y configuraciones generales.                                                | 2025-06-07          |
+| workstation-app   | develop  | 8a6f21d   | feat: added complex validations         | Se implementaron validaciones avanzadas para el módulo Services.                                          | 2025-06-07          |
+| workstation-app   | develop  | 2b7e0cf   | fix: added swagger documentation        | Se añadió Swagger para documentación automática de la API.                                                | 2025-07-01          |
+| workstation-app   | main     | 9e3f1da   | Add/update Azure deployment workflow    | Se añadió o actualizó la configuración de despliegue en Azure App Service.                               | 2025-06-20          |
+| workstation-app   | develop  | 0ac45bc   | fix(OfficeContext): Postman compatibility| Ajustes en OfficeContext para ser visible correctamente en Postman.                                      | 2025-06-20          |
+| workstation-app   | develop  | 38bfe1a   | Feat: Adding User Context               | Se creó el contexto de usuarios (modelo, servicio y repositorio base).                                    | 2025-06-20          |
+| workstation-app   | develop  | 7ac9b8e   | Fix: Adding Controller                  | Se añadió un nuevo controlador para la entidad correspondiente.                                           | 2025-06-20          |
+| workstation-app   | develop  | 6cbd3ef   | fix: builders                           | Ajustes menores en los builders de entidades.                                                             | 2025-06-20          |
+| workstation-app   | develop  | 5bc83ad   | fix(Shared): Guid fix in FindByIdAsync  | Se modificó el método `FindByIdAsync` para utilizar `Guid` en vez de `int`.                               | 2025-06-19          |
 
 Frontend:
 
-| Repository | Branch | Commit ID | Commit Message | Commit Message Body | Committed on (Date) |
-| ---------- | ------ | --------- | -------------- | ------------------- | ------------------- |
-|            |        |           |                |                     |                     |
+| Repository     | Branch   | Commit ID | Commit Message                                | Commit Message Body                                                                                             | Committed on (Date) |
+| -------------- | -------- | ----------| --------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ------------------- |
+| frontend-web   | develop  | 3fae2d1   | feat(profile): added update user function     | Se agregó funcionalidad para actualizar datos del perfil desde la interfaz y conectarlo al backend.            | 2025-07-05          |
+| frontend-web   | develop  | 8b4c902   | feat(searchContext): backend connection       | Se integró el buscador y filtros con el backend para mostrar resultados dinámicos de oficinas.                 | 2025-07-05          |
+| frontend-web   | develop  | b89e11f   | feat(Profile): show user info from backend    | Se conectó la vista de perfil con el backend para mostrar datos reales del usuario logueado.                   | 2025-07-05          |
+| frontend-web   | develop  | 1ac409c   | feat: imported Toast, added UpdateOffice      | Se implementó la notificación Toast y vista para actualización de propiedades por parte del propietario.       | 2025-07-04          |
+| frontend-web   | develop  | 9fbc211   | fix(Properties): fixed Get, Post, Delete      | Se corrigieron errores de conexión en las operaciones CRUD sobre propiedades.                                  | 2025-07-04          |
+| frontend-web   | develop  | 7e4a813   | fix: adapted frontend to backend              | Se ajustó el frontend para conectarlo con la estructura y rutas del backend.                                   | 2025-07-02          |
+| frontend-web   | develop  | 298d20e   | feat: added responsive and aria-labels        | Se mejoró la accesibilidad y responsividad en todas las páginas.                                               | 2025-06-19          |
+| frontend-web   | develop  | 59b31a0   | feat: added properties-view                   | Se agregó la vista que muestra las propiedades registradas por los propietarios.                               | 2025-05-14          |
+| frontend-web   | develop  | f2d8eaf   | feat(add-property): improved UI and layout    | Se mejoró el formulario de publicación de oficinas incluyendo nuevos campos, estilos CSS y Navbar.             | 2025-05-14          |
+| frontend-web   | develop  | 6143adc   | feat: added dashboard and images              | Se añadió el panel principal con vistas de navegación inicial para el usuario autenticado.                     | 2025-05-10          |
+| frontend-web   | develop  | c6fa8bc   | feat: login, register, password recovery      | Se crearon las vistas para login, registro, cambio y recuperación de contraseña.                               | 2025-05-07          |
+
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
 
