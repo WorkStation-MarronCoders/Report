@@ -35,8 +35,8 @@ Aplicaciones Web <br>
 # Registro de Versiones del Informe
 
 | Versión | Fecha      | Autor(es)                                                                                        | Descripción de la modificación              |
-| ------- | ---------- | ------------------------------------------------------------------------------------------------ | ------------------------------------------- | --- |
-| TB1     | 25-04-2025 | Liberato Rodrigo, Duran Emilia, QUijada Jeremy, Dinklange Sandro, Diaz Jorge y Gutarra Sebastian | Se Completaron los 5 capitulos del reporte. |     |
+| ------- | ---------- | ------------------------------------------------------------------------------------------------ | ------------------------------------------- |
+| TB1     | 25-04-2025 | Liberato Rodrigo, Duran Emilia, Quijada Jeremy, Dinklange Sandro, Díaz Jorge y Gutarra Sebastian | Se completaron los 5 capítulos del reporte. |
 
 # Project Report Collaboration Insights
 
@@ -185,13 +185,13 @@ Considerando la flexibildad y la adaptabilidad como puntos esenciales para el cr
 ### 1.1.2. Perfiles de integrantes del equipo
 
 | Foto                                                                                   | Alumno                         | Descripción                                                                                                                                                                                                                                                                                                                 |
-| -------------------------------------------------------------------------------------- | ------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
-| ![Luis](Imagenes/perfil-integrante-jeremy.png)                                         | Quijada Magro Jeremy Alexander | Estudiante de Ingenieria de software que plenae en enfocar en la gestion de proyectos. Con conocimientos basicos en programacion web y base de datos.                                                                                                                                                                       |
-| ![Rodrigo](Imagenes/rodrigo.png)                                                       | Liberato Saldana Rodrigo       | Estudiante de Ingenieria de software que planea en efocarse en Ciencia de datos y Ciberseguridad. Planeo dar apoyo en el grupo de manera activa y tomar el rol de lider para encaminar al equipo a cumplir la meta en comun, realizar un buen trabajo con nuestra propuesta.                                                |
-| ![Sebastian](Imagenes/sebastian.png)                                                   | Sebastián Gutarra Velapatiño   | Soy un estudiante de 6to ciclo de la carrera de ingeniería de software en la UPC, me caracterizo por la perseverancia, la responsabilidad, la empatía y trabajo en equipo. Entre mis conocimientos puedo manejar lenguajes como C, C++, SQL y Python, y software tales como Visual Studio Code, Google Collab, Word, Excel. |     |
-| ![Luis](Imagenes/Luisfoto.png)                                                         | Jorge Luis Díaz Fiestas        | Estudiante de Ing. de Software, del 5° ciclo. Destacado en el trabajo en grupo y apto para dar retroalimentación. Con conocimientos básicos en Arduino, programación web (HTML, CSS, JS, React, TypeScript, Firebase), bases de datos (SQL, Firebase, Supabase, MongoDB, MariaDB) y lenguajes C/C++.                        |
-| ![Emilia](Imagenes/emilia.png)                                                         | Emilia Durán Santander         | Estudiante de la carrera de Ingenieria de Software, con interés en el area de ciberseguridad. Me considero una persona responsable y planeo apoyar al grupo demostrando las habilidades previamente aprendidas a lo largo de la carrera. Actualmente cuento con conocimientos tecnicos en C++, HTML yCSS.                   |
-| ![yo](https://github.com/user-attachments/assets/3bf44175-f92b-40e4-a346-8c5a61ec71f8) | Sandro Dinklange Arévalo       | Soy un estudiante de 18 años que cursa la carrera de Ingeniería de Software, en cuarto ciclo, en la Universidad Peruana de Ciencias Aplicadas (UPC). Me considero una persona trabajadora en equipo, y suelo leer libros en mis tiempos libres. Cuento con conocimientos en C++.                                            |
+| -------------------------------------------------------------------------------------- | ------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Luis](Imagenes/perfil-integrante-jeremy.png)                                         | Quijada Magro Jeremy Alexander | Estudiante de Ingeniería de Software que planea enfocarse en la gestión de proyectos. Con conocimientos básicos en programación web y bases de datos.                                                                                                                                                                       |
+| ![Rodrigo](Imagenes/rodrigo.png)                                                       | Liberato Saldaña Rodrigo       | Estudiante de Ingeniería de Software que planea enfocarse en Ciencia de Datos y Ciberseguridad. Planea dar apoyo activo al grupo y asumir el rol de líder para encaminar al equipo hacia el cumplimiento de sus metas.                                                                                                      |
+| ![Sebastian](Imagenes/sebastian.png)                                                   | Sebastián Gutarra Velapatiño   | Estudiante de 6to ciclo de Ingeniería de Software en la UPC. Se caracteriza por la perseverancia, responsabilidad, empatía y trabajo en equipo. Maneja lenguajes como C, C++, SQL y Python, y software como Visual Studio Code, Google Colab, Word y Excel.                                                               |
+| ![Luis](Imagenes/Luisfoto.png)                                                         | Jorge Luis Díaz Fiestas        | Estudiante de Ingeniería de Software, 5° ciclo. Destacado en trabajo en grupo y retroalimentación. Con conocimientos en Arduino, programación web (HTML, CSS, JS, React, TypeScript, Firebase), bases de datos (SQL, Firebase, Supabase, MongoDB, MariaDB) y lenguajes C/C++.                                             |
+| ![Emilia](Imagenes/emilia.png)                                                         | Emilia Durán Santander         | Estudiante de Ingeniería de Software, con interés en Ciberseguridad. Persona responsable con habilidades adquiridas en la carrera. Con conocimientos técnicos en C++, HTML y CSS.                                                                                                                                          |
+| ![yo](https://github.com/user-attachments/assets/3bf44175-f92b-40e4-a346-8c5a61ec71f8) | Sandro Dinklange Arévalo       | Estudiante de 18 años de Ingeniería de Software, cuarto ciclo en la UPC. Se considera una persona colaborativa, con gusto por la lectura. Cuenta con conocimientos en C++.                                                                                                                                                |
 
 ## 1.2. Solution Profile
 
@@ -2037,27 +2037,28 @@ Aqui el URL del Backend.
 
 | Sprint #                           | Sprint 4 |
 | ---------------------------------- | -------- |
-| **Date**                           |          |
-| Time                               |          |
-| Location                           |          |
-| Prepared By                        |          |
-| Attendees (to planning meeting)    |          |
-| Sprint n - 4 Review Summary        |          |
-| Sprint n - 4 Retrospective Summary |          |
-| Sprint 4 Goal                      |          |
-| Sprint 4 Velocity                  |          |
-| Sum of Story Points                |          |
+| **Date**                           | 2025-07-06 |
+| **Time**                           | 08:00 PM |
+| **Location**                       | Reunión virtual vía Google Meet |
+| **Prepared By**                    | Jorge Luis Díaz Fiestas |
+| **Attendees (to planning meeting)**|  Liberato Rodrigo, Duran Emilia, Quijada Jeremy, Dinklange Sandro, Díaz Jorge y Gutarra Sebastian  |
+| **Sprint n - 4 Review Summary**    | En el Sprint 3 se avanzó en la creación y prueba de los endpoints principales del backend. Se establecieron rutas clave para la gestión de oficinas, usuarios y reservas. El product owner indicó que el foco debe ser completar la integración full-stack para una demo funcional. |
+| **Sprint n - 4 Retrospective Summary** | Se reconoció que hubo una buena asignación de tareas, pero faltó sincronización entre frontend y backend. Se acordó mejorar la documentación interna y validar los endpoints antes de integrarlos. El equipo propuso revisar avances dos veces por semana. |
+| **Sprint 4 Goal**                  | Integrar el backend con el frontend, optimizar el backend y lograr el despliegue completo y funcional de la aplicación tipo Airbnb enfocada en oficinas. |
+| **Sprint 4 Velocity**              | 36 Story Points |
+| **Sum of Story Points**            | 40 Story Points |
 
 #### 5.2.4.2. Aspect Leaders and Collaborators
 
-| Team Member (Last Name, First Name) | GitHub Username | Aspect Name 1 (L/C) |
-| ----------------------------------- | --------------- | ------------------- |
-|                                     |                 |                     |
-|                                     |                 |                     |
-|                                     |                 |                     |
-|                                     |                 |                     |
-|                                     |                 |                     |
-|                                     |                 |                     |
+| Team Member (Last Name, First Name) | GitHub Username       | Frontend Integration | Backend Optimization | Deployment & Infrastructure |
+| ----------------------------------- | --------------------- | -------------------- | -------------------- | ---------------------------- |
+| Quijada Magro, Jeremy Alexander     | jhonson2021           | C                    | C                    | L                            |
+| Liberato Saldaña, Rodrigo           | Libeman10             | C                    | L                    | C                            |
+| Gutarra Velapatiño, Sebastián       | sebastiangutarra      | C                    | C                    | C                            |
+| Díaz Fiestas, Jorge Luis            | LuisDiazpe            | L                    | C                    | C                            |
+| Durán Santander, Emilia             | emiliadurans          | C                    | C                    | C                            |
+| Dinklange Arévalo, Sandro           | Sandro0406            | C                    | C                    | C                            |
+
 
 #### 5.2.4.3. Sprint Backlog 4
 
