@@ -2127,7 +2127,17 @@ URL[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215623_upc_edu_pe/Eb77
 
 Para esta entrevista, se eligio a una persona que busca y compara precios de oficinas, se mostro las funcionalidades y las deficiencias de la aplicacion para que asi se puedan realizar las preguntas. Se nos pidio optimizar la aplicacion para futuras iteraciones que la aplicacion recibira. Con esto tendremos en cuenta mejores oportunidades de mejora para la siguiente version.
 
+Entrevista Numero 3: Javier Arevalo
+
 ### 5.3.3. Evaluaciones según heurísticas.
+#### Escala de Severidad
+
+| Nivel | Descripción |
+|-------|-------------|
+| 1     | Problema superficial: Es poco común o fácil de sortear por el usuario. No requiere atención inmediata, salvo que haya tiempo disponible. |
+| 2     | Problema menor: Puede presentarse con mayor frecuencia o resultar algo más complicado para el usuario. Es recomendable resolverlo, aunque con baja prioridad, en futuras versiones. |
+| 3     | Problema mayor: Sucede con regularidad o el usuario no puede resolverlo por sí mismo. Debe ser atendido con prioridad alta.. |
+| 4     | Problema muy grave: errores que impiden que el usuario continúe utilizando la herramienta. Debe repararse antes del lanzamiento.. |
 
 ## 5.4. Video About-the-Product.
 
