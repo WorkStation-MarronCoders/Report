@@ -2153,6 +2153,18 @@ Con respeto a esta entrevista, elegimos a un propietario de oficina, nos contó 
 
 #### Recomendaciones
 
+- **Problema 1: Diseño inconsistente entre lo estético y minimalista**  
+  - **Tarea Evaluada:** Navegación entre login y dashboard
+  - **Recomendación:** Unificar la línea gráfica entre pantallas. El diseño del login es moderno y atractivo, pero contrasta fuertemente con el resto de vistas.
+
+- **Problema 2: Espacio vacío excesivo en la vista de perfil**  
+  - **Tarea Evaluada:** Visualizar perfil
+  - **Recomendación:**  Optimizar el espacio con una mejor distribución de la información. Se pueden agrupar los datos del usuario en tarjetas, añadir un avatar más visible, y mostrar botones de acción adicionales
+
+- **Problema 3: El diseño y los elementos visuales no son del todo consistentes**  
+  - **Tarea Evaluada:** Visualizar página  
+  - **Recomendación:** Además de unificar el estilo visual, incorporar componentes reutilizables  lo que permite la curva de aprendizaje al reconocer patrones visuales comunes.
+
 ## 5.4. Video About-the-Product.
 
 ## 5.5. Video About-the-Team.
