@@ -2147,9 +2147,9 @@ Con respeto a esta entrevista, elegimos a un propietario de oficina, nos contó 
 
 | # | Problema                                                                 | Escala de severidad | Heurística/Principio violado       | Tarea evaluada                                  |
 |---|---------------------------------------------------------------------------|----------------------|-------------------------------------|-------------------------------------------------|
-| 1 |               | 2                    |        |
-| 2 |     | 2                    |          |   |
-| 3 |     | 3                    |            |      |
+| 1 |   Diseño inconsistente entre lo estético y minimalista           |1                   |Diseño estético y minimalista      |Navegación entre login y dashboard 
+| 2 |      Espacio vacío excesivo en la vista de perfil| 1                    | Diseño estético y minimalista         | Visualizar perfil    |Visualizar perfil
+| 3 |    El diseño y los elementos visuales no son del todo consistentes: el login tiene una estética moderna, pero las demás vistas no. | 2                     |Flexibilidad y eficiencia del usuario          |Visualizar página      |
 
 #### Recomendaciones
 
