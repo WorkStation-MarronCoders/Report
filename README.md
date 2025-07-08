@@ -2129,6 +2129,8 @@ URL[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215623_upc_edu_pe/Eb77
 Para esta entrevista, se eligio a una persona que busca y compara precios de oficinas, se mostro las funcionalidades y las deficiencias de la aplicacion para que asi se puedan realizar las preguntas. Se nos pidio optimizar la aplicacion para futuras iteraciones que la aplicacion recibira. Con esto tendremos en cuenta mejores oportunidades de mejora para la siguiente version.
 
 Entrevista Numero 3: Javier Arevalo
+https://youtu.be/D3GxAFLeHeE
+Con respeto a esta entrevista, elegimos a un propietario de oficina, nos contó su experiencia sobre el uso de nuestra plataforma. Se nos pidió mejor las interfaces y agrandar los textos. Esta retroalimentación sirve para optimizar la aplicación en futuras iteraciones, priorizando una experiencia más completa y eficaz para los propietarios en la siguiente versión. 
 
 ### 5.3.3. Evaluaciones según heurísticas.
 #### Escala de Severidad
