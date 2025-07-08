@@ -1,3 +1,4 @@
+
 # **COURSE PROJECT**
 
 <p align="center">
@@ -2138,6 +2139,16 @@ Entrevista Numero 3: Javier Arevalo
 | 2     | Problema menor: Puede presentarse con mayor frecuencia o resultar algo más complicado para el usuario. Es recomendable resolverlo, aunque con baja prioridad, en futuras versiones. |
 | 3     | Problema mayor: Sucede con regularidad o el usuario no puede resolverlo por sí mismo. Debe ser atendido con prioridad alta.. |
 | 4     | Problema muy grave: errores que impiden que el usuario continúe utilizando la herramienta. Debe repararse antes del lanzamiento.. |
+
+#### Tabla Resumen
+
+| # | Problema                                                                 | Escala de severidad | Heurística/Principio violado       | Tarea evaluada                                  |
+|---|---------------------------------------------------------------------------|----------------------|-------------------------------------|-------------------------------------------------|
+| 1 |               | 2                    |        |
+| 2 |     | 2                    |          |   |
+| 3 |     | 3                    |            |      |
+
+#### Recomendaciones
 
 ## 5.4. Video About-the-Product.
 
