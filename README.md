@@ -2119,11 +2119,29 @@ Frontend:
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
 
+A continuación, se muestran las evidencias de ejecución correspondientes al Sprint Review:
+
+![Evidencia 1](Imagenes/deploy-f-b1.jpeg)  
+![Evidencia 2](Imagenes/deploy-f-b2.jpeg)  
+![Evidencia 3](Imagenes/deploy-f-b3.jpeg)  
+![Evidencia 4](Imagenes/deploy-f-b4.jpeg)  
+![Evidencia 5](Imagenes/deploy-f-b5.jpeg)
+
+
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
-| Nombre de Endpoint | Acciones Implementadas | Sintaxis de llamada | Especificación de parámetros | Ejemplo de llamada | Explicación del Response |
-| ------------------ | ---------------------- | ------------------- | ---------------------------- | ------------------ | ------------------------ |
-|                    |                        |                     |                              |                    |                          |
+| Nombre de Endpoint               | Acciones Implementadas | Sintaxis de llamada                                          | Especificación de parámetros                          | Ejemplo de llamada                                                | Explicación del Response                                                   |
+| -------------------------------- | ---------------------- | ------------------------------------------------------------ | ----------------------------------------------------- | ----------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| Crear Rating                     | POST                   | `/api/workstation/Rating`                                   | Body: `CreateRatingCommand`                           | POST `/api/workstation/Rating` con body `{ "officeId": 1, "rating": 5 }` | Retorna 201 Created con el objeto Rating creado.                          |
+| Obtener Ratings por Oficina      | GET                    | `/api/workstation/Rating/office/{officeId}`                 | Path: `officeId` (int)                                | GET `/api/workstation/Rating/office/3`                              | Lista de calificaciones asociadas a la oficina 3.                         |
+| Obtener Promedio de Rating       | GET                    | `/api/workstation/Rating/office/{officeId}/average`         | Path: `officeId` (int)                                | GET `/api/workstation/Rating/office/3/average`                      | Devuelve el promedio de las calificaciones de la oficina 3.               |
+| Obtener Todos los Usuarios       | GET                    | `/api/workstation/User`                                     | Ninguno                                               | GET `/api/workstation/User`                                        | Lista completa de usuarios registrados.                                   |
+| Obtener Usuario por ID           | GET                    | `/api/workstation/User/{id}`                                | Path: `id` (int)                                      | GET `/api/workstation/User/2`                                      | Detalles del usuario con ID 2.                                            |
+| Actualizar Usuario               | PUT                    | `/api/workstation/User/{id}`                                | Path: `id` (int), Body: `UpdateUserCommand`           | PUT `/api/workstation/User/2` con body `{...}`                     | Actualiza los datos del usuario especificado.                             |
+| Eliminar Usuario                 | DELETE                 | `/api/workstation/User/{id}`                                | Path: `id` (int)                                      | DELETE `/api/workstation/User/2`                                   | Elimina al usuario con ID 2. Retorna 204 No Content.                      |
+| Registrar Usuario                | POST                   | `/api/workstation/User/sign-up`                             | Body: `CreateUserCommand`                             | POST `/api/workstation/User/sign-up` con body `{...}`              | Retorna 201 Created con los datos del nuevo usuario.                      |
+| Login de Usuario                 | POST                   | `/api/workstation/User/login`                               | Body: `LoginCommand`                                  | POST `/api/workstation/User/login` con body `{ "email": "test@mail.com", "password": "1234" }` | Retorna un token JWT si las credenciales son válidas.                     |
+
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
