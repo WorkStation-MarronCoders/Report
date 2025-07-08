@@ -2223,7 +2223,7 @@ Con respeto a esta entrevista, elegimos a un propietario de oficina, nos contó 
 
 ## 5.5. Video About-the-Team.
 
-URL: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215623_upc_edu_pe/EVfUi4DHyEpFsWcHz8GyzFEB328mZOCqOwOKGFY6itsIgA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=kmGgp6](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215623_upc_edu_pe/EVfUi4DHyEpFsWcHz8GyzFEB328mZOCqOwOKGFY6itsIgA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=kmGgp6)
+URL: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215623_upc_edu_pe/EVfUi4DHyEpFsWcHz8GyzFEB328mZOCqOwOKGFY6itsIgA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=kmGgp6](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202313419_upc_edu_pe/EWIM5YGTn_BEk9UTLIswGLwBlB3_K6YBjTY6IEHnhMF1EA?e=6tQGF1)
 
 # Conclusiones y recomendaciones
 
