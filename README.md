@@ -2115,11 +2115,24 @@ Frontend:
 
 A continuación, se muestran las evidencias de ejecución correspondientes al Sprint Review:
 
-![Evidencia 1](Imagenes/deploy-f-b1.jpeg)  
-![Evidencia 2](Imagenes/deploy-f-b2.jpeg)  
-![Evidencia 3](Imagenes/deploy-f-b3.jpeg)  
-![Evidencia 4](Imagenes/deploy-f-b4.jpeg)  
-![Evidencia 5](Imagenes/deploy-f-b5.jpeg)
+Swagger API:
+![Evidencia 1](Imagenes/deploy-f-b1.jpeg) 
+Dashboard:
+![Evidencia 2](Imagenes/deploy-f-b2.jpeg)
+Añadir Propiedad:
+![Evidencia 3](Imagenes/deploy-f-b3.jpeg)
+Visualizacion de Propiedades:
+![Evidencia 4](Imagenes/deploy-f-b4.jpeg)
+Busqueda de Oficinas:
+![Evidencia 5](Imagenes/deploy-f-b2.png)
+Perfil:
+![Evidencia 6](Imagenes/perfil-deploy.png)
+Mis Planes:
+![Evidencia 6](Imagenes/plan-deploy.png)
+Registro:
+![Evidencia 6](Imagenes/register.png)
+Log In:
+![Evidencia 6](Imagenes/log-in.png)
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
@@ -2136,10 +2149,13 @@ A continuación, se muestran las evidencias de ejecución correspondientes al Sp
 | Login de Usuario            | POST                   | `/api/workstation/User/login`                       | Body: `LoginCommand`                        | POST `/api/workstation/User/login` con body `{ "email": "test@mail.com", "password": "1234" }` | Retorna un token JWT si las credenciales son válidas.       |
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
-
-![Evidencia 3](Imagenes/deploy-f-b3.jpeg)  
-![Evidencia 4](Imagenes/deploy-f-b4.jpeg)  
-![Evidencia 5](Imagenes/deploy-f-b5.jpeg)
+Vista Añadir Propiedad
+![Evidencia 3](Imagenes/deploy-f-b3.jpeg)
+Vista de Visualizacion de Propiedades
+![Evidencia 4](Imagenes/deploy-f-b4.jpeg)
+Vista de Busqueda de Oficinas
+![Evidencia 5](Imagenes/deploy-f-b2.png)
+Pagina subida a firebase
 ![Evidencia 5](Imagenes/deploy-f-b6.jpeg)
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint
@@ -2232,11 +2248,22 @@ Con respeto a esta entrevista, elegimos a un propietario de oficina, nos contó 
 
 ## 5.4. Video About-the-Product.
 
-URL: [https://drive.google.com/file/d/1AteZ2_jl6jAlY1GHJR3ZlWKPPnhYvx4B/view?usp=sharing](https://drive.google.com/file/d/1AteZ2_jl6jAlY1GHJR3ZlWKPPnhYvx4B/view?usp=sharing)
+| 📂 Sección                  | 📝 Descripción                                                                                                                                       |
+|----------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Resumen del Contenido      | Se muestra la funcionalidad de la aplicación de WorkStation.
+| Duración Aproximada        | 6 minutos 9 segundos                                                                                             |
+| Enlace al Archivo       | [https://drive.google.com/file/d/1AteZ2_jl6jAlY1GHJR3ZlWKPPnhYvx4B/view?usp=sharing](https://drive.google.com/file/d/1AteZ2_jl6jAlY1GHJR3ZlWKPPnhYvx4B/view?usp=sharing) |
+
 
 ## 5.5. Video About-the-Team.
 
-URL: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202313419_upc_edu_pe/EWIM5YGTn_BEk9UTLIswGLwBlB3_K6YBjTY6IEHnhMF1EA?e=6tQGF1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202313419_upc_edu_pe/EWIM5YGTn_BEk9UTLIswGLwBlB3_K6YBjTY6IEHnhMF1EA?e=6tQGF1)
+| 📂 Sección                  | 📝 Descripción                                                                                                                                       |
+|----------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Resumen del Contenido      | Se muestra la informacion de como se desarrollo el trabajo en equipo en MarronCoders. |
+| Duración Aproximada        | 3 minutos 42 segundos                                                                                             |
+| Enlace al Archivo       | [Ver video en SharePoint](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202313419_upc_edu_pe/EWIM5YGTn_BEk9UTLIswGLwBlB3_K6YBjTY6IEHnhMF1EA?e=6tQGF1) |
+
+
 
 # Conclusiones y recomendaciones
 
