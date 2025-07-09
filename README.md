@@ -2144,6 +2144,10 @@ A continuación, se muestran las evidencias de ejecución correspondientes al Sp
 
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
+![Evidencia 3](Imagenes/deploy-f-b3.jpeg)  
+![Evidencia 4](Imagenes/deploy-f-b4.jpeg)  
+![Evidencia 5](Imagenes/deploy-f-b5.jpeg)
+![Evidencia 5](Imagenes/deploy-f-b6.jpeg)
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint
 
