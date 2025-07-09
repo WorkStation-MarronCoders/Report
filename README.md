@@ -1,4 +1,3 @@
-
 # **COURSE PROJECT**
 
 <p align="center">
@@ -185,14 +184,14 @@ Considerando la flexibildad y la adaptabilidad como puntos esenciales para el cr
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
-| Foto                                                                                   | Alumno                         | Descripción                                                                                                                                                                                                                                                                                                                 |
-| -------------------------------------------------------------------------------------- | ------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Luis](Imagenes/perfil-integrante-jeremy.png)                                         | Quijada Magro Jeremy Alexander | Estudiante de Ingeniería de Software que planea enfocarse en la gestión de proyectos. Con conocimientos básicos en programación web y bases de datos.                                                                                                                                                                       |
-| ![Rodrigo](Imagenes/rodrigo.png)                                                       | Liberato Saldaña Rodrigo       | Estudiante de Ingeniería de Software que planea enfocarse en Ciencia de Datos y Ciberseguridad. Planea dar apoyo activo al grupo y asumir el rol de líder para encaminar al equipo hacia el cumplimiento de sus metas.                                                                                                      |
-| ![Sebastian](Imagenes/sebastian.png)                                                   | Sebastián Gutarra Velapatiño   | Estudiante de 6to ciclo de Ingeniería de Software en la UPC. Se caracteriza por la perseverancia, responsabilidad, empatía y trabajo en equipo. Maneja lenguajes como C, C++, SQL y Python, y software como Visual Studio Code, Google Colab, Word y Excel.                                                               |
-| ![Luis](Imagenes/Luisfoto.png)                                                         | Jorge Luis Díaz Fiestas        | Estudiante de Ingeniería de Software, 5° ciclo. Destacado en trabajo en grupo y retroalimentación. Con conocimientos en Arduino, programación web (HTML, CSS, JS, React, TypeScript, Firebase), bases de datos (SQL, Firebase, Supabase, MongoDB, MariaDB) y lenguajes C/C++.                                             |
-| ![Emilia](Imagenes/emilia.png)                                                         | Emilia Durán Santander         | Estudiante de Ingeniería de Software, con interés en Ciberseguridad. Persona responsable con habilidades adquiridas en la carrera. Con conocimientos técnicos en C++, HTML y CSS.                                                                                                                                          |
-| ![yo](https://github.com/user-attachments/assets/3bf44175-f92b-40e4-a346-8c5a61ec71f8) | Sandro Dinklange Arévalo       | Estudiante de 18 años de Ingeniería de Software, cuarto ciclo en la UPC. Se considera una persona colaborativa, con gusto por la lectura. Cuenta con conocimientos en C++.                                                                                                                                                |
+| Foto                                                                                   | Alumno                         | Descripción                                                                                                                                                                                                                                                                   |
+| -------------------------------------------------------------------------------------- | ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Luis](Imagenes/perfil-integrante-jeremy.png)                                         | Quijada Magro Jeremy Alexander | Estudiante de Ingeniería de Software que planea enfocarse en la gestión de proyectos. Con conocimientos básicos en programación web y bases de datos.                                                                                                                         |
+| ![Rodrigo](Imagenes/rodrigo.png)                                                       | Liberato Saldaña Rodrigo       | Estudiante de Ingeniería de Software que planea enfocarse en Ciencia de Datos y Ciberseguridad. Planea dar apoyo activo al grupo y asumir el rol de líder para encaminar al equipo hacia el cumplimiento de sus metas.                                                        |
+| ![Sebastian](Imagenes/sebastian.png)                                                   | Sebastián Gutarra Velapatiño   | Estudiante de 6to ciclo de Ingeniería de Software en la UPC. Se caracteriza por la perseverancia, responsabilidad, empatía y trabajo en equipo. Maneja lenguajes como C, C++, SQL y Python, y software como Visual Studio Code, Google Colab, Word y Excel.                   |
+| ![Luis](Imagenes/Luisfoto.png)                                                         | Jorge Luis Díaz Fiestas        | Estudiante de Ingeniería de Software, 5° ciclo. Destacado en trabajo en grupo y retroalimentación. Con conocimientos en Arduino, programación web (HTML, CSS, JS, React, TypeScript, Firebase), bases de datos (SQL, Firebase, Supabase, MongoDB, MariaDB) y lenguajes C/C++. |
+| ![Emilia](Imagenes/emilia.png)                                                         | Emilia Durán Santander         | Estudiante de Ingeniería de Software, con interés en Ciberseguridad. Persona responsable con habilidades adquiridas en la carrera. Con conocimientos técnicos en C++, HTML y CSS.                                                                                             |
+| ![yo](https://github.com/user-attachments/assets/3bf44175-f92b-40e4-a346-8c5a61ec71f8) | Sandro Dinklange Arévalo       | Estudiante de 18 años de Ingeniería de Software, cuarto ciclo en la UPC. Se considera una persona colaborativa, con gusto por la lectura. Cuenta con conocimientos en C++.                                                                                                    |
 
 ## 1.2. Solution Profile
 
@@ -667,7 +666,6 @@ Entre las tareas encontradas, la que ambos User Persona coinciden en que es impo
 | Contract     | El contrato que se realiza entre Renter y Host.                                                             |
 | Review       | Las reseñas dadas del Renter al Host después del uso del Workspace, visibles para otros usuarios.           |
 
-
 # Capitulo 3
 
 ## 3.1. To-Be Scenario Mapping
@@ -922,22 +920,18 @@ Un sistema bien estructurado de SEO y Meta Tag es esencial para mejorar la visib
 
 <meta
   name="description"
-  content="WorkStation conecta freelancers con espacios de trabajo flexibles. Encuentra oficinas, coworkings y salas de reunión para potenciar tu productividad."
-/>
+  content="WorkStation conecta freelancers con espacios de trabajo flexibles. Encuentra oficinas, coworkings y salas de reunión para potenciar tu productividad." />
 <meta
   name="keywords"
-  content="coworking, alquiler oficinas, espacios de trabajo, freelancers, productividad"
-/>
+  content="coworking, alquiler oficinas, espacios de trabajo, freelancers, productividad" />
 <meta name="author" content="WorkStation Team" />
 <meta name="robots" content="index, follow" />
 <meta
   property="og:title"
-  content="WorkStation | Encuentra espacios de trabajo"
-/>
+  content="WorkStation | Encuentra espacios de trabajo" />
 <meta
   property="og:description"
-  content="Encuentra oficinas y coworkings flexibles para freelancers y emprendedores."
-/>
+  content="Encuentra oficinas y coworkings flexibles para freelancers y emprendedores." />
 <meta property="og:image" content="URL_DE_LA_IMAGEN" />
 <meta property="og:url" content="https://www.workstation.com" />
 ```
@@ -949,22 +943,18 @@ Un sistema bien estructurado de SEO y Meta Tag es esencial para mejorar la visib
 
 <meta
   name="description"
-  content="Administra reservas, pagos y comunicación entre freelancers y propietarios de espacios de trabajo con WorkStation."
-/>
+  content="Administra reservas, pagos y comunicación entre freelancers y propietarios de espacios de trabajo con WorkStation." />
 <meta
   name="keywords"
-  content="gestión de alquileres, reservas de espacios, freelancers, WorkStation, coworking"
-/>
+  content="gestión de alquileres, reservas de espacios, freelancers, WorkStation, coworking" />
 <meta name="author" content="WorkStation Team" />
 <meta name="robots" content="index, follow" />
 <meta
   property="og:title"
-  content="WorkStation | Plataforma de gestión de espacios de trabajo"
-/>
+  content="WorkStation | Plataforma de gestión de espacios de trabajo" />
 <meta
   property="og:description"
-  content="Optimiza la administración de espacios y facilita el alquiler para freelancers."
-/>
+  content="Optimiza la administración de espacios y facilita el alquiler para freelancers." />
 <meta property="og:image" content="URL_DE_LA_IMAGEN" />
 <meta property="og:url" content="https://app.workstation.com" />
 ```
@@ -1290,7 +1280,7 @@ Los diagramas de flujo de usuario (User Flow Diagrams) son herramientas visuales
 
 Este documento describe las principales clases del modelo de datos para la aplicación, junto con sus atributos y una breve descripción de su propósito.
 
-##  Clases del Modelo
+## Clases del Modelo
 
 | Clase            | Atributos                                                     | Descripción                                                      |
 | ---------------- | ------------------------------------------------------------- | ---------------------------------------------------------------- |
@@ -1299,7 +1289,7 @@ Este documento describe las principales clases del modelo de datos para la aplic
 | `Reserva`        | `id`, `usuario_id`, `espacio_id`, `fecha_inicio`, `fecha_fin` | Registra una reserva realizada por un usuario para un espacio.   |
 | `Disponibilidad` | `id`, `espacio_id`, `fecha`, `disponible`                     | Define si un espacio está disponible en una fecha específica.    |
 
-##  Relaciones entre Clases
+## Relaciones entre Clases
 
 - Un `Usuario` puede realizar muchas `Reservas`.
 - Un `Espacio` puede tener muchas `Reservas`.
@@ -1311,12 +1301,11 @@ Este documento describe las principales clases del modelo de datos para la aplic
 
 El diseño de la base de datos sigue una estructura relacional normalizada (3FN), optimizada para mantener la integridad de los datos y facilitar la escalabilidad.
 
-
 # Base de Datos: WorkSpaces
 
 Este script crea la base de datos `WorkSpaces` junto con sus respectivas tablas para gestionar usuarios, espacios de trabajo, reservas, pagos, reseñas y más.
 
-##  Estructura de la Base de Datos
+## Estructura de la Base de Datos
 
 ### Crear Base de Datos y Seleccionar Uso
 
@@ -1329,7 +1318,8 @@ GO
 
 ---
 
-###  Tabla: `users`
+### Tabla: `users`
+
 Registra los usuarios del sistema (clientes y anfitriones).
 
 ```sql
@@ -1347,6 +1337,7 @@ CREATE TABLE users (
 ---
 
 ### Tabla: `addresses`
+
 Guarda la dirección física de los espacios.
 
 ```sql
@@ -1364,7 +1355,8 @@ CREATE TABLE addresses (
 
 ---
 
-###  Tabla: `spaces`
+### Tabla: `spaces`
+
 Define los espacios de trabajo que los anfitriones publican.
 
 ```sql
@@ -1387,7 +1379,8 @@ CREATE TABLE spaces (
 
 ---
 
-###  Tabla: `availability`
+### Tabla: `availability`
+
 Registra la disponibilidad por día de cada espacio.
 
 ```sql
@@ -1403,7 +1396,8 @@ CREATE TABLE availability (
 
 ---
 
-###  Tabla: `bookings`
+### Tabla: `bookings`
+
 Contiene las reservas hechas por los clientes.
 
 ```sql
@@ -1423,7 +1417,8 @@ CREATE TABLE bookings (
 
 ---
 
-###  Tabla: `payments`
+### Tabla: `payments`
+
 Gestiona los pagos realizados por las reservas.
 
 ```sql
@@ -1440,7 +1435,8 @@ CREATE TABLE payments (
 
 ---
 
-###  Tabla: `reviews`
+### Tabla: `reviews`
+
 Permite a los usuarios dejar comentarios y puntuaciones.
 
 ```sql
@@ -1456,7 +1452,8 @@ CREATE TABLE reviews (
 
 ---
 
-###  Tabla: `space_images`
+### Tabla: `space_images`
+
 Almacena URLs de imágenes de cada espacio.
 
 ```sql
@@ -1470,7 +1467,6 @@ CREATE TABLE space_images (
 ```
 
 ---
-
 
 ### 4.8.1. Database Diagram
 
@@ -2037,86 +2033,83 @@ Aqui el URL del Backend.
 
 #### 5.2.4.1. Sprint Planning 4
 
-| Sprint #                           | Sprint 4 |
-| ---------------------------------- | -------- |
-| **Date**                           | 2025-07-06 |
-| **Time**                           | 08:00 PM |
-| **Location**                       | Reunión virtual vía Google Meet |
-| **Prepared By**                    | Jorge Luis Díaz Fiestas |
-| **Attendees (to planning meeting)**|  Liberato Rodrigo, Duran Emilia, Quijada Jeremy, Dinklange Sandro, Díaz Jorge y Gutarra Sebastian  |
-| **Sprint n - 4 Review Summary**    | En el Sprint 3 se avanzó en la creación y prueba de los endpoints principales del backend. Se establecieron rutas clave para la gestión de oficinas, usuarios y reservas. El product owner indicó que el foco debe ser completar la integración full-stack para una demo funcional. |
-| **Sprint n - 4 Retrospective Summary** | Se reconoció que hubo una buena asignación de tareas, pero faltó sincronización entre frontend y backend. Se acordó mejorar la documentación interna y validar los endpoints antes de integrarlos. El equipo propuso revisar avances dos veces por semana. |
-| **Sprint 4 Goal**                  | Integrar el backend con el frontend, optimizar el backend y lograr el despliegue completo y funcional de la aplicación tipo Airbnb enfocada en oficinas. |
-| **Sprint 4 Velocity**              | 36 Story Points |
-| **Sum of Story Points**            | 40 Story Points |
+| Sprint #                               | Sprint 4                                                                                                                                                                                                                                                                            |
+| -------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Date**                               | 2025-07-06                                                                                                                                                                                                                                                                          |
+| **Time**                               | 08:00 PM                                                                                                                                                                                                                                                                            |
+| **Location**                           | Reunión virtual vía Google Meet                                                                                                                                                                                                                                                     |
+| **Prepared By**                        | Jorge Luis Díaz Fiestas                                                                                                                                                                                                                                                             |
+| **Attendees (to planning meeting)**    | Liberato Rodrigo, Duran Emilia, Quijada Jeremy, Dinklange Sandro, Díaz Jorge y Gutarra Sebastian                                                                                                                                                                                    |
+| **Sprint n - 4 Review Summary**        | En el Sprint 3 se avanzó en la creación y prueba de los endpoints principales del backend. Se establecieron rutas clave para la gestión de oficinas, usuarios y reservas. El product owner indicó que el foco debe ser completar la integración full-stack para una demo funcional. |
+| **Sprint n - 4 Retrospective Summary** | Se reconoció que hubo una buena asignación de tareas, pero faltó sincronización entre frontend y backend. Se acordó mejorar la documentación interna y validar los endpoints antes de integrarlos. El equipo propuso revisar avances dos veces por semana.                          |
+| **Sprint 4 Goal**                      | Integrar el backend con el frontend, optimizar el backend y lograr el despliegue completo y funcional de la aplicación tipo Airbnb enfocada en oficinas.                                                                                                                            |
+| **Sprint 4 Velocity**                  | 36 Story Points                                                                                                                                                                                                                                                                     |
+| **Sum of Story Points**                | 40 Story Points                                                                                                                                                                                                                                                                     |
 
 #### 5.2.4.2. Aspect Leaders and Collaborators
 
-| Team Member (Last Name, First Name) | GitHub Username       | Frontend Integration | Backend Optimization | Deployment & Infrastructure |
-| ----------------------------------- | --------------------- | -------------------- | -------------------- | ---------------------------- |
-| Quijada Magro, Jeremy Alexander     | jhonson2021           | C                    | C                    | L                            |
-| Liberato Saldaña, Rodrigo           | Libeman10             | C                    | L                    | C                            |
-| Gutarra Velapatiño, Sebastián       | sebastiangutarra      | C                    | C                    | C                            |
-| Díaz Fiestas, Jorge Luis            | LuisDiazpe            | L                    | C                    | C                            |
-| Durán Santander, Emilia             | emiliadurans          | C                    | C                    | C                            |
-| Dinklange Arévalo, Sandro           | Sandro0406            | C                    | C                    | C                            |
-
+| Team Member (Last Name, First Name) | GitHub Username  | Frontend Integration | Backend Optimization | Deployment & Infrastructure |
+| ----------------------------------- | ---------------- | -------------------- | -------------------- | --------------------------- |
+| Quijada Magro, Jeremy Alexander     | jhonson2021      | C                    | C                    | L                           |
+| Liberato Saldaña, Rodrigo           | Libeman10        | C                    | L                    | C                           |
+| Gutarra Velapatiño, Sebastián       | sebastiangutarra | C                    | C                    | C                           |
+| Díaz Fiestas, Jorge Luis            | LuisDiazpe       | L                    | C                    | C                           |
+| Durán Santander, Emilia             | emiliadurans     | C                    | C                    | C                           |
+| Dinklange Arévalo, Sandro           | Sandro0406       | C                    | C                    | C                           |
 
 #### 5.2.4.3. Sprint Backlog 4
 
-| **Sprint #**   | Sprint 4   |        |            |                 |                      |                 |            |
-| -------------- | ---------- | ------ | ---------- | --------------- | -------------------- | --------------- | ---------- |
-| **User Story** |            |        |            |                 |                      |                 |            |
-| **ID**         | **Título**                     | **ID**   | **Título**                         | **Descripción**                                                                                         | **Estimación (hrs)** | **Assigned to**             | **Status**   |
-| US-01          | Ubicación de inmuebles         | T4-1.1  | Mostrar oficinas por ubicación     | Implementar endpoint para filtrar oficinas por ubicación y mostrar resultados en frontend.             | 6 hrs                 | Jorge Luis Díaz Fiestas     | Hecho        |
-|                |                                | T4-1.2  | Mapa interactivo                   | Mostrar ubicación geográfica usando mapa en el frontend (ej. Leaflet o Google Maps).                   | 6 hrs                 | Sandro Dinklange            | En progreso  |
-| US-02          | Disponibilidad de inmuebles    | T4-2.1  | Verificar disponibilidad           | Crear lógica backend para retornar horarios disponibles de una oficina.                               | 5 hrs                 | Rodrigo Liberato            | Hecho        |
-|                |                                | T4-2.2  | Visualizar calendario              | Mostrar calendario con disponibilidad en el frontend.                                                  | 6 hrs                 | Emilia Durán                | Pendiente    |
-| US-06          | Perfiles de inmuebles          | T4-3.1  | Detalles de inmueble               | Mostrar información completa de un inmueble (fotos, precio, aforo, etc.).                             | 7 hrs                 | Jorge Luis Díaz Fiestas     | En progreso  |
-| US-38          | Registro de Propietarios       | T4-4.1  | Crear formulario de registro       | Formulario en frontend para registrar propietarios y conexión con backend.                             | 5 hrs                 | Sebastián Gutarra           | Hecho        |
-| US-39          | Publicación de oficinas        | T4-5.1  | Backend para nueva oficina         | Endpoint para publicar una oficina con fotos, tarifas y descripción.                                  | 6 hrs                 | Jeremy Quijada              | Hecho        |
-|                |                                | T4-5.2  | UI para publicación                | Crear vista en frontend para que el propietario publique su oficina.                                  | 6 hrs                 | Sandro Dinklange            | Pendiente    |
-| US-42          | Calificar experiencia de oficina| T4-6.1 | Enviar calificación desde frontend | Crear formulario de calificación (puntuación y comentario).                                            | 4 hrs                 | Emilia Durán                | En progreso  |
-|                |                                | T4-6.2 | Guardar y mostrar reseñas          | Backend para almacenar reseñas y frontend para visualizarlas.                                          | 5 hrs                 | Rodrigo Liberato            | Pendiente    |
-
+| **Sprint #**   | Sprint 4                         |        |                                    |                                                                                            |                      |                         |             |
+| -------------- | -------------------------------- | ------ | ---------------------------------- | ------------------------------------------------------------------------------------------ | -------------------- | ----------------------- | ----------- |
+| **User Story** |                                  |        |                                    |                                                                                            |                      |                         |             |
+| **ID**         | **Título**                       | **ID** | **Título**                         | **Descripción**                                                                            | **Estimación (hrs)** | **Assigned to**         | **Status**  |
+| US-01          | Ubicación de inmuebles           | T4-1.1 | Mostrar oficinas por ubicación     | Implementar endpoint para filtrar oficinas por ubicación y mostrar resultados en frontend. | 6 hrs                | Jorge Luis Díaz Fiestas | Hecho       |
+|                |                                  | T4-1.2 | Mapa interactivo                   | Mostrar ubicación geográfica usando mapa en el frontend (ej. Leaflet o Google Maps).       | 6 hrs                | Sandro Dinklange        | En progreso |
+| US-02          | Disponibilidad de inmuebles      | T4-2.1 | Verificar disponibilidad           | Crear lógica backend para retornar horarios disponibles de una oficina.                    | 5 hrs                | Rodrigo Liberato        | Hecho       |
+|                |                                  | T4-2.2 | Visualizar calendario              | Mostrar calendario con disponibilidad en el frontend.                                      | 6 hrs                | Emilia Durán            | Pendiente   |
+| US-06          | Perfiles de inmuebles            | T4-3.1 | Detalles de inmueble               | Mostrar información completa de un inmueble (fotos, precio, aforo, etc.).                  | 7 hrs                | Jorge Luis Díaz Fiestas | En progreso |
+| US-38          | Registro de Propietarios         | T4-4.1 | Crear formulario de registro       | Formulario en frontend para registrar propietarios y conexión con backend.                 | 5 hrs                | Sebastián Gutarra       | Hecho       |
+| US-39          | Publicación de oficinas          | T4-5.1 | Backend para nueva oficina         | Endpoint para publicar una oficina con fotos, tarifas y descripción.                       | 6 hrs                | Jeremy Quijada          | Hecho       |
+|                |                                  | T4-5.2 | UI para publicación                | Crear vista en frontend para que el propietario publique su oficina.                       | 6 hrs                | Sandro Dinklange        | Pendiente   |
+| US-42          | Calificar experiencia de oficina | T4-6.1 | Enviar calificación desde frontend | Crear formulario de calificación (puntuación y comentario).                                | 4 hrs                | Emilia Durán            | En progreso |
+|                |                                  | T4-6.2 | Guardar y mostrar reseñas          | Backend para almacenar reseñas y frontend para visualizarlas.                              | 5 hrs                | Rodrigo Liberato        | Pendiente   |
 
 #### 5.2.4.4. Development Evidence for Sprint Review
 
 Backend:
 
-| Repository        | Branch   | Commit ID | Commit Message                          | Commit Message Body                                                                                      | Committed on (Date) |
-| ----------------- | -------- | ----------| ---------------------------------------- | --------------------------------------------------------------------------------------------------------- | ------------------- |
-| workstation-app   | develop  | f7a8c9d   | Merge pull request #2 from develop       | Se fusionó la rama `develop` al main consolidando los cambios de contexto Rating y Office.                | 2025-06-12          |
-| workstation-app   | feature/Rating-Context | d9c3e0a   | Add Rating context                      | Se agregó el modelo, repositorio, servicio, controlador y endpoints del contexto Rating.                  | 2025-06-12          |
-| workstation-app   | develop  | a2b1f6c   | feat(Shared): added dbset to Office     | Se añadió el `DbSet` de Office y se conectó con `OfficeService`.                                         | 2025-06-11          |
-| workstation-app   | develop  | b5e2d7f   | feat(OfficeContext): add relations      | Se agregaron relaciones entre Office y OfficeService.                                                    | 2025-06-11          |
-| workstation-app   | develop  | 4f9c01a   | feat: added Office Context              | Implementación inicial del contexto de oficinas.                                                          | 2025-06-10          |
-| workstation-app   | develop  | 1c3d9e8   | feat: added Shared Context              | Se agregó contexto compartido y configuraciones generales.                                                | 2025-06-07          |
-| workstation-app   | develop  | 8a6f21d   | feat: added complex validations         | Se implementaron validaciones avanzadas para el módulo Services.                                          | 2025-06-07          |
-| workstation-app   | develop  | 2b7e0cf   | fix: added swagger documentation        | Se añadió Swagger para documentación automática de la API.                                                | 2025-07-01          |
-| workstation-app   | main     | 9e3f1da   | Add/update Azure deployment workflow    | Se añadió o actualizó la configuración de despliegue en Azure App Service.                               | 2025-06-20          |
-| workstation-app   | develop  | 0ac45bc   | fix(OfficeContext): Postman compatibility| Ajustes en OfficeContext para ser visible correctamente en Postman.                                      | 2025-06-20          |
-| workstation-app   | develop  | 38bfe1a   | Feat: Adding User Context               | Se creó el contexto de usuarios (modelo, servicio y repositorio base).                                    | 2025-06-20          |
-| workstation-app   | develop  | 7ac9b8e   | Fix: Adding Controller                  | Se añadió un nuevo controlador para la entidad correspondiente.                                           | 2025-06-20          |
-| workstation-app   | develop  | 6cbd3ef   | fix: builders                           | Ajustes menores en los builders de entidades.                                                             | 2025-06-20          |
-| workstation-app   | develop  | 5bc83ad   | fix(Shared): Guid fix in FindByIdAsync  | Se modificó el método `FindByIdAsync` para utilizar `Guid` en vez de `int`.                               | 2025-06-19          |
+| Repository      | Branch                 | Commit ID | Commit Message                            | Commit Message Body                                                                        | Committed on (Date) |
+| --------------- | ---------------------- | --------- | ----------------------------------------- | ------------------------------------------------------------------------------------------ | ------------------- |
+| workstation-app | develop                | f7a8c9d   | Merge pull request #2 from develop        | Se fusionó la rama `develop` al main consolidando los cambios de contexto Rating y Office. | 2025-06-12          |
+| workstation-app | feature/Rating-Context | d9c3e0a   | Add Rating context                        | Se agregó el modelo, repositorio, servicio, controlador y endpoints del contexto Rating.   | 2025-06-12          |
+| workstation-app | develop                | a2b1f6c   | feat(Shared): added dbset to Office       | Se añadió el `DbSet` de Office y se conectó con `OfficeService`.                           | 2025-06-11          |
+| workstation-app | develop                | b5e2d7f   | feat(OfficeContext): add relations        | Se agregaron relaciones entre Office y OfficeService.                                      | 2025-06-11          |
+| workstation-app | develop                | 4f9c01a   | feat: added Office Context                | Implementación inicial del contexto de oficinas.                                           | 2025-06-10          |
+| workstation-app | develop                | 1c3d9e8   | feat: added Shared Context                | Se agregó contexto compartido y configuraciones generales.                                 | 2025-06-07          |
+| workstation-app | develop                | 8a6f21d   | feat: added complex validations           | Se implementaron validaciones avanzadas para el módulo Services.                           | 2025-06-07          |
+| workstation-app | develop                | 2b7e0cf   | fix: added swagger documentation          | Se añadió Swagger para documentación automática de la API.                                 | 2025-07-01          |
+| workstation-app | main                   | 9e3f1da   | Add/update Azure deployment workflow      | Se añadió o actualizó la configuración de despliegue en Azure App Service.                 | 2025-06-20          |
+| workstation-app | develop                | 0ac45bc   | fix(OfficeContext): Postman compatibility | Ajustes en OfficeContext para ser visible correctamente en Postman.                        | 2025-06-20          |
+| workstation-app | develop                | 38bfe1a   | Feat: Adding User Context                 | Se creó el contexto de usuarios (modelo, servicio y repositorio base).                     | 2025-06-20          |
+| workstation-app | develop                | 7ac9b8e   | Fix: Adding Controller                    | Se añadió un nuevo controlador para la entidad correspondiente.                            | 2025-06-20          |
+| workstation-app | develop                | 6cbd3ef   | fix: builders                             | Ajustes menores en los builders de entidades.                                              | 2025-06-20          |
+| workstation-app | develop                | 5bc83ad   | fix(Shared): Guid fix in FindByIdAsync    | Se modificó el método `FindByIdAsync` para utilizar `Guid` en vez de `int`.                | 2025-06-19          |
 
 Frontend:
 
-| Repository     | Branch   | Commit ID | Commit Message                                | Commit Message Body                                                                                             | Committed on (Date) |
-| -------------- | -------- | ----------| --------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ------------------- |
-| frontend-web   | develop  | 3fae2d1   | feat(profile): added update user function     | Se agregó funcionalidad para actualizar datos del perfil desde la interfaz y conectarlo al backend.            | 2025-07-05          |
-| frontend-web   | develop  | 8b4c902   | feat(searchContext): backend connection       | Se integró el buscador y filtros con el backend para mostrar resultados dinámicos de oficinas.                 | 2025-07-05          |
-| frontend-web   | develop  | b89e11f   | feat(Profile): show user info from backend    | Se conectó la vista de perfil con el backend para mostrar datos reales del usuario logueado.                   | 2025-07-05          |
-| frontend-web   | develop  | 1ac409c   | feat: imported Toast, added UpdateOffice      | Se implementó la notificación Toast y vista para actualización de propiedades por parte del propietario.       | 2025-07-04          |
-| frontend-web   | develop  | 9fbc211   | fix(Properties): fixed Get, Post, Delete      | Se corrigieron errores de conexión en las operaciones CRUD sobre propiedades.                                  | 2025-07-04          |
-| frontend-web   | develop  | 7e4a813   | fix: adapted frontend to backend              | Se ajustó el frontend para conectarlo con la estructura y rutas del backend.                                   | 2025-07-02          |
-| frontend-web   | develop  | 298d20e   | feat: added responsive and aria-labels        | Se mejoró la accesibilidad y responsividad en todas las páginas.                                               | 2025-06-19          |
-| frontend-web   | develop  | 59b31a0   | feat: added properties-view                   | Se agregó la vista que muestra las propiedades registradas por los propietarios.                               | 2025-05-14          |
-| frontend-web   | develop  | f2d8eaf   | feat(add-property): improved UI and layout    | Se mejoró el formulario de publicación de oficinas incluyendo nuevos campos, estilos CSS y Navbar.             | 2025-05-14          |
-| frontend-web   | develop  | 6143adc   | feat: added dashboard and images              | Se añadió el panel principal con vistas de navegación inicial para el usuario autenticado.                     | 2025-05-10          |
-| frontend-web   | develop  | c6fa8bc   | feat: login, register, password recovery      | Se crearon las vistas para login, registro, cambio y recuperación de contraseña.                               | 2025-05-07          |
-
+| Repository   | Branch  | Commit ID | Commit Message                             | Commit Message Body                                                                                      | Committed on (Date) |
+| ------------ | ------- | --------- | ------------------------------------------ | -------------------------------------------------------------------------------------------------------- | ------------------- |
+| frontend-web | develop | 3fae2d1   | feat(profile): added update user function  | Se agregó funcionalidad para actualizar datos del perfil desde la interfaz y conectarlo al backend.      | 2025-07-05          |
+| frontend-web | develop | 8b4c902   | feat(searchContext): backend connection    | Se integró el buscador y filtros con el backend para mostrar resultados dinámicos de oficinas.           | 2025-07-05          |
+| frontend-web | develop | b89e11f   | feat(Profile): show user info from backend | Se conectó la vista de perfil con el backend para mostrar datos reales del usuario logueado.             | 2025-07-05          |
+| frontend-web | develop | 1ac409c   | feat: imported Toast, added UpdateOffice   | Se implementó la notificación Toast y vista para actualización de propiedades por parte del propietario. | 2025-07-04          |
+| frontend-web | develop | 9fbc211   | fix(Properties): fixed Get, Post, Delete   | Se corrigieron errores de conexión en las operaciones CRUD sobre propiedades.                            | 2025-07-04          |
+| frontend-web | develop | 7e4a813   | fix: adapted frontend to backend           | Se ajustó el frontend para conectarlo con la estructura y rutas del backend.                             | 2025-07-02          |
+| frontend-web | develop | 298d20e   | feat: added responsive and aria-labels     | Se mejoró la accesibilidad y responsividad en todas las páginas.                                         | 2025-06-19          |
+| frontend-web | develop | 59b31a0   | feat: added properties-view                | Se agregó la vista que muestra las propiedades registradas por los propietarios.                         | 2025-05-14          |
+| frontend-web | develop | f2d8eaf   | feat(add-property): improved UI and layout | Se mejoró el formulario de publicación de oficinas incluyendo nuevos campos, estilos CSS y Navbar.       | 2025-05-14          |
+| frontend-web | develop | 6143adc   | feat: added dashboard and images           | Se añadió el panel principal con vistas de navegación inicial para el usuario autenticado.               | 2025-05-10          |
+| frontend-web | develop | c6fa8bc   | feat: login, register, password recovery   | Se crearon las vistas para login, registro, cambio y recuperación de contraseña.                         | 2025-05-07          |
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
 
@@ -2128,23 +2121,22 @@ A continuación, se muestran las evidencias de ejecución correspondientes al Sp
 ![Evidencia 4](Imagenes/deploy-f-b4.jpeg)  
 ![Evidencia 5](Imagenes/deploy-f-b5.jpeg)
 
-
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
-| Nombre de Endpoint               | Acciones Implementadas | Sintaxis de llamada                                          | Especificación de parámetros                          | Ejemplo de llamada                                                | Explicación del Response                                                   |
-| -------------------------------- | ---------------------- | ------------------------------------------------------------ | ----------------------------------------------------- | ----------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| Crear Rating                     | POST                   | `/api/workstation/Rating`                                   | Body: `CreateRatingCommand`                           | POST `/api/workstation/Rating` con body `{ "officeId": 1, "rating": 5 }` | Retorna 201 Created con el objeto Rating creado.                          |
-| Obtener Ratings por Oficina      | GET                    | `/api/workstation/Rating/office/{officeId}`                 | Path: `officeId` (int)                                | GET `/api/workstation/Rating/office/3`                              | Lista de calificaciones asociadas a la oficina 3.                         |
-| Obtener Promedio de Rating       | GET                    | `/api/workstation/Rating/office/{officeId}/average`         | Path: `officeId` (int)                                | GET `/api/workstation/Rating/office/3/average`                      | Devuelve el promedio de las calificaciones de la oficina 3.               |
-| Obtener Todos los Usuarios       | GET                    | `/api/workstation/User`                                     | Ninguno                                               | GET `/api/workstation/User`                                        | Lista completa de usuarios registrados.                                   |
-| Obtener Usuario por ID           | GET                    | `/api/workstation/User/{id}`                                | Path: `id` (int)                                      | GET `/api/workstation/User/2`                                      | Detalles del usuario con ID 2.                                            |
-| Actualizar Usuario               | PUT                    | `/api/workstation/User/{id}`                                | Path: `id` (int), Body: `UpdateUserCommand`           | PUT `/api/workstation/User/2` con body `{...}`                     | Actualiza los datos del usuario especificado.                             |
-| Eliminar Usuario                 | DELETE                 | `/api/workstation/User/{id}`                                | Path: `id` (int)                                      | DELETE `/api/workstation/User/2`                                   | Elimina al usuario con ID 2. Retorna 204 No Content.                      |
-| Registrar Usuario                | POST                   | `/api/workstation/User/sign-up`                             | Body: `CreateUserCommand`                             | POST `/api/workstation/User/sign-up` con body `{...}`              | Retorna 201 Created con los datos del nuevo usuario.                      |
-| Login de Usuario                 | POST                   | `/api/workstation/User/login`                               | Body: `LoginCommand`                                  | POST `/api/workstation/User/login` con body `{ "email": "test@mail.com", "password": "1234" }` | Retorna un token JWT si las credenciales son válidas.                     |
-
+| Nombre de Endpoint          | Acciones Implementadas | Sintaxis de llamada                                 | Especificación de parámetros                | Ejemplo de llamada                                                                             | Explicación del Response                                    |
+| --------------------------- | ---------------------- | --------------------------------------------------- | ------------------------------------------- | ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| Crear Rating                | POST                   | `/api/workstation/Rating`                           | Body: `CreateRatingCommand`                 | POST `/api/workstation/Rating` con body `{ "officeId": 1, "rating": 5 }`                       | Retorna 201 Created con el objeto Rating creado.            |
+| Obtener Ratings por Oficina | GET                    | `/api/workstation/Rating/office/{officeId}`         | Path: `officeId` (int)                      | GET `/api/workstation/Rating/office/3`                                                         | Lista de calificaciones asociadas a la oficina 3.           |
+| Obtener Promedio de Rating  | GET                    | `/api/workstation/Rating/office/{officeId}/average` | Path: `officeId` (int)                      | GET `/api/workstation/Rating/office/3/average`                                                 | Devuelve el promedio de las calificaciones de la oficina 3. |
+| Obtener Todos los Usuarios  | GET                    | `/api/workstation/User`                             | Ninguno                                     | GET `/api/workstation/User`                                                                    | Lista completa de usuarios registrados.                     |
+| Obtener Usuario por ID      | GET                    | `/api/workstation/User/{id}`                        | Path: `id` (int)                            | GET `/api/workstation/User/2`                                                                  | Detalles del usuario con ID 2.                              |
+| Actualizar Usuario          | PUT                    | `/api/workstation/User/{id}`                        | Path: `id` (int), Body: `UpdateUserCommand` | PUT `/api/workstation/User/2` con body `{...}`                                                 | Actualiza los datos del usuario especificado.               |
+| Eliminar Usuario            | DELETE                 | `/api/workstation/User/{id}`                        | Path: `id` (int)                            | DELETE `/api/workstation/User/2`                                                               | Elimina al usuario con ID 2. Retorna 204 No Content.        |
+| Registrar Usuario           | POST                   | `/api/workstation/User/sign-up`                     | Body: `CreateUserCommand`                   | POST `/api/workstation/User/sign-up` con body `{...}`                                          | Retorna 201 Created con los datos del nuevo usuario.        |
+| Login de Usuario            | POST                   | `/api/workstation/User/login`                       | Body: `LoginCommand`                        | POST `/api/workstation/User/login` con body `{ "email": "test@mail.com", "password": "1234" }` | Retorna un token JWT si las credenciales son válidas.       |
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
 ![Evidencia 3](Imagenes/deploy-f-b3.jpeg)  
 ![Evidencia 4](Imagenes/deploy-f-b4.jpeg)  
 ![Evidencia 5](Imagenes/deploy-f-b5.jpeg)
@@ -2154,9 +2146,15 @@ A continuación, se muestran las evidencias de ejecución correspondientes al Sp
 
 ##### Report
 
+![insightsReport](Imagenes/sprint4-insights3.png)
+
 ##### Frontend
 
+![insightsFrontend](Imagenes/sprint4-insights2.png)
+
 ##### Backend
+
+![insightsBackend](Imagenes/sprint4-insights1.png)
 
 ## 5.3. Validation Interviews.
 
@@ -2195,43 +2193,46 @@ Para esta entrevista, se eligio a una persona que busca y compara precios de ofi
 Entrevista Numero 3: Javier Arevalo
 
 URL: https://youtu.be/D3GxAFLeHeE
-Con respeto a esta entrevista, elegimos a un propietario de oficina, nos contó su experiencia sobre el uso de nuestra plataforma. Se nos pidió mejor las interfaces y agrandar los textos. Esta retroalimentación sirve para optimizar la aplicación en futuras iteraciones, priorizando una experiencia más completa y eficaz para los propietarios en la siguiente versión. 
+Con respeto a esta entrevista, elegimos a un propietario de oficina, nos contó su experiencia sobre el uso de nuestra plataforma. Se nos pidió mejor las interfaces y agrandar los textos. Esta retroalimentación sirve para optimizar la aplicación en futuras iteraciones, priorizando una experiencia más completa y eficaz para los propietarios en la siguiente versión.
 
 ### 5.3.3. Evaluaciones según heurísticas.
+
 #### Escala de Severidad
 
-| Nivel | Descripción |
-|-------|-------------|
-| 1     | Problema superficial: Es poco común o fácil de sortear por el usuario. No requiere atención inmediata, salvo que haya tiempo disponible. |
+| Nivel | Descripción                                                                                                                                                                         |
+| ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1     | Problema superficial: Es poco común o fácil de sortear por el usuario. No requiere atención inmediata, salvo que haya tiempo disponible.                                            |
 | 2     | Problema menor: Puede presentarse con mayor frecuencia o resultar algo más complicado para el usuario. Es recomendable resolverlo, aunque con baja prioridad, en futuras versiones. |
-| 3     | Problema mayor: Sucede con regularidad o el usuario no puede resolverlo por sí mismo. Debe ser atendido con prioridad alta.. |
-| 4     | Problema muy grave: errores que impiden que el usuario continúe utilizando la herramienta. Debe repararse antes del lanzamiento.. |
+| 3     | Problema mayor: Sucede con regularidad o el usuario no puede resolverlo por sí mismo. Debe ser atendido con prioridad alta..                                                        |
+| 4     | Problema muy grave: errores que impiden que el usuario continúe utilizando la herramienta. Debe repararse antes del lanzamiento..                                                   |
 
 #### Tabla Resumen
 
-| # | Problema                                                                 | Escala de severidad | Heurística/Principio violado       | Tarea evaluada                                  |
-|---|---------------------------------------------------------------------------|----------------------|-------------------------------------|-------------------------------------------------|
-| 1 |   Diseño inconsistente entre lo estético y minimalista           |1                   |Diseño estético y minimalista      |Navegación entre login y dashboard 
-| 2 |      Espacio vacío excesivo en la vista de perfil| 1                    | Diseño estético y minimalista         | Visualizar perfil    |Visualizar perfil
-| 3 |    El diseño y los elementos visuales no son del todo consistentes: el login tiene una estética moderna, pero las demás vistas no. | 2                     |Flexibilidad y eficiencia del usuario          |Visualizar página      |
+| #   | Problema                                                                                                                        | Escala de severidad | Heurística/Principio violado          | Tarea evaluada                     |
+| --- | ------------------------------------------------------------------------------------------------------------------------------- | ------------------- | ------------------------------------- | ---------------------------------- |
+| 1   | Diseño inconsistente entre lo estético y minimalista                                                                            | 1                   | Diseño estético y minimalista         | Navegación entre login y dashboard |
+| 2   | Espacio vacío excesivo en la vista de perfil                                                                                    | 1                   | Diseño estético y minimalista         | Visualizar perfil                  |
+| 3   | El diseño y los elementos visuales no son del todo consistentes: el login tiene una estética moderna, pero las demás vistas no. | 2                   | Flexibilidad y eficiencia del usuario | Visualizar página                  |
 
 #### Recomendaciones
 
-- **Problema 1: Diseño inconsistente entre lo estético y minimalista**  
+- **Problema 1: Diseño inconsistente entre lo estético y minimalista**
+
   - **Tarea Evaluada:** Navegación entre login y dashboard
   - **Recomendación:** Unificar la línea gráfica entre pantallas. El diseño del login es moderno y atractivo, pero contrasta fuertemente con el resto de vistas.
 
-- **Problema 2: Espacio vacío excesivo en la vista de perfil**  
-  - **Tarea Evaluada:** Visualizar perfil
-  - **Recomendación:**  Optimizar el espacio con una mejor distribución de la información. Se pueden agrupar los datos del usuario en tarjetas, añadir un avatar más visible, y mostrar botones de acción adicionales
+- **Problema 2: Espacio vacío excesivo en la vista de perfil**
 
-- **Problema 3: El diseño y los elementos visuales no son del todo consistentes**  
-  - **Tarea Evaluada:** Visualizar página  
-  - **Recomendación:** Además de unificar el estilo visual, incorporar componentes reutilizables  lo que permite la curva de aprendizaje al reconocer patrones visuales comunes.
+  - **Tarea Evaluada:** Visualizar perfil
+  - **Recomendación:** Optimizar el espacio con una mejor distribución de la información. Se pueden agrupar los datos del usuario en tarjetas, añadir un avatar más visible, y mostrar botones de acción adicionales
+
+- **Problema 3: El diseño y los elementos visuales no son del todo consistentes**
+  - **Tarea Evaluada:** Visualizar página
+  - **Recomendación:** Además de unificar el estilo visual, incorporar componentes reutilizables lo que permite la curva de aprendizaje al reconocer patrones visuales comunes.
 
 ## 5.4. Video About-the-Product.
 
-
+URL: [https://drive.google.com/file/d/1AteZ2_jl6jAlY1GHJR3ZlWKPPnhYvx4B/view?usp=sharing](https://drive.google.com/file/d/1AteZ2_jl6jAlY1GHJR3ZlWKPPnhYvx4B/view?usp=sharing)
 
 ## 5.5. Video About-the-Team.
 
@@ -2272,4 +2273,3 @@ URL: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202313419_upc_edu_pe/EW
 
 5. **Planificar nuevos sprints enfocados en crecimiento funcional**  
    A partir del feedback obtenido, se recomienda definir próximos sprints orientados a funcionalidades adicionales como notificaciones, gestión avanzada de pagos, alertas de disponibilidad, y mejoras en la experiencia de usuario.
-
