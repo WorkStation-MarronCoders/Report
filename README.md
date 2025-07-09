@@ -36,11 +36,24 @@ Aplicaciones Web <br>
 
 | Versión | Fecha      | Autor(es)                                                                                        | Descripción de la modificación              |
 | ------- | ---------- | ------------------------------------------------------------------------------------------------ | ------------------------------------------- |
-| TB1     | 25-04-2025 | Liberato Rodrigo, Duran Emilia, Quijada Jeremy, Dinklange Sandro, Díaz Jorge y Gutarra Sebastian | Se completaron los 5 capítulos del reporte. |
+| TB1     | 25-04-2025 | Liberato Rodrigo, Duran Emilia, Quijada Jeremy, Dinklange Sandro, Díaz Jorge y Gutarra Sebastian | Se completaron los 5 capítulos del reporte. | 
+| TP     | 25-05-2025 | Liberato Rodrigo, Duran Emilia, Quijada Jeremy, Dinklange Sandro, Díaz Jorge y Gutarra Sebastian | Se realizo el desarrollo del Sprint 2| 
+| TB2     | 27-06-2025 | Liberato Rodrigo, Quijada Jeremy e Díaz Jorge | Se realizo el product bacjlog y el desarrollo del Sprint 3|
+| TF     | 09-07-2025 | Liberato Rodrigo, Quijada Jeremy e Díaz Jorgen | Se realizo la finalizacion de todos los Sprint y del resporte de la aplicacion WorkStation | 
 
 # Project Report Collaboration Insights
 
-TB1: ![insights](Imagenes/insights.png)
+TB1: 
+![insights](Imagenes/insights.png)
+
+TP: 
+![insights](Imagenes/insights.png)
+
+TB2: 
+![insights](Imagenes/Insight.png)
+
+TF: 
+![insights](Imagenes/Insight.png)
 
 # Student Outcome
 
@@ -1944,11 +1957,11 @@ Para este sprint se mantivieron los todos los colaboradores del equipo y los mis
 | -------------- | -------------------------------- | ------ | ------------------------------ | --------------------------------------------------------------------------------------------------------------------------- | -------------------- | --------------- | ---------- |
 | **User Story** |                                  |        |                                |                                                                                                                             |                      |                 |            |
 | **ID**         | **Título**                       | **ID** | **Título**                     | **Descripción**                                                                                                             | **Estimación (hrs)** | **Assigned to** | **Status** |
-| US-38          | Registro de Propietarios         | T22    | Registrar nuevo propietario    | Como propietario, quiero registrar mis datos para poder publicar oficinas y administrar mis espacios                        | 4                    |                 | Done       |
-| US-39          | Publicación de Oficinas          | T23    | Publicar oficina disponible    | Como propietario, quiero publicar detalles de mis oficinas disponibles para que los freelancers puedan verlas y reservarlas | 5                    |                 | Done       |
-| US-40          | Mensajes entre usuarios          | T24    | Comunicación entre usuarios    | Como usuario, quiero enviar y recibir mensajes para poder comunicarme con el propietario o el freelancer                    | 6                    |                 | Done       |
-| US-41          | Búsqueda avanzada de oficinas    | T25    | Filtros de búsqueda de oficina | Como freelancer, quiero filtrar oficinas por servicios, precio, capacidad y ubicación para encontrar la opción ideal        | 6                    |                 | Done       |
-| US-42          | Calificar experiencia de oficina | T26    | Enviar calificación de oficina | Como freelancer, quiero calificar la oficina y al propietario para ayudar a otros usuarios a tomar decisiones informadas    | 4                    |                 | Done       |
+| US-38          | Registro de Propietarios         | T22    | Registrar nuevo propietario    | Como propietario, quiero registrar mis datos para poder publicar oficinas y administrar mis espacios                        | 4                    |      Jeremy Quijada           | Done       |
+| US-39          | Publicación de Oficinas          | T23    | Publicar oficina disponible    | Como propietario, quiero publicar detalles de mis oficinas disponibles para que los freelancers puedan verlas y reservarlas | 5                    |      Jeremy Quijada            | Done       |
+| US-40          | Mensajes entre usuarios          | T24    | Comunicación entre usuarios    | Como usuario, quiero enviar y recibir mensajes para poder comunicarme con el propietario o el freelancer                    | 6                    |     Luis Diaz            | Done       |
+| US-41          | Búsqueda avanzada de oficinas    | T25    | Filtros de búsqueda de oficina | Como freelancer, quiero filtrar oficinas por servicios, precio, capacidad y ubicación para encontrar la opción ideal        | 6                    |       Jeremy Quijada           | Done       |
+| US-42          | Calificar experiencia de oficina | T26    | Enviar calificación de oficina | Como freelancer, quiero calificar la oficina y al propietario para ayudar a otros usuarios a tomar decisiones informadas    | 4                    |      Rodrigo Liberato           | Done       |
 
 #### 5.2.3.4. Development Evidence for Sprint Review
 
