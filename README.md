@@ -2152,6 +2152,12 @@ A continuación, se muestran las evidencias de ejecución correspondientes al Sp
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint
 
+##### Report
+
+##### Frontend
+
+##### Backend
+
 ## 5.3. Validation Interviews.
 
 ### 5.3.1. Diseño de Entrevistas.
@@ -2225,9 +2231,11 @@ Con respeto a esta entrevista, elegimos a un propietario de oficina, nos contó 
 
 ## 5.4. Video About-the-Product.
 
+
+
 ## 5.5. Video About-the-Team.
 
-URL: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215623_upc_edu_pe/EVfUi4DHyEpFsWcHz8GyzFEB328mZOCqOwOKGFY6itsIgA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=kmGgp6](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202313419_upc_edu_pe/EWIM5YGTn_BEk9UTLIswGLwBlB3_K6YBjTY6IEHnhMF1EA?e=6tQGF1)
+URL: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202313419_upc_edu_pe/EWIM5YGTn_BEk9UTLIswGLwBlB3_K6YBjTY6IEHnhMF1EA?e=6tQGF1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202313419_upc_edu_pe/EWIM5YGTn_BEk9UTLIswGLwBlB3_K6YBjTY6IEHnhMF1EA?e=6tQGF1)
 
 # Conclusiones y recomendaciones
 
